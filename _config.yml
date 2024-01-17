@@ -1,5 +1,4 @@
 # The Site Configuration
-destination: /var/www/html
 
 # Import the theme
 theme: jekyll-theme-chirpy
