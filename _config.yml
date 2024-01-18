@@ -1,5 +1,7 @@
 # The Site Configuration
+#git push check
 destination: /var/www/html
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -23,7 +25,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "http://192.168.1.23/"
+url: "http://jakturo.github.io/"
 
 github:
   username: jakturo # change to your github username
