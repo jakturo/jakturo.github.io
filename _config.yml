@@ -1,5 +1,4 @@
 # The Site Configuration
-#git labadaba dab dab
 destination: /var/www/html
 
 # Import the theme
