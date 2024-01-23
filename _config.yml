@@ -29,8 +29,8 @@ url: "https://jakturo.github.io/"
 github:
   username: jakturo # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+instagram:
+  username: nieumiemwludzi # change to your twitter username
 
 social:
   # Change to your full name.
@@ -119,7 +119,7 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
-# ------------ The following options are not recommended to be modified ------------------
+# ------------ The following options are not recommended to be modified ----------------------------------------------------------------
 
 kramdown:
   syntax_highlighter: rouge
