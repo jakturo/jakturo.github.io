@@ -1,6 +1,7 @@
 ---
 layout: archives
-title: Starsze posty
-icon: fas fa-archive
+title: Wszystkie posty
+icon: fas fa-calendar-days 
 order: 1
 ---
+

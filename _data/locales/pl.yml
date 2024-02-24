@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Strona główna
+  home: Posty
   categories: Kategorie
   tags: Tagi
-  archives: Starsze posty
-  about: O autorze
+  archives: Wszystkie posty
+  about: Co u mnie
 
 # the text displayed in the search bar & search results
 search:
@@ -40,7 +40,7 @@ copyright:
     Except where otherwise noted, the blog posts on this site are licensed
     under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
 
-meta: Motyw :THEME napisany z :PLATFORM.
+meta: # Motyw :THEME napisany z :PLATFORM.
 
 not_found:
   statment: Strona do której Cię skierowano znikła.

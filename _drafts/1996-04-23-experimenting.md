@@ -1,5 +1,5 @@
 ## You can see me. 
 
-You can also see [:embeded section](/nutshells/nutshell/can)
+You can also see [:embeded section](/nutshells/nutshell)
 
 
