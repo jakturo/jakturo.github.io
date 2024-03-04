@@ -8,7 +8,7 @@ order: 2
 
 <!-- tutaj zdjecie mojej mordy-->
 
-<img src="/assets/img/profilowe.jpg" alt="Hej, to moja twarz" width="30%"/>
+<img src="/assets/img/profilowe.jpg" alt="Hej, to moja twarz" width="50%"/>
 
 # Cześć,
 
