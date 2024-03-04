@@ -29,6 +29,6 @@ Trafiłem tam nie na Kapelusznika, a na Tatianę Mac[^1], kobietę która zwiewn
 <hr>
 <br>
 
-[^1]: [Post Tatiany Mac o statycznych generatorach stron](https://www.tatianamac.com/posts/beginner-eleventy-tutorial-parti)
-[^2]: Jak cywilizacje „zapominają” technologie – [występienie Jonathana Blowa](https://www.youtube.com/watch?v=ZSRHeXYDLko)
-[^3]: [:Teoria zbitych okien](/nutshells/about/zbite_okna)
+[^1]: [Post Tatiany Mac](https://www.tatianamac.com/posts/beginner-eleventy-tutorial-parti) o statycznych generatorach stron
+[^2]: [Jak cywilizacje „zapominają” technologie](https://www.youtube.com/watch?v=ZSRHeXYDLko) – wystąpienie Jonathana Blowa
+[^3]: [:Teoria zbitych okien](/nutshells/about/zbite_okna) – wyjaśnienie w trzech zdaniach 
