@@ -8,6 +8,7 @@ order: 2
 <img src="/assets/img/profilowe.jpg" alt="Hej, to moja twarz" style="height: 30vh"/>
 
 
+
 # Cześć,
 
 jestem człowiekiem. Poznaję świat po swojemu. Lubię przykłady i metafory. Mam licencję na filozofowanie. Niedługo będę miał też licencję na psychologowanie. Lubię dawać ludziom wędki, czyli udzielać trudnych odpowiedzi na proste pytania. Uważam, że kiedy podczas rozmowy ktoś zapewnia mi kontekst, to znaczy, że jest życzliwy. Wydaje mi się, że jakość świata można łatwo zmierzyć zaufaniem, na jakie mogą pozwolić wobec siebie obcy ludzie. 
