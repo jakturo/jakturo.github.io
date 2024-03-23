@@ -5,7 +5,7 @@ icon: fas fa-user
 order: 2
 
 ---
-<img src="/assets/img/profilowe.jpg" alt="Hej, to moja twarz" style="height: 30vh"/>
+<img src="assets/img/profilowe.jpg" alt="Hej, to moja twarz" style="height: 30vh"/>
 
 
 
