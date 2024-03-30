@@ -5,24 +5,26 @@ image: assets/img/speed/bessie1200x630.jpg
 Wysiłek wytrzymałościowy (bieganie, rower, jazda na rolkach itp.) bywa dobrą metaforą życia. 
 Zarówno w życiu, jak i w jeździe na rolkach, serce mówi czasem zupełnie coś innego niż mózg. 
 Konflikt serce-mózg przydarzył mi się podczas jazdy w Lasach Kozłowieckich. 
-Gdyby ktoś pytał "Jak niby można jeździć na rolkach po lesie?", odpowiadam: ![droga w lesie kozłowieckim](assets/img/speed/lasowanie.jpg)
+Gdyby ktoś pytał "Jak niby można jeździć na rolkach w lesie?", odpowiadam: ![droga w lesie kozłowieckim](assets/img/speed/lasowanie.jpg)
 Jest tam asfalt. 
 
 Miała być luźna przejażdżka, a wyszło jak zwykle – nie oszczędzałem nóg, ani serca. Przy okazji zaobserwowałem ciekawą zależnośc: łatwiej mi wycisnąć z serca 100% mocy kiedy jadę z górki. Szczegóły widać na wykresie, który zaraz wyjaśnię. ![wykres](assets/img/speed/wykres.jpg)
 
-## A: Jadąc po płaskim i z górki
+## Punkt widzenia A: Jadę z górki
 
-Serce mówi: "Stary, biję 184 razy na minutę, już nie mam zapasu do cholery. No niby w zeszłym roku wycisnąłeś ze mnie 187 uderzeń na minutę, ale weź już odpuść!"
-
-Mózg mówi: "Pa jak przyjemnie! Jestem szybki! Szybki!" 
+Serce mówi:  
+– Stary, biję 184 razy na minutę, już nie mam zapasu do cholery. No niby w zeszłym roku wycisnąłeś ze mnie 187 uderzeń na minutę, ale weź już odpuść!  
+Mózg mówi:  
+– Pa jak przyjemnie! Jestem szybki! Szybki!
 
 ![im speed](assets/img/speed/speed.gif){: .normal }
 
-## B: Jadąc pod górkę
+## Punkt widzenia B: Jadę pod górkę
 
-Serce mówi: "No niby ciężko, niby biję 175 razy na minutę, ale jak się uprzeć, to jeszcze ze 12 uderzeń mam w zapasie. Możesz szybciej."
-
-Mózg mówi: "Co k**wa?! Jakie szybciej? Kiedy koniec?"
+Serce mówi:  
+– No niby ciężko, niby biję 175 razy na minutę, ale jak się uprzeć, to jeszcze ze 12 uderzeń mam w zapasie. Możesz szybciej.  
+Mózg mówi:  
+– Co k**wa?! Jakie szybciej? Kiedy koniec?
 
 ![im not speed](assets/img/speed/bessie400x250.jpg){: .normal }
 
