@@ -42,5 +42,5 @@ Pach i pach i pach i pach.
 
 Raz i dwa i trzy i czery i. 
 
-Jak w metronomie. Też czasem da radę wejść w trans, ale ogólnie jest to nudne. A jak jest nudno, to i od razu słychać jak serce krzyczy. I trzeba tego krzyku i stękania słuchać przez całą wycieczkę pod górę. Jest ciężko. Kiedy koniec?
+Jak w metronomie. Też czasem da radę wejść w trans, ale ogólnie jest to nudne. A jak jest nudno, to i od razu słychać jak serce krzyczy. I trzeba tego krzyku i stękania słuchać przez całą wycieczkę pod górę. Jest ciężko, więc... kiedy koniec?
  
