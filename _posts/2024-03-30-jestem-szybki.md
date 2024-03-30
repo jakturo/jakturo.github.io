@@ -8,7 +8,7 @@ Konflikt serce-mózg przydarzył mi się podczas jazdy w Lasach Kozłowieckich.
 Gdyby ktoś pytał "Jak niby można jeździć na rolkach po lesie?", odpowiadam: ![droga w lesie kozłowieckim](assets/img/speed/lasowanie.jpg)
 Jest tam asfalt. 
 
-Miała być luźna przejażdżka, a wyszło jak zwykle – nie oszczędzałem nóg, ani serca. Przy okazji zaobserwowałem ciekawą zależnośc: łatwiej mi wycisnąć z serca 100% mocy kiegy jadę z górki. Szczegóły widać na wykresie, który zaraz wyjaśnię. ![wykres](assets/img/speed/wykres.jpg)
+Miała być luźna przejażdżka, a wyszło jak zwykle – nie oszczędzałem nóg, ani serca. Przy okazji zaobserwowałem ciekawą zależnośc: łatwiej mi wycisnąć z serca 100% mocy kiedy jadę z górki. Szczegóły widać na wykresie, który zaraz wyjaśnię. ![wykres](assets/img/speed/wykres.jpg)
 
 ## A: Jadąc po płaskim i z górki
 
@@ -20,7 +20,7 @@ Mózg mówi: "Pa jak przyjemnie! Jestem szybki! Szybki!"
 
 ## B: Jadąc pod górkę
 
-Serce mówi: "No niby ciężko, niby biję 175 razy na minutę, ale jak się uprzeć, to jeszcze ze 12 uderzeń mam w zapasie. Możesz sybciej."
+Serce mówi: "No niby ciężko, niby biję 175 razy na minutę, ale jak się uprzeć, to jeszcze ze 12 uderzeń mam w zapasie. Możesz szybciej."
 
 Mózg mówi: "Co k**wa?! Jakie szybciej? Kiedy koniec?"
 
@@ -28,7 +28,7 @@ Mózg mówi: "Co k**wa?! Jakie szybciej? Kiedy koniec?"
 
 ## Paradoks
 **Subiektywnie odczuwam dużo mniejszy wysiłek, kiedy jadę z górki, mimo że serce pracuje wtedy ciężej**. 
-Najwyższe odczyty tętna jakie zarejestrowałem kiedykolwiek, występowały zawsze, kiedy zjeżdżałem z górki. Jest to podwójnie kontrintuicyjne. Po pierwsze, wydawałoby się, że jadąc z góry trudniej zmęczyć serce, ale nie, to wtedy prędzej pojawi się tętno maksymalne. Po drugie, dzięki jakiejś magii, tego wysiłku wtedy nie czuć. Jadąc po płaskim, żeby aż tak się zmobilizować, musiałbym sobie wyobrażać, że goni mnie niedźwiedź, albo wychowawaca z liceum, który próbuje mi przekazać, że muszę wrócić do szkoły. 
+Najwyższe odczyty tętna jakie zarejestrowałem kiedykolwiek, występowały zawsze, kiedy zjeżdżałem z górki. Jest to podwójnie kontrintuicyjne. Po pierwsze, wydawałoby się, że jadąc z góry trudniej zmęczyć serce, ale nie, to wtedy prędzej pojawi się tętno maksymalne. Po drugie, dzięki jakiejś magii, tego wysiłku wtedy nie czuć. Jadąc po płaskim, żeby aż tak się zmobilizować, musiałbym sobie wyobrażać, że goni mnie niedźwiedź, albo wychowawca z liceum, który próbuje mi przekazać, że muszę wrócić do szkoły. 
 Natomiast psychicznie odczuwam znacznie większy wysiłek, kiedy jadę pod górkę, mimo że serce pracuje lżej. O co chodzi?
 
 ## Wyjaśnienie
