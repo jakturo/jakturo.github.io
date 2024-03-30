@@ -15,8 +15,7 @@ Miała być luźna przejażdżka, a wyszło jak zwykle – nie oszczędzałem n�
 Serce mówi:  
 – Stary, biję 184 razy na minutę, już nie mam zapasu do cholery. No niby w zeszłym roku wycisnąłeś ze mnie 187 uderzeń na minutę, ale weź już odpuść!  
 Mózg mówi:  
-– Pa jak przyjemnie! Jestem szybki! Szybki!
-
+– Pa jak przyjemnie! Jestem szybki! Szybki!  
 ![im speed](assets/img/speed/speed.gif){: .normal }
 
 ## Punkt widzenia B: Jadę pod górkę
@@ -24,8 +23,7 @@ Mózg mówi:
 Serce mówi:  
 – No niby ciężko, niby biję 175 razy na minutę, ale jak się uprzeć, to jeszcze ze 12 uderzeń mam w zapasie. Możesz szybciej.  
 Mózg mówi:  
-– Co k**wa?! Jakie szybciej? Kiedy koniec?
-
+– Co k**wa?! Jakie szybciej? Kiedy koniec?  
 ![im not speed](assets/img/speed/bessie400x250.jpg){: .normal }
 
 ## Paradoks
