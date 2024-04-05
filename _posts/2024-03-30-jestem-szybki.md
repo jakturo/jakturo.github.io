@@ -4,7 +4,7 @@ image: assets/img/speed/bessie1200x630.jpg
 ---
 Wysiłek wytrzymałościowy (bieganie, rower, jazda na rolkach itp.) bywa dobrą metaforą życia. 
 Zarówno w życiu, jak i w jeździe na rolkach, serce mówi czasem zupełnie coś innego niż mózg. 
-Konflikt serce-mózg przydarzył mi się podczas jazdy w Lasach Kozłowieckich. 
+Konflikt serce-mózg przydarzył mi się podczas jazdy w Lasach Kozłowieckich (dosłownie, tutaj akurat żadnych metafor nie ma). 
 Gdyby ktoś pytał "Jak niby można jeździć na rolkach w lesie?", odpowiadam: ![droga w lesie kozłowieckim](assets/img/speed/lasowanie.jpg)
 Jest tam asfalt. 
 
@@ -32,13 +32,13 @@ Najwyższe odczyty tętna jakie zarejestrowałem kiedykolwiek, występowały zaw
 Natomiast psychicznie odczuwam znacznie większy wysiłek, kiedy jadę pod górkę, mimo że serce pracuje lżej. O co chodzi?
 
 ## Wyjaśnienie
-**Kiedy jadę z góry, załącza mi się widzenie tunelowe, flow**. Robi się bardziej niebezpiecznie, ale i ciekawiej. Ruchy nogami mają więcej gracji, są bardziej opływowe. Odepchnięcia są dłuższe i przypominają pociągnięcia pędzla, który trzeba stabilnie trzymać, żeby wyszła satysfakcjonująca kreska. "Ślizgi" na jednej nodze się wydłużają (im mniej kółek na podłożu, tym mniejsze opory) – mózg dostaje sygnał "trzymaj balans, albo zryjesz twarz o asfalt". Skupienie jest umotywowane podwójnie: kijem i marchewką. Kij to wizja wywrotki i niebezpieczeństwa. Marchewka to wyobrażone, pozostawione w tyle, estetyczne pociągnięcia pędzla/rolki. Mózg jest wtedy tak zaangażowany, że serce pozostaje absolutnie poza tunelem świadomości (chyba że naprawdę solidnie wejdzie na czerwone/czarne pole). Jest fajnie, czas nie istnieje. Jest lekko, więc... może spróbujemy jeszcze szybciej?
-
 **Kiedy jadę pod górę, robi się monotonnie**:
 
 Pach, pach, pach, pach.  
 Pach i pach i pach i pach.  
 Raz i dwa i trzy i czery i.  
 
-Jak w metronomie. Też czasem da radę wejść w trans, ale ogólnie jest to nudne. A jak jest nudno, to i od razu słychać jak serce krzyczy. I trzeba tego krzyku i stękania słuchać przez całą wycieczkę pod górę. Jest ciężko, więc... kiedy koniec?
+Jak w metronomie. Czasem da radę wejść w trans, ale ogólnie jest to nudne. A jak jest nudno, to i od razu słychać jak serce krzyczy (po prostu czuć zmęczenie). I trzeba tego krzyku i stękania słuchać przez całą wycieczkę pod górę. Jest ciężko, więc... kiedy koniec?
+
+**Kiedy jadę z góry, załącza mi się widzenie tunelowe, flow**. Robi się bardziej niebezpiecznie, ale i ciekawie. Ruchy nogami mają więcej gracji, są bardziej opływowe. Odepchnięcia są dłuższe i przypominają pociągnięcia pędzla, który trzeba stabilnie trzymać, żeby wyszła satysfakcjonująca kreska. "Ślizgi" na jednej nodze się wydłużają (im mniej kółek na podłożu, tym mniejsze opory) – mózg dostaje sygnał "trzymaj balans, albo zryjesz twarz o asfalt". Skupienie jest umotywowane podwójnie: kijem i marchewką. Kij to wizja wywrotki i niebezpieczeństwa. Marchewka to wyobrażone, pozostawione w tyle, estetyczne pociągnięcia pędzla/rolki. Mózg jest wtedy tak zaangażowany, że serce pozostaje absolutnie poza tunelem świadomości (chyba że naprawdę solidnie wejdzie na czerwone/czarne pole). Jest fajnie, czas nie istnieje. Jest lekko, więc... może spróbujemy jeszcze szybciej?
  
