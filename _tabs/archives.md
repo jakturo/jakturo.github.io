@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: posty (timeline)
+title: posty timeline
 icon: fas fa-calendar
 order: 1
 ---

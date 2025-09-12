@@ -1,3 +1,5 @@
+
+
 # Ostatnio 
 
 **przejechałem 100 km z kółkami na nogach**. Na rolkach jeżdżę od 2018 roku. Dla mnie to najlepsza aktywność fizyczna – jeździć mogę samotniczo albo towarzysko, zależy akurat jaki mam nastrój. W minionym roku z ekipą z Lublina stwierdziliśmy, że nienawidzimy swoich nóg i że fajnie jest jechać pod górę i pod wiatr – wybraliśmy się na kajaki na Roztocze, żeby tam dla odmiany zajechać sobie ręce. Fajnie się pozytywnie zajechać. 
