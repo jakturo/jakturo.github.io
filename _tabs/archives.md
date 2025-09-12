@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: Wszystkie posty
+title: posty (timeline)
 icon: fas fa-calendar
 order: 1
 ---
