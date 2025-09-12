@@ -41,4 +41,4 @@ Raz i dwa i trzy i czery i.
 Jak w metronomie. Czasem da radę wejść w trans, ale ogólnie jest to nudne. A jak jest nudno, to i od razu słychać jak serce krzyczy (po prostu czuć zmęczenie). I trzeba tego krzyku i stękania słuchać przez całą wycieczkę pod górę. Jest ciężko, więc... kiedy koniec?
 
 **Kiedy jadę z góry, załącza mi się widzenie tunelowe, flow**. Robi się bardziej niebezpiecznie, ale i ciekawie. Ruchy nogami mają więcej gracji, są bardziej opływowe. Odepchnięcia są dłuższe i przypominają pociągnięcia pędzla, który trzeba stabilnie trzymać, żeby wyszła satysfakcjonująca kreska. "Ślizgi" na jednej nodze się wydłużają (im mniej kółek na podłożu, tym mniejsze opory) – mózg dostaje sygnał "trzymaj balans, albo zryjesz twarz o asfalt". Skupienie jest umotywowane podwójnie: kijem i marchewką. Kij to wizja wywrotki i niebezpieczeństwa. Marchewka to wyobrażone, pozostawione w tyle, estetyczne pociągnięcia pędzla/rolki. Mózg jest wtedy tak zaangażowany, że serce pozostaje absolutnie poza tunelem świadomości (chyba że naprawdę solidnie wejdzie na czerwone/czarne pole). Jest fajnie, czas nie istnieje. Jest lekko, więc... może spróbujemy jeszcze szybciej?
- 
+.
