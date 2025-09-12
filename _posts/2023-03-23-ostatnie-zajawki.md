@@ -1,21 +1,3 @@
-
-
----
-
-title: Ostatnie zajawki
-
-image: assets/img/speed/bessie1200x630.jpg
-
----
-
-
-
-
-
-# Cześć,
-
-jestem człowiekiem. Poznaję świat po swojemu. Lubię przykłady i metafory. Mam licencję na filozofowanie. Niedługo będę miał też licencję na psychologowanie. Lubię dawać ludziom wędki, czyli udzielać trudnych odpowiedzi na proste pytania. Uważam, że kiedy podczas rozmowy ktoś zapewnia mi kontekst, to znaczy, że jest życzliwy. Wydaje mi się, że jakość świata można łatwo zmierzyć zaufaniem, na jakie mogą pozwolić wobec siebie obcy ludzie. 
-
 # Ostatnio 
 
 **przejechałem 100 km z kółkami na nogach**. Na rolkach jeżdżę od 2018 roku. Dla mnie to najlepsza aktywność fizyczna – jeździć mogę samotniczo albo towarzysko, zależy akurat jaki mam nastrój. W minionym roku z ekipą z Lublina stwierdziliśmy, że nienawidzimy swoich nóg i że fajnie jest jechać pod górę i pod wiatr – wybraliśmy się na kajaki na Roztocze, żeby tam dla odmiany zajechać sobie ręce. Fajnie się pozytywnie zajechać. 
