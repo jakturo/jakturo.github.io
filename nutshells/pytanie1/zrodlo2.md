@@ -1,3 +1,7 @@
+---
+
+---
+
 **Rozdział 11**
 
 Człowiek jako naukowiec, które tworzy swoje osobiste teorie-konstrukty, do przewidywania zdarzeń w swoim życiu. Obiektywna rzeczywistość nawet jak istnieje, to i tak każdy wybiera jeden spośród wielu alternatywnych sposobów interpretowania zdarzeń (**alternatywizm konstrukcyjny**).
