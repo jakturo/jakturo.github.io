@@ -1,8 +1,8 @@
-\*\*Rozdział 11. Teoria konstruktów osobistych George'a Kelly'ego\*\*
+**Rozdział 11. Teoria Kelly'ego**
 
 
 
-\*\*Rozdział 12. Społeczno-poznawcza teoria Bandury i Mischela\*\*
+**Rozdział 12. Teoria Bandury i Mischela**
 
 
 
