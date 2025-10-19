@@ -1,10 +1,10 @@
-\*\*Rozdział 11\*\*
+**Rozdział 11**
 
-Człowiek jako naukowiec, które tworzy swoje osobiste teorie-konstrukty, do przewidywania zdarzeń w swoim życiu. Obiektywna rzeczywistość nawet jak istnieje, to i tak każdy wybiera jeden spośród wielu alternatywnych sposobów interpretowania zdarzeń (\*\*alternatywizm konstrukcyjny\*\*).
+Człowiek jako naukowiec, które tworzy swoje osobiste teorie-konstrukty, do przewidywania zdarzeń w swoim życiu. Obiektywna rzeczywistość nawet jak istnieje, to i tak każdy wybiera jeden spośród wielu alternatywnych sposobów interpretowania zdarzeń (**alternatywizm konstrukcyjny**).
 
 
 
-Wyróżniamy konstrukty \*\*rdzenne\*\* i konstrukty \*\*peryferyczne\*\*. Zmiana konstruktów rdzennych uruchamia kaskadę zmian. Konstrukty peryferyczne można zmienić bez poważnych konsekwencji.
+Wyróżniamy konstrukty **rdzenne** i konstrukty **peryferyczne**. Zmiana konstruktów rdzennych uruchamia kaskadę zmian. Konstrukty peryferyczne można zmienić bez poważnych konsekwencji.
 
 Wyróżniamy też konstrukty nadrzędne i podrzędne. Nadrzędne zawierają w sobie inne konstrukty. Czy konstrukty nadrzędne to jakiś rodzaj konstruktów rdzennych? Nie mam pojęcia.
 
@@ -18,7 +18,7 @@ Kelly nie lubił pojęcia "motywu". Zakładał że zmiany w systemie konstruktó
 
 
 
-\*\*Lęk\*\* człowiek odczuwa gdy to co się dzieje wykracza poza konstrukty osobiste.
+**Lęk** człowiek odczuwa gdy to co się dzieje wykracza poza konstrukty osobiste.
 
 \*\*Strach\*\* odczuwa w trakcie formowania się nowego konstruktu. \*\*Zagrożenie\*\* to potencjalna zmiana całego systemu konstruktów.
 
