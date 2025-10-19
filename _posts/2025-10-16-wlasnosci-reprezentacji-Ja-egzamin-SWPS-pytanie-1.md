@@ -2,15 +2,15 @@ Pytanie 1: \_Porównaj własności reprezentacji Ja, (własnej osoby), opisywane
 
 
 
-Wskazane źródło: \_Cervone, D., Pervin, L. A. (2011). Osobowość: teoria i badania.
+Wskazane źródło: \*Cervone, D., Pervin, L. A. (2011). Osobowość: teoria i badania.
 
-Kraków: Wydawnictwo UJ. Rozdziały 11, 12 i 13.\_
-
-
+Kraków: Wydawnictwo UJ. Rozdziały 11, 12 i 13.\*
 
 
 
-\[:Źródło pokrewne: \_Pervin, L. A., \& John, O. P. (2002). Osobowość: Teoria i badania (Wyd. 8). Wydaw. Uniwerstetu Jagiellońskiego.\_](/nusthells/zrodlo\_pokrewne)
+
+
+\[:Źródło pokrewne: \*Pervin, L. A., \& John, O. P. (2002). Osobowość: Teoria i badania (Wyd. 8). Wydaw. Uniwerstetu Jagiellońskiego.\*](/nusthells/zrodlo\_pokrewne)
 
 
 
