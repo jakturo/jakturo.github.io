@@ -24,7 +24,7 @@ Kelly nie lubił pojęcia "motywu". Zakładał że zmiany w systemie konstruktó
 
 **Lęk** człowiek odczuwa gdy to co się dzieje wykracza poza konstrukty osobiste.
 
-\*\*Strach\*\* odczuwa w trakcie formowania się nowego konstruktu. \*\*Zagrożenie\*\* to potencjalna zmiana całego systemu konstruktów.
+**Strach** odczuwa w trakcie formowania się nowego konstruktu. **Zagrożenie** to potencjalna zmiana całego systemu konstruktów.
 
 
 
@@ -48,7 +48,7 @@ Mi osobiście się wydaje, że z tego co piszą autorzy (xd) to Kelly przelał w
 
 "To przyszłość, nie przeszłość wabi człowieka" (Kelly, 1995, s.49).
 
-Reprezentacje, interpretacje, reinterpretacje, konstrukcje, rekonstrukcje. Tworzenie i przekształcanie siebie. Niektórzy interpretują dynamicznie i na wiele różnych sposobów, a niektórzy na sztywno. System konstruktów wyznacza zakres interpretacji. Jesteśmy wolni w zakresie własnych konstruktów, ale nie możemy wyjść poza, jeśli nie dokonamy reinterpretacji. Jesteśmy jednocześnie \*\*wolni i zdeterminowani\*\*.
+Reprezentacje, interpretacje, reinterpretacje, konstrukcje, rekonstrukcje. Tworzenie i przekształcanie siebie. Niektórzy interpretują dynamicznie i na wiele różnych sposobów, a niektórzy na sztywno. System konstruktów wyznacza zakres interpretacji. Jesteśmy wolni w zakresie własnych konstruktów, ale nie możemy wyjść poza, jeśli nie dokonamy reinterpretacji. Jesteśmy jednocześnie **wolni i zdeterminowani**.
 
 
 
@@ -56,7 +56,7 @@ Według Kellego próżno szukać prawdy, teorie naukowe jak i konstrukty osobist
 
 
 
-Kelly mówił coś o tworzeniu "\*\*invitational mood\*\*", czyli atmosferze otwartości – gotowości do rozważania wielu alternatywnych interpretacji zjawisk. Atmosfera otwartości jest według niego niezbędna zarówno badaczowi, jak i pacjentowi przechodzącemu terapię. Zdolność do fantazjowania pozwala na formułowanie hipotez.
+Kelly mówił coś o tworzeniu "**invitational mood**", czyli atmosferze otwartości – gotowości do rozważania wielu alternatywnych interpretacji zjawisk. Atmosfera otwartości jest według niego niezbędna zarówno badaczowi, jak i pacjentowi przechodzącemu terapię. Zdolność do fantazjowania pozwala na formułowanie hipotez.
 
 
 
@@ -76,15 +76,15 @@ Ludzie dążą do antycypowania zdarzeń, a nie do spójności wewnętrznej (prz
 
 
 
-Kelly unika mówienia o \*\*motywacjacji, popędach i potrzebach.\*\* Argumentuje, że inne teorie jakby zakładały, że człowiek jest bierny i dlatego potrzebuje motywacji. Kelly twierdzi, że człowiek jest z natury aktywny.
+Kelly unika mówienia o **motywacjacji, popędach i potrzebach.** Argumentuje, że inne teorie jakby zakładały, że człowiek jest bierny i dlatego potrzebuje motywacji. Kelly twierdzi, że człowiek jest z natury aktywny.
 
 
 
 
 
-\*\*Rozdział 12. Zastosowania teorii konstruktów Kelly'ego\*\*
+**Rozdział 12. Zastosowania teorii konstruktów Kelly'ego**
 
-Kelly pewnie by powiedział, że aktor musi nauczyć się stosować system konstruktów odgrywanej postaci. W /terapii ustalonej roli/ klient odgrywa rolę innej osoby. Odgrywa konstrukty konkurencyjne w stosunku do własnych, nieprzystosowawczych konstruktów. \*\*"Lęk, strach i zagrożenie odgrywają w teorii Kelly'ego rolę pierwszoplanową, tak jak w teoriach Freuda i Rogersa"\*\* (Pervin i John, 2011, s. 436).
+Kelly pewnie by powiedział, że aktor musi nauczyć się stosować system konstruktów odgrywanej postaci. W /terapii ustalonej roli/ klient odgrywa rolę innej osoby. Odgrywa konstrukty konkurencyjne w stosunku do własnych, nieprzystosowawczych konstruktów. **"Lęk, strach i zagrożenie odgrywają w teorii Kelly'ego rolę pierwszoplanową, tak jak w teoriach Freuda i Rogersa"** (Pervin i John, 2011, s. 436).
 
 
 
