@@ -23,7 +23,7 @@ Moje skojarzenia:<br>
 **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł.". Trochę vibe: "zielone idee śpią wściekle".
 
 <br>
-### Kalat (odkłamanie)
+## Kalat (odkłamanie)
 
 a. Broki:
 - Powtarzanie zwrotów w stylu "No ifs ands or buts" ❌ → gramatyka ❌
