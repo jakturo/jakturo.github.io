@@ -14,7 +14,8 @@ Wskazane źródło: Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsza
 |---------------|---|---|
 |produkcja<br> mowy|❌|✅|
 |rozumienie<br> mowy|✅|❌|
-|umiejscowienie <br>w mózgu |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
+|umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
+|świadomość zaburzenia|✅– pacjent wie, <br>że ma zaburzenie i <br>może się frustrować przez to|❌– pacjent nie jest <br>świadomy problemu|
 
 
 # Jąkanie 
