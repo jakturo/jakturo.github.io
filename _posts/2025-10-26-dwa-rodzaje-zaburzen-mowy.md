@@ -19,8 +19,8 @@ Wskazane źródło: Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsza
 |umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
 
 Moje skojarzenia:<br>
-afazja Broki: [:pacjent "tan-tan",<br>pacjent "kurwa",<br>pacjent "makabra"](/nutshells/afazje/tan-tan)
-afazja Wernickego: "No wie Pan,<br> tak tego było,<br>bo poszedł.",<br>vibe: "zielone idee<br>śpią wściekle"|
+afazja Broki: [:pacjent "tan-tan", pacjent "kurwa",pacjent "makabra"](/nutshells/afazje/tan-tan)
+afazja Wernickego: "No wie Pan, tak tego było, bo poszedł.". Trochę vibe: "zielone idee śpią wściekle"|
 
 
 
