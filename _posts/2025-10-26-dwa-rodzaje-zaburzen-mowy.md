@@ -17,7 +17,7 @@ Wskazane źródło: Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsza
 |rozumienie<br> mowy|✅|❌|
 |świadomość<br>zaburzenia|✅ – pacjent wie, <br>że ma zaburzenie<br> i może się frustrować<br> przez to|❌ – pacjent nie jest <br>świadomy problemu|
 |umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
-|moje<br>skojarzenia|pacjent "tan-tan",<br>pacjent "kurwa",<br>pacjent "makabra"|"no wie Pan,<br> tak tego było,<br>bo poszedł"|
+|moje<br>skojarzenia|[pacjent "tan-tan",<br>pacjent "kurwa",<br>pacjent "makabra"](/nutshells/afazje/tan-tan)|"No wie Pan,<br> tak tego było,<br>bo poszedł.",<br>vibe: "zielone idee<br>śpią wściekle"|
 
 
 
