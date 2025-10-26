@@ -26,11 +26,12 @@ Moje skojarzenia:<br>
 # Kalat (odkłamanie)
 
 a. Broki:
-- Nie powtarzają zwrotów w stylu "No ifs ands or buts" ❌ → Problemy z gramatyką ❌
-- Mogą powtórzyć "The general commands the army" ✅ → Rozumienie znaczenie rzeczowników i czasowników zachowane ✅
+- Powtarzanie zwrotów w stylu "No ifs ands or buts" ❌ → gramatyka ❌
+- Powtarzanie czegoś w stylu "The general commands the army" ✅ → Rozumienie znaczenie rzeczowników i czasowników ✅
 - "O afazji Broki (afazji ruchowej) mówimy wtedy, gdy uszkodzenie powoduje upośledzenie tworzenia wypowiedzi, niezależnie od miejsca wystąpienia urazu"
 - Szyk zdania, końcówki fleksyjne i przyimki sprawiają problemy. → Problemy z "ośrodkiem gramatycznym" → Mowa skrótowa i telegraficzna 
-"Pod wieloma względami ich [pacjentów z afazją Broki] zdolność rozumienia wygląda jak u zdrowych ludzi, którym coś bardzo przeszkadza w odbiorze wypowiedzi". (np. Jakby zdrowy człowiek słuchał kogoś kto mówi bardzo szybko w hałaśliwym pomieszczeniu). <br>Wszystkim nam znane jest uczucie, kiedy czegoś nie dosłyszymy, więc musimy sobie uzupełnić domysłami fragment wypowiedzi. Wygląda na to, że osoby z a. Broki mają tak w dużo większym stopniu. "Pacjenci z afazją Broki po prostu częściej niż większość z nas opierają się na domysłach niż na gramatyce." 
+- "Pod wieloma względami ich [pacjentów z afazją Broki] zdolność rozumienia wygląda jak u zdrowych ludzi, którym coś bardzo przeszkadza w odbiorze wypowiedzi". (np. Jakby zdrowy człowiek słuchał kogoś kto mówi bardzo szybko w hałaśliwym pomieszczeniu).
+- Wszystkim nam znane jest uczucie, kiedy czegoś nie dosłyszymy, więc musimy sobie uzupełnić domysłami fragment wypowiedzi. Wygląda na to, że osoby z afazją Broki mają tak w dużo większym stopniu. "Pacjenci z afazją Broki po prostu częściej niż większość z nas opierają się na domysłach niż na gramatyce." 
 
 a. Wernickego:
  
