@@ -15,6 +15,7 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 |---------------|---|---|
 |produkcja<br> mowy|❌|✅|
 |rozumienie<br> mowy|✅|❌|
+|gramatyka|❌|✅|
 |świadomość<br>zaburzenia|✅ – rozumie, <br>że inni go<br> nie rozumieją, <br> (obecna frustracja)|❌ – nie rozumie,<br>że inni go <br>nie rozumieją<br>(anozognozja językowa)|
 |umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
 
