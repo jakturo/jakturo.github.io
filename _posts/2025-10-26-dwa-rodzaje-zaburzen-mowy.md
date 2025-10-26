@@ -10,7 +10,7 @@ Wskazane źródło: Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsza
 
 # Afazja: Broki i Wernickego
 
-|---------------|Broki|Wernicke|
+||Broki|Wernicke|
 |---------------|---|---|
 |produkcja<br> mowy|❌|✅|
 |rozumienie<br> mowy|✅|❌|
