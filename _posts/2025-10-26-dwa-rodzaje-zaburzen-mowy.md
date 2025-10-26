@@ -15,12 +15,12 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 |---------------|---|---|
 |produkcja<br> mowy|❌|✅|
 |rozumienie<br> mowy|✅|❌|
-|świadomość<br>zaburzenia|✅ – rozumie, <br>że inni go<br> nie rozumieją, <br> (obecna frustracj)|❌ – nie rozumie,<br>że inni <br>nie rozumieją(anozognozja językowa)|
+|świadomość<br>zaburzenia|✅ – rozumie, <br>że inni go<br> nie rozumieją, <br> (obecna frustracja)|❌ – nie rozumie,<br>że inni go <br>nie rozumieją<br>(anozognozja językowa)|
 |umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
 
 Moje skojarzenia:<br>
-Afazja Broki: [:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/afazje/tan-tan).<br>
-Afazja Wernickego: "No wie Pan, tak tego było, bo poszedł.". Trochę vibe: "zielone idee śpią wściekle".
+*Afazja Broki:* [:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/afazje/tan-tan).<br>
+*Afazja Wernickego:* "No wie Pan, tak tego było, bo poszedł.". Trochę vibe: "zielone idee śpią wściekle".
 
 
 
