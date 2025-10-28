@@ -60,5 +60,5 @@ Podsumowanie:
 1. Ullman, M. T. (2001a). A neurocognitive perspective on language: The declarative/procedural model. Nature Reviews Neuroscience, 1. 2(10), 717–726. https://doi.org/10.1038/35094573
 Ullman, M. T. (2001b). The Declarative/Procedural Model of Lexicon and Grammar. Journal of Psycholinguistic Research, 30(1), 37–69. https://doi.org/10.1023/A:1005204207369
 
-[aphasia.org](www.aphasia.org)
+[aphasia.org](https://aphasia.org/)
 
