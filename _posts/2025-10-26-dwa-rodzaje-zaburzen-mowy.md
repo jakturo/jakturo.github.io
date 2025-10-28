@@ -29,7 +29,7 @@ Moje skojarzenia:<br>
 Jak wyobrażam sobie POV ludzi z afazją:<br>
 Pacjentów z a. Broki:<br> 
 Rozumienie – jest trudne, jakbym cały czas musiał się wytężać i skupiać, jak gdybym słuchał szybkiego dialogu w hałaśliwym pomieszczenie. <br>
-Mówienie – jest trudne, tak jakbym czuł opór, za każdym razem kiedy chcę użyć reguły gramatycznej (czyli prawie cały czas).
+Mówienie – jest trudne, tak jakbym czuł opór, za każdym razem kiedy chcę użyć reguły gramatycznej (czyli prawie cały czas).<br>
 Pacjentów z a. Wernickego:<br>
 Rozumienie – ktoś do mnie mówi, ale jakby w obcym języku. Słowa się wydają puste. 
 Mówienie – przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. → Jakby złośliwy demon zamieniał im słowa miejscami podczas mówienia. 
