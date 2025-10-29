@@ -40,7 +40,7 @@ Rozumienie –
 >ktoś do mnie mówi, ale jakby w obcym języku. Słowa się wydają puste. 
 
 Mówienie – 
->przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. → Jakby złośliwy demon zamieniał mi słowa miejscami podczas mówienia.
+>przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. Czy jakiś złośliwy demon zamienia mi słowa miejscami podczas mówienia?
  
 <br>
 ## Kalat (odkłamanie)
