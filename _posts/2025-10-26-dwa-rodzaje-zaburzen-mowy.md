@@ -29,18 +29,19 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 Jak wyobrażam sobie POV ludzi z afazją:
 
 Pacjentów z a. Broki:<br> 
-Rozumienie – jest trudne, jakbym cały czas musiał się wytężać i skupiać, jak gdybym słuchał szybkiego dialogu w hałaśliwym pomieszczenie. <br>
-Mówienie – jest trudne, tak jakbym czuł opór, za każdym razem kiedy chcę użyć reguły gramatycznej (czyli prawie cały czas).<br>
+Rozumienie – 
+>jest trudne, jakbym cały czas musiał się wytężać i skupiać, jak gdybym słuchał szybkiego dialogu w hałaśliwym pomieszczenie. <br>
+Mówienie – jest trudne, tak jakbym czuł opór, za każdym razem kiedy chcę coś powiedzieć i użyć reguły gramatycznej (czyli prawie cały czas).<br>
 
 Pacjentów z a. Wernickego:<br>
 Rozumienie – ktoś do mnie mówi, ale jakby w obcym języku. Słowa się wydają puste. 
-<br>Mówienie – przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. → Jakby złośliwy demon zamieniał im słowa miejscami podczas mówienia.
+<br>Mówienie – przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. → Jakby złośliwy demon zamieniał mi słowa miejscami podczas mówienia.
  
 <br>
 ## Kalat (odkłamanie)
 
 a. Broki:
-- Powtarzanie zwrotów w stylu "No ifs ands or buts" ❌ → gramatyka 
+- Powtarzanie zwrotów w stylu "No ifs ands or buts" ❌ → gramatyka ❌
 - Powtarzanie czegoś w stylu "The general commands the army" ✅ → Rozumienie znaczenie rzeczowników i czasowników ✅
 - "O afazji Broki (afazji ruchowej) mówimy wtedy, gdy uszkodzenie powoduje upośledzenie tworzenia wypowiedzi, niezależnie od miejsca wystąpienia urazu"
 - Szyk zdania, końcówki fleksyjne i przyimki sprawiają problemy. → Problemy z "ośrodkiem gramatycznym" → Mowa skrótowa i telegraficzna 
