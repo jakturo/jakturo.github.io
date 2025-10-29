@@ -1,7 +1,7 @@
 ---
 
 ---
-
+A dokładniej, że trudno przewidzieć dysfunkcje na podstawie lokalizacji uszkodzenia, ale jakieś hipotezy mamy.
 
 1. [Shapiro, K. A., Pascual-Leone, A., Mottaghy, F. M., Gangitano, M., & Caramazza, A. (2001). Grammatical Distinctions in the Left Frontal Cortex. Journal of Cognitive Neuroscience, 13(6), 713–720.](https://doi.org/10.1162/08989290152541386) 
 
