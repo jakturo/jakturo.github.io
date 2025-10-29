@@ -22,7 +22,7 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 |rodzaj<br>dotkniętej<br>pamięci|proceduralna|deklaratywna|
 
 Moje skojarzenia:<br>
-- **Afazja Broki:** <br>[:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/afazje/tan-tan).<br>
+- **Afazja Broki:** <br>[:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/pytanie12/tan-tan).<br>
 - **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł i tego cośtam.". Trochę vibe: "zielone idee śpią wściekle".
 - Większość zdań da się zrozumieć bez przyimków, spójników i końcówek fleksyjnych – po samych rzeczownikach i czasownikach. Innymi słowy, jak nagle nam znikną z tekstu, to cośtam da się zrozumieć. A jak znikną rzeczowniki i czasowniki, to jesteśmy w dupie.
 
@@ -64,9 +64,7 @@ a. Wernickego:
 <hr>
 <br>
 
-1. [aphasia.org](https://aphasia.org/)
-1. Shapiro, K. A., Pascual-Leone, A., Mottaghy, F. M., Gangitano, M., & Caramazza, A. (2001). Grammatical Distinctions in the Left Frontal Cortex. Journal of Cognitive Neuroscience, 13(6), 713–720. https://doi.org/10.1162/08989290152541386
-1. Ullman, M. T. (2001a). A neurocognitive perspective on language: The declarative/procedural model. Nature Reviews Neuroscience, 2(10), 717–726. https://doi.org/10.1038/35094573
-1. Ullman, M. T. (2001b). The Declarative/Procedural Model of Lexicon and Grammar. Journal of Psycholinguistic Research, 30(1), 37–69. https://doi.org/10.1023/A:1005204207369
+1. [aphasia.org](https://aphasia.org/) – ciekawe źródło, które podaje Kalat, ale niepotrzebne do egzaminu
+1. [:Źródła tego co Kalat mówi o pamięci deklaratywnej i proceduralnej](/nutshells/pytanie12/zrodla_kalat)
 
 
