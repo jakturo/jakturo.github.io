@@ -35,7 +35,7 @@ Rozumienie –
 Mówienie – 
 >jest trudne, tak jakbym czuł opór, za każdym razem kiedy chcę coś powiedzieć i użyć reguły gramatycznej (czyli prawie cały czas).
 
-Pacjentów z a. Wernickego:<br>
+<br>Pacjentów z a. Wernickego:<br>
 Rozumienie – 
 >ktoś do mnie mówi, ale jakby w obcym języku. Słowa się wydają puste. 
 
