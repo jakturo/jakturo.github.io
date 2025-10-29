@@ -21,7 +21,7 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 |umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
 |rodzaj<br>dotkniętej<br>pamięci|proceduralna|deklaratywna|
 
-## Moje skojarzenia:<br>
+## Moje skojarzenia:
 - **Afazja Broki:** <br>[:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/pytanie12/tan-tan).<br>
 - **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł i tego cośtam.". Trochę vibe: "zielone idee śpią wściekle".
 - Większość zdań da się zrozumieć bez przyimków, spójników i końcówek fleksyjnych – po samych rzeczownikach i czasownikach. Innymi słowy, jak nagle nam znikną z tekstu, to cośtam da się zrozumieć. A jak znikną rzeczowniki i czasowniki, to jesteśmy w dupie.
