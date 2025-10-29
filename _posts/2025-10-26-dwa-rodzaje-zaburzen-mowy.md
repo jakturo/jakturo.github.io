@@ -21,7 +21,7 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 |umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
 |rodzaj<br>dotkniętej<br>pamięci|proceduralna|deklaratywna|
 
-Moje skojarzenia:<br>
+## Moje skojarzenia:<br>
 - **Afazja Broki:** <br>[:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/pytanie12/tan-tan).<br>
 - **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł i tego cośtam.". Trochę vibe: "zielone idee śpią wściekle".
 - Większość zdań da się zrozumieć bez przyimków, spójników i końcówek fleksyjnych – po samych rzeczownikach i czasownikach. Innymi słowy, jak nagle nam znikną z tekstu, to cośtam da się zrozumieć. A jak znikną rzeczowniki i czasowniki, to jesteśmy w dupie.
@@ -34,9 +34,9 @@ Mówienie – jest trudne, tak jakbym czuł opór, za każdym razem kiedy chcę 
 
 Pacjentów z a. Wernickego:<br>
 Rozumienie – ktoś do mnie mówi, ale jakby w obcym języku. Słowa się wydają puste. 
-Mówienie – przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. → Jakby złośliwy demon zamieniał im słowa miejscami podczas mówienia.
+<br>Mówienie – przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. → Jakby złośliwy demon zamieniał im słowa miejscami podczas mówienia.
  
-
+<br>
 ## Kalat (odkłamanie)
 
 a. Broki:
@@ -56,7 +56,7 @@ a. Wernickego:
 - "to coś, czego używaliśmy do tego, takie jak tamto"
 - myślą "Wieczorem słuchałem Beatlesów w radiu",  ale mówią "Wieczorem Beatlesi słuchali radia" (R.C. Martin, Blossom-Stach, 1986, za: Kalat, 2016). 
 - "pacjentka zna nazwy przedmiotów i rozpoznaje je, gdy je usłyszy, trudno jej natomiast znaleźć je samodzielnie" → przez problem z przypominaniem nazw wymyślają słowa na poczekaniu (neologizmy) albo zamieniają i przekręcają słowa (parafazje) → tworzy się sałatka słowna 
-- "Wyobraź sobie, że masz pod ręką stos kart z ilustracjami znanych przedmiotów i czynności, i próbując mówić szybciej niż zwykle opisujesz każdą z nich w 2-3 sekundy i przechodzisz do następnego obrazka. Zapewne często będziesz się uciekać do bezsensownych wyrażeń przypominających mowę pacjentów z afazją Wernickego (Dick i in.,2001, za: Kalat, 2016, s.444)
+- "Wyobraź sobie, że masz pod ręką stos kart z ilustracjami znanych przedmiotów i czynności, i próbując mówić szybciej niż zwykle opisujesz każdą z nich w 2-3 sekundy i przechodzisz do następnego obrazka. Zapewne często będziesz się uciekać do bezsensownych wyrażeń przypominających mowę pacjentów z afazją Wernickego (Dick i in.,2001, za: Kalat, 2016, s. 444)
 - uszkodzenie lewego płata skroniowego → problem z pamięcią deklaratywną (a do niej należą nazwy przedmiotów i nieregularne formy czasowników w j. angielskim) → problem z używaniem czasowników nieregularnych
 
 
