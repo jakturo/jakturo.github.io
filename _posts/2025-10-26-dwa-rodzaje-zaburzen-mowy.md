@@ -26,10 +26,12 @@ Moje skojarzenia:<br>
 - **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł i tego cośtam.". Trochę vibe: "zielone idee śpią wściekle".
 - Większość zdań da się zrozumieć bez przyimków, spójników i końcówek fleksyjnych – po samych rzeczownikach i czasownikach. Innymi słowy, jak nagle nam znikną z tekstu, to cośtam da się zrozumieć. A jak znikną rzeczowniki i czasowniki, to jesteśmy w dupie.
 
-Jak wyobrażam sobie POV ludzi z afazją:<br>
+Jak wyobrażam sobie POV ludzi z afazją:
+
 Pacjentów z a. Broki:<br> 
 Rozumienie – jest trudne, jakbym cały czas musiał się wytężać i skupiać, jak gdybym słuchał szybkiego dialogu w hałaśliwym pomieszczenie. <br>
 Mówienie – jest trudne, tak jakbym czuł opór, za każdym razem kiedy chcę użyć reguły gramatycznej (czyli prawie cały czas).<br>
+
 Pacjentów z a. Wernickego:<br>
 Rozumienie – ktoś do mnie mówi, ale jakby w obcym języku. Słowa się wydają puste. 
 Mówienie – przecież im mówię po raz kolejny, dlaczego mnie nie rozumieją. → Jakby złośliwy demon zamieniał im słowa miejscami podczas mówienia.
