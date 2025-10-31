@@ -8,8 +8,12 @@ ich mózgowe podłoże*
 Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warszawa, PWN. Rozdział 
 13.1*
 
+[:Interpretacja pytania](/nutshells/pytanie12/interpretacja)
+
 <br>
 # Afazja Broki i Wernickego w skrócie (małe przekłamanie)
+
+Po pierwsze, to poszukajcie sobie w necie nagrań wypowiedzi i dialogów z osobami z afazją. Najlepiej po polsku i angielsku (po polsku nie wiem czy są nagrania, ale na pewno są transkrypcje). Wtedy szybko złapiecie różnice. Poniższa tabelka najbardziej pomaga, jak już się wie o co chodzi. 
 
 ||Broki|Wernicke|
 |---------------|---|---|
@@ -20,11 +24,14 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 |świadomość<br>zaburzenia|✅ – rozumie, <br>że inni go<br> nie rozumieją, <br> (obecna frustracja)|❌ – nie rozumie,<br>że inni go <br>nie rozumieją<br>(anozognozja językowa)|
 |umiejscowienie <br>w mózgu <br>(w lewej półkuli) |dolna część <br>płata czołowego|tylna część <br>płata skroniowego|
 |rodzaj<br>dotkniętej<br>pamięci|proceduralna|deklaratywna|
+|inna <br> nazwa|afazja <br> ruchowa|afazja <br>czuciowa|
+|kolejna nazwa|afazja <br>niepłynna|afazja <br>płynna|
 
 ## Moje skojarzenia:
 - **Afazja Broki:** <br>[:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/pytanie12/tan-tan).<br>
 - **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł i tego cośtam.". Trochę vibe: "zielone idee śpią wściekle".
 - Większość zdań da się zrozumieć bez przyimków, spójników i końcówek fleksyjnych – po samych rzeczownikach i czasownikach. Innymi słowy, jak nagle nam znikną z tekstu, to cośtam da się zrozumieć. A jak znikną rzeczowniki i czasowniki, to jesteśmy w dupie.
+- W skrócie, pacjenci z a. Broki mają problem z *ruchem językowym*, a ci z a. Wernickego mają problem z *czuciem językowym*. Ci z a. Broki nie mogą wprawić wypowiedzi w ruch. Ci z a. Wernickego nie czują słów. 
 
 Jak wyobrażam sobie POV ludzi z afazją:
 
@@ -64,7 +71,6 @@ a. Wernickego:
 - "pacjentka zna nazwy przedmiotów i rozpoznaje je, gdy je usłyszy, trudno jej natomiast znaleźć je samodzielnie" → przez problem z przypominaniem nazw wymyślają słowa na poczekaniu (neologizmy) albo zamieniają i przekręcają słowa (parafazje) → tworzy się sałatka słowna 
 - "Wyobraź sobie, że masz pod ręką stos kart z ilustracjami znanych przedmiotów i czynności, i próbując mówić szybciej niż zwykle opisujesz każdą z nich w 2-3 sekundy i przechodzisz do następnego obrazka. Zapewne często będziesz się uciekać do bezsensownych wyrażeń przypominających mowę pacjentów z afazją Wernickego (Dick i in.,2001, za: Kalat, 2016, s. 444)
 - uszkodzenie lewego płata skroniowego → problem z pamięcią deklaratywną (a do niej należą nazwy przedmiotów i nieregularne formy czasowników w j. angielskim) → problem z używaniem czasowników nieregularnych
-
 
 
 
