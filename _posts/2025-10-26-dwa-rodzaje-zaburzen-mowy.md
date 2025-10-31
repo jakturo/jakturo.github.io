@@ -78,6 +78,10 @@ a. Wernickego:
 - "Wyobraź sobie, że masz pod ręką stos kart z ilustracjami znanych przedmiotów i czynności, i próbując mówić szybciej niż zwykle opisujesz każdą z nich w 2-3 sekundy i przechodzisz do następnego obrazka. Zapewne często będziesz się uciekać do bezsensownych wyrażeń przypominających mowę pacjentów z afazją Wernickego (Dick i in.,2001, za: Kalat, 2016, s. 444)
 - uszkodzenie lewego płata skroniowego → problem z pamięcią deklaratywną (a do niej należą nazwy przedmiotów i nieregularne formy czasowników w j. angielskim) → problem z używaniem czasowników nieregularnych
 
+<br>
+# Ciekawostka
+
+Istnieje **terapia intonacyjna** (ang. _melodic intonation therapy_) – stosuje się ją u pacjentów z afazją Broki. Najwyraźniej rytm w muzyce pomaga im utrzymać rytm wypowiedzi. Przy afazji Broki uszkodzony jest fragment lewej półkuli, a podczas śpiewania aktywuje się "_prawopółkulowe odpowiedniki obszarów językowych_". W ten sposób pacjenci najpierw uczą się "śpiewać" mowę, a potem częściowo odzyskują zdolność mówienia [^1]. 
 
 
 <br>
@@ -86,5 +90,6 @@ a. Wernickego:
 
 1. [aphasia.org](https://aphasia.org/) – ciekawe źródło, które podaje Kalat, ale niepotrzebne do egzaminu
 1. [:Źródła tego co Kalat mówi o pamięci deklaratywnej i proceduralnej](/nutshells/pytanie12/zrodla_kalat)
+1. [^1]: [From Singing to Speaking. (Schlaug et al., 2008) PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC3010734/)
 
 
