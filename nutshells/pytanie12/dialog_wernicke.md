@@ -47,5 +47,6 @@ T: Płaszcz kąpielowy?
 
 P: Płaszcz kąpielowy. Albo jakoś tak.
 
-<br><hr>
+<br>
+<hr>
 _Dialog udostępniony przez Zakład Patologii Mowy i Audiologii z Duke University_
