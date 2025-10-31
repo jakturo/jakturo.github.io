@@ -29,9 +29,15 @@ Po pierwsze, to poszukajcie sobie w necie nagrań wypowiedzi i dialogów z osoba
 
 ## Moje skojarzenia:
 - **Afazja Broki:** <br>[:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/pytanie12/tan-tan).<br>
+    - Mowa **~~płynie~~**
+    - Mowa się **~~rusza~~**
+    - Pacjent **czuje** mowę 
 - **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł i tego cośtam.". Trochę vibe: "zielone idee śpią wściekle".
-- Większość zdań da się zrozumieć bez przyimków, spójników i końcówek fleksyjnych – po samych rzeczownikach i czasownikach. Innymi słowy, jak nagle nam znikną z tekstu, to cośtam da się zrozumieć. A jak znikną rzeczowniki i czasowniki, to jesteśmy w dupie.
-- W skrócie, pacjenci z a. Broki mają problem z *ruchem językowym*, a ci z a. Wernickego mają problem z *czuciem językowym*. Ci z a. Broki nie mogą wprawić wypowiedzi w ruch. Ci z a. Wernickego nie czują słów. 
+    - Mowa **płynie**
+    - Mowa się **rusza**
+    - Pacjent **~~czuje~~** mowę. 
+- Większość zdań da się zrozumieć bez przyimków, spójników i końcówek fleksyjnych – po samych rzeczownikach i czasownikach. Innymi słowy, jak nagle nam znikną z tekstu, to cośtam da się zrozumieć. A jak znikną rzeczowniki i czasowniki, to jesteśmy w dupie. Dlatego IMO ludzie z a. Wernickego mają gorzej. Chyba są bardziej odcięci od świata.
+- W skrócie, pacjenci z a. Broki mają problem z *ruchem językowym*, a ci z a. Wernickego mają problem z *czuciem językowym*. Ci z a. **Broki nie mogą wprawić wypowiedzi w ruch**. Ci z a. **Wernickego nie czują słów**. 
 
 Jak wyobrażam sobie POV ludzi z afazją:
 
