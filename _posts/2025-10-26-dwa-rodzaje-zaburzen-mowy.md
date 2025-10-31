@@ -1,7 +1,5 @@
 ---
 title: Pytanie 12 –  Dwa rodzaje zaburzeń mowy i ich mózgowe podłoże
-categories: [SWPS, psychologia]
-tags: [neuropsychologia, afazja, Kalat]
 image: assets/img/pytanie12.jpg
 ---
 
@@ -11,7 +9,7 @@ ich mózgowe podłoże*
 Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warszawa, PWN. Rozdział 
 13.1*
 
-[:Interpretacja pytania](/nutshells/pytanie12/interpretacja)
+Moja [:interpretacja pytania](/nutshells/pytanie12/interpretacja)
 
 <br>
 # Afazja Broki i Wernickego w skrócie (małe przekłamanie)
