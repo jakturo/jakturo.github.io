@@ -90,6 +90,6 @@ Istnieje **terapia intonacyjna** (ang. _melodic intonation therapy_) – stosuje
 
 1. [aphasia.org](https://aphasia.org/) – ciekawe źródło, które podaje Kalat, ale niepotrzebne do egzaminu
 1. [:Źródła tego co Kalat mówi o pamięci deklaratywnej i proceduralnej](/nutshells/pytanie12/zrodla_kalat)
-1. [^1]: [From Singing to Speaking. (Schlaug et al., 2008) PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC3010734/)
+[^1]: [From Singing to Speaking. (Schlaug et al., 2008) PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC3010734/)
 
 
