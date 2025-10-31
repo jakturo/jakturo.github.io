@@ -4,7 +4,7 @@ image: assets/img/pytanie12.jpg
 ---
 
 Pytanie 12: *Omów dwa rodzaje zaburzeń mowy i porównaj 
-ich mózgowe podłoże*
+ich mózgowe podłoże.*
 
 Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warszawa, PWN. Rozdział 
 13.1*
@@ -30,8 +30,8 @@ Po pierwsze, to poszukajcie sobie w necie nagrań wypowiedzi i dialogów z osoba
 
 ## Moje skojarzenia:
 - **Afazja Broki:** <br>[:pacjent "tan-tan", pacjent "kurwa", pacjent "makabra"](/nutshells/pytanie12/tan-tan).<br>
-    - Mowa ~~płynie~~ → afazja ruchowa
-    - Mowa się ~~rusza~~ → afazja niepłynna
+    - Mowa ~~płynie~~ → afazja niepłynna
+    - Mowa się ~~rusza~~ → afazja ruchowa
     - Pacjent **czuje** mowę 
 - **Afazja Wernickego:**<br> "No wie Pan, tak tego było, bo poszedł i tego cośtam.". Trochę vibe: "zielone idee śpią wściekle".
     - Mowa **płynie** → afazja płynna 
