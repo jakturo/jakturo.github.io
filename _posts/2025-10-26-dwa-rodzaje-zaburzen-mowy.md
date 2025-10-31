@@ -1,5 +1,7 @@
 ---
 title: Pytanie 12 –  Dwa rodzaje zaburzeń mowy i ich mózgowe podłoże
+categories: [SWPS, psychologia]
+tags: [neuropsychologia, afazja, Kalat]
 image: assets/img/pytanie12.jpg
 ---
 
