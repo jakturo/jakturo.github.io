@@ -14,7 +14,7 @@ Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warsz
 <br>
 # Afazja Broki i Wernickego w skrócie (małe przekłamanie)
 
-Po pierwsze, to poszukajcie sobie w necie nagrań wypowiedzi i dialogów z osobami z afazją. Najlepiej po polsku i angielsku (po polsku nie wiem czy są nagrania, ale na pewno są transkrypcje: tutaj np. dialog z pacjentką z a. Wernickego](/nutshells/pytanie12/dialog_wernicke)). Wtedy szybko złapiecie różnice. Poniższa tabelka najbardziej pomaga, jak już się wie o co chodzi. 
+Po pierwsze, to poszukajcie sobie w necie nagrań wypowiedzi i dialogów z osobami z afazją. Najlepiej po polsku i angielsku (po polsku nie wiem czy są nagrania, ale na pewno są transkrypcje: tutaj np. [:dialog z pacjentką z a. Wernickego](/nutshells/pytanie12/dialog_wernicke)). Wtedy szybko złapiecie różnice. Poniższa tabelka najbardziej pomaga, jak już się wie o co chodzi. 
 
 ||Broki|Wernicke|
 |---------------|---|---|
