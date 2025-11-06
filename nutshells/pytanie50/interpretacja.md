@@ -1,3 +1,6 @@
+---
+---
+
 Powiedziałbym, że "neurobiologiczne podłoże" to już jest lekko mylące sformułowanie. Mi się to kojarzy, jakby coś neurobiologicznego miało być przyczyną. Natomiast moja naukowa intuicja mówi mi, że możemy mówić co najwyżej o neurobiologicznych korelatach powstawania reakcji emocjonalnych. 
 
 Kalat (i podobno inni psychologowie) emocje rozbijają na dwa aspekty:
