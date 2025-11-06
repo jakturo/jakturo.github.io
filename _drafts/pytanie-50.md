@@ -69,6 +69,9 @@ Natomiast pacjenci z hipotonią i syndromem zatrzaśnięcia okazują się zaskak
 
 U pacjentów z hipotonią ortostatyczną i syndromem zatrzaśnięcia uciekanie jest niemożliwe, więc nie podbija uczucia strachu. 
 
+<br>
+# Emocje a obszary mózgu
+
 
 <br>
 <hr>
