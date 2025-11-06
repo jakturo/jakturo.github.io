@@ -1,3 +1,7 @@
+---
+
+---
+
 James pisał mniej więcej, że nie da się wyobrazić gniewu bez zaczerwienionej twarzy i zaciśniętych zębów, a rozpaczy bez łez i bez szlochania. Argumentował, że jeżeli usuniemy z treści przeżycia zaczerwienioną twarz i zaciśnięte zęby, czy łzy i szlochanie, to zostanie tylko zimny, robotyczny osąd.
 
 > ...if I were to become corporeally anaesthetic, I should be excluded from the life of the affections... and drag out an existence of merely cognitive or intellectual form.
