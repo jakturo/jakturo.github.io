@@ -11,8 +11,8 @@ Wskazane źródło: Kalat, J.W. (2020). Biologiczne podstawy psychologii. Warsza
 <br>
 # Emocje jako decyzje
 
-Czym są emocje? *Well…*
-W sumie to nie wiadomo. Może pomoże nam Antonio Damasio.
+Czym są emocje? *Well…*  
+W sumie to nie wiadomo. Może pomoże nam Antonio Damasio.  
 Damasio argumentuje, że emocje są nieodłącznie związane z pojęciami _dobra i zła_, a Kalat mu przyśpiewuje (1999). Kalat pokazuje nam, jak reagują ludzkie mózgi, podczas rozważania wariantów dylematu wagonika. Wymienia, że na emocje "reagują" te obszary mózgu:
 - część kory przedczołowej
 - fragment zakrętu obręczy i zakręt kątowy (tylna część płata ciemieniowego, sąsiadująca z płatem skroniowym). 
@@ -63,7 +63,7 @@ Natomiast pacjenci z hipotonią i syndromem zatrzaśnięcia okazują się zaskak
 |---|---|---|:---:|---|
 |niedźwiedź| → |ocena <br>poznawcza| → |czucie<br> strachu|
 |||↓||↑|
-||||uciekanie: pobudzenie ciała|| 
+|||uciekanie:|pobudzenie|ciała| 
 
 U pacjentów z hipotonią ortostatyczną i syndromem zatrzaśnięcia uciekanie jest niemożliwe, więc nie podbija uczucia strachu. 
 
