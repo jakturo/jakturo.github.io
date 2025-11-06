@@ -6,7 +6,7 @@ Omów neurobiologiczne podłoże powstawania reakcji emocjonalnych.
 
 Wskazane źródło: Kalat, J.W. (2020). Biologiczne podstawy psychologii. Warszawa: PWN. Rozdziały 11.1 i 11.2
 
-Interpretacja pytania. 
+[:Interpretacja pytania.](/nutshells/pytanie50/interpretacja) 
 
 <br>
 # Emocje jako decyzje
@@ -60,10 +60,10 @@ Temu pacjentowi z padaczką po prostu otworzyli głowę i pokazywali przyjemne l
 Natomiast pacjenci z hipotonią i syndromem zatrzaśnięcia okazują się zaskakująco spokojni. Ci z hipotonią mogą pomyśleć "Ale mnie wkurza ten człowiek", ale przez to że nie skacze im ciśnienie, to informacja zwortna z ciała sprawia, że sami sobie nie wydają się aż tak wkurzeni. Natomiast syndrom zatrzaśnięcia sam w sobie jest wystarczającym powodem do rozpaczy – człowiek jest w pełni świadomy, ale może tylko mrugać oczami. Jednak pacjenci podobno nie panikują. Nawet jeśli mózg wysyła do ciała komunikat "PANIKA!", to ciało przez to że nie może się ruszyć, uspokaja mózg. 
 
 ||||||
-|---|---|---|---|---|
+|---|---|---|:---:|---|
 |niedźwiedź| → |ocena <br>poznawcza| → |czucie<br> strachu|
 |||↓||↑|
-||||uciekanie|| 
+||||uciekanie: pobudzenie ciała|| 
 
 U pacjentów z hipotonią ortostatyczną i syndromem zatrzaśnięcia uciekanie jest niemożliwe, więc nie podbija uczucia strachu. 
 
@@ -76,10 +76,10 @@ U pacjentów z hipotonią ortostatyczną i syndromem zatrzaśnięcia uciekanie j
 
 [^1]:[Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. Psychological Review, 108(4), 814–834.](https://doi.org/10.1037/0033-295X.108.4.814)
 
-[^1]:[Anderson, S. W., Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1999). Impairment of social and moral behavior related to early damage in human prefrontal cortex. Nature Neuroscience, 2(11), 1032–1037.](https://doi.org/10.1038/14833)
+[^2]:[Anderson, S. W., Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1999). Impairment of social and moral behavior related to early damage in human prefrontal cortex. Nature Neuroscience, 2(11), 1032–1037.](https://doi.org/10.1038/14833)
 
-[^1]:[Bechara, A., Damasio, H., Damasio, A. R., & Lee, G. P. (1999). Different Contributions of the Human Amygdala and Ventromedial Prefrontal Cortex to Decision-Making. The Journal of Neuroscience, 19(13), 5473–5481.](https://doi.org/10.1523/JNEUROSCI.19-13-05473.1999)
+[^3]:[Bechara, A., Damasio, H., Damasio, A. R., & Lee, G. P. (1999). Different Contributions of the Human Amygdala and Ventromedial Prefrontal Cortex to Decision-Making. The Journal of Neuroscience, 19(13), 5473–5481.](https://doi.org/10.1523/JNEUROSCI.19-13-05473.1999)
 
-[^1]: Tekst Lange'go – [The mechanism of the emotions (1885).](https://psychclassics.yorku.ca/Lange/)
+[^4]: Tekst Lange'go – [The mechanism of the emotions (1885).](https://psychclassics.yorku.ca/Lange/)
 
 
