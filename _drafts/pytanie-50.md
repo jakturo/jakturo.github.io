@@ -13,6 +13,7 @@ Wskazane źródło: Kalat, J.W. (2020). Biologiczne podstawy psychologii. Warsza
 
 Czym są emocje? *Well…*  
 W sumie to nie wiadomo. Może pomoże nam Antonio Damasio.  
+
 Damasio argumentuje, że emocje są nieodłącznie związane z pojęciami _dobra i zła_, a Kalat mu przyśpiewuje (1999). Kalat pokazuje nam, jak reagują ludzkie mózgi, podczas rozważania wariantów dylematu wagonika. Wymienia, że na emocje "reagują" te obszary mózgu:
 - część kory przedczołowej
 - fragment zakrętu obręczy i zakręt kątowy (tylna część płata ciemieniowego, sąsiadująca z płatem skroniowym). 
@@ -37,12 +38,12 @@ Jedną z części ukłądu nerwowego jest autonomiczny układ nerwowy. Jak sama 
 2. układ przywspółczulny
 Z grubsza, część współczulna pobudza, część przywspółczulna uspokaja. [:(Tylko skąd do cholery te nazwy?)](/nutshells/pytanie50/wspolczulny)
 
-I o ile [:irytuje mnie](/nutshells/pytanie50/irytuje), że wszyscy paplają o teorii Jamesa i Langego (bo ewidentnie czegoś w niej brakuje – o czym pisze sam Kalat), tak w kontekście autonomicznego układu nerwowego wydaje się ona mieć jakiś sens. O co chodzi z tą teorią? W skrócie: 
+I o ile [:irytuje mnie](/nutshells/pytanie50/irytuje), że wszyscy paplają o teorii Jamesa i Langego (bo ewidentnie czegoś w niej brakuje – o czym pisze sam Kalat), tak w kontekście autonomicznego układu nerwowego wydaje się ona mieć jakiś sens. O co chodzi z tą teorią? W skrócie:  
 Ludzie: reagujemy, przez to, że czujemy.
 William James: [:czujemy, przez to że reagujemy](/nutshells/pytanie50/james).
-Ludzie: Spotkałem niedźwiedzia, przestraszyłem się i uciekłem.
-William James: Spotkałem niedźwiedzia, uciekłem, po czym uświadomiłem sobie, że przecież się przestraszyłem.
-Carl Lange: Wkurza mnie, kiedy ludzie mówią "zjawiska fizjologiczne towarzyszące emocjom". Powinni mówić "emocje towarzyszące zjawiskom fizjologicznym".[^1]
+Ludzie: Spotkałem niedźwiedzia, przestraszyłem się i uciekłem.  
+William James: Spotkałem niedźwiedzia, uciekłem, po czym uświadomiłem sobie, że przecież się przestraszyłem.  
+Carl Lange: Wkurza mnie, kiedy ludzie mówią "zjawiska fizjologiczne towarzyszące emocjom". Powinni mówić "emocje towarzyszące zjawiskom fizjologicznym".[^1]  
 Ogólnie panowie twierdzili, że:
 > Pobudzenie fizjologiczne jest konieczne i wystarczające do wystąpienia emocji.
 
@@ -61,7 +62,7 @@ Natomiast pacjenci z hipotonią i syndromem zatrzaśnięcia okazują się zaskak
 
 ||||||
 |---|---|---|:---:|---|
-|niedźwiedź| → |ocena <br>poznawcza| → |czucie<br> strachu|
+|niedźwiedź| **→** |ocena <br>poznawcza| → |czucie<br> strachu|
 |||↓||↑|
 |||uciekanie:|pobudzenie|ciała| 
 
