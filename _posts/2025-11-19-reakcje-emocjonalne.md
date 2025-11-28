@@ -36,12 +36,12 @@ Ci z uszkodzeniem w rejonie kory przedczołowej mieli też słabszą ekspresję 
 
 Jedną z części układu nerwowego jest autonomiczny układ nerwowy. Jak sama nazwa wskazuje, robi co chce, bo jest autonomiczny. On sam składa się z dwóch części: 
 1. układ współczulny 
-2. układ przywspółczulny
+2. układ przywspółczulny  
 Z grubsza, część współczulna pobudza, część przywspółczulna uspokaja. [:(Tylko skąd do cholery te nazwy?)](/nutshells/pytanie50/wspolczulny)
 
 I o ile [:irytuje mnie](/nutshells/pytanie50/irytuje), że wszyscy paplają o teorii Jamesa i Langego (bo ewidentnie czegoś w niej brakuje – o czym pisze sam Kalat), tak w kontekście autonomicznego układu nerwowego wydaje się ona mieć jakiś sens. O co chodzi z tą teorią? W skrócie:  
-Ludzie: reagujemy, przez to, że czujemy.
-William James: [:czujemy, przez to że reagujemy](/nutshells/pytanie50/james).
+Ludzie: reagujemy, przez to, że czujemy.  
+William James: [:czujemy, przez to że reagujemy](/nutshells/pytanie50/james).  
 Ludzie: Spotkałem niedźwiedzia, przestraszyłem się i uciekłem.  
 William James: Spotkałem niedźwiedzia, uciekłem, po czym uświadomiłem sobie, że przecież się przestraszyłem.  
 Carl Lange: Wkurza mnie, kiedy ludzie mówią "zjawiska fizjologiczne towarzyszące emocjom". Powinni mówić "emocje towarzyszące zjawiskom fizjologicznym".[^4]  
