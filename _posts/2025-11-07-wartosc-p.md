@@ -1,0 +1,46 @@
+---
+title: Pytanie 
+image: 
+---
+Pytanie 19 – Jakie są zalety i wady stosowania poziomu istotności statystycznej jako jedynego kryterium wnioskowania statystycznego?
+
+📚 Wojciszke, B. (2004). Systematycznie modyfikowane autoreplikacje: logika programu badań empirycznych w psychologii.
+W: J. Brzeziński (red.), Metodologia badań psychologicznych. Wybór tekstów. Warszawa: Wydawnictwo Naukowe PWN.
+
+*p* – prawdopodobieństwo, że wyniki otrzymaliśmy przez przypadek  
+
+~~istotny statystycznie = istotny teoretycznie~~
+
+Wartość graniczna *p* to arbitralnie przyjęte, dopuszczalne ryzyko błędu.  
+
+Hmm, na pierwszy rzut, do głowy mi tylko przychodzi, że są same wady. Wartość *p* nie mówi nam nic o wielkości efektu, a w dodatku można ją hackować (tzw. *p-hacking*).
+
+Pisząc magisterkę zaobserwowałem, że w praktyce odchodzi się od zapisywania *p < 0,05*. Jak już, to się zapisuje, że *p < 0,01* albo  
+*p = 0,04*  
+*p = 0,11*
+
+"Każdą, nawet bardzo małą, i z naukowego punktu widzenia bzdurną różnicę między grupami można uznać za istotną statystycznie, gdy tylko porównywalne grupy będą bardzo duże"[^1]
+
+Moim zdaniem, dużo więcej informacji wnosi, czy badanie da się powtórzyć, a nie sama wartość *p*. Replikacje dramatycznie zmniejszają prawdopodobieństwo przypadku. Przykład z rzutem kośćmi:
+Wyrzucenie jednej szóstki kostką → 1/6
+Wyrzucenie szóstki 4 razy z rzędu → (1/6)⁴ = 1/1296  
+Podobnie jest z wartością *p*
+
+Dlatego też nie do końca zgadzam się ze stwierdzeniem, że wartość *p* wyższa od 0,05 jest nieinformacyjna. 
+
+Fiksacja na wartości *p* może prowadzić do _efektu szuflady_
+
+To w jaki sposób badacze naciągają wartość *p* samo w sobie nadawałoby się na badania psychologiczne.  
+
+Przy bardzo dużych próbach można uzyskać wyniki o wysokiej istotności statystycznej, ale z bardzo małą siłą efektu, co sprawia, że z naukowego punktu widzenia są bezużyteczne. Tzw. _przemocowana próba_.
+
+Zalet stosowania wartości *p* za bardzo nie widzę. Może oprócz tego, że łatwo zrozumieć o co w niej chodzi (chociaż i tak wykładowcy nie potrafią zrozumiale tego wytłumaczyć). 
+
+>Publikowanie replikacji zarówno udanych, jak i nieudanych zdaje się więc mieć niewiele sensu. Jednakże brak publikacji tego rodzaju badań jest jeszcze mniej sensowny…
+
+>„…miernikiem podobieństwa wyników badań … powinien być nie poziom istotności, ale wskaźnik siły efektu…”
+
+<br>
+<hr>
+<br>
+[^1]:Jakieś notatki ze studiów

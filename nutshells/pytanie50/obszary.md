@@ -1,0 +1,19 @@
+---
+---
+Tu wymieniam z Kalata, potem będę wyjaśniał. Bez stresu, wiadomo, nikt normalny tego nie zapamięta w tej postaci. 
+- układ limbiczny (A. R. Damasio i in. 2000)
+- ciało migdałowate 
+- zakręt obręczy (R. A. Cohen i in. 2001)
+- podwzgórze
+- część kory somatosensorycznej
+- śródmózgowie
+- przyśrodkowa kora czołowa
+- kora wyspy (Calder, Keane, Manes, Antoun, Young, 2000)
+- prawa półkula (bardziej niż lewa) 
+-- prawy płat skroniowy
+-- prawe ciało migdałowate
+-- (Buck, Duffy, 1980)
+-- (Etcon, Ekman, Magee, Frank, 2000)
+-- (E. D. Ross, Homan, Buck, 1994)
+-- (Royet i in, 2000)
+-- (Schmidt, 1999)
