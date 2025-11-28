@@ -1,5 +1,5 @@
 ---
-title: Pytanie 50
+title: Pytanie 50 – neurobiologiczne podstawy reakcji emocjonalnych
 image: 
 ---
 Omów neurobiologiczne podłoże powstawania reakcji emocjonalnych.
