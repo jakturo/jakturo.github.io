@@ -2,15 +2,17 @@
 title: Pytanie 41 – efekt Barnuma
 image: assets/img/p41.png
 ---
-Na czym polega efekt Barnuma i jakie może mieć konsekwencje dla diagnozy psychologicznej?
+Pytanie 41: *Na czym polega efekt Barnuma i jakie może mieć konsekwencje dla diagnozy psychologicznej?*
 
 📚 Stemplewska-Żakowicz, K. (2009). Diagnoza psychologiczna. Diagnozowanie jako kompetencja profesjonalna.
 Gdańsk: GWP. Rozdział 3.2.
+
 <br>
 Efekt Barnuma  
 Efekt Forera  
 Efekt Horoskopowy  
 *Fallacy of personal validation*
+
 <br>
 Barnum – przedsiębiorca cyrkowy, który mówił, że każdy znajdzie coś dla siebie w jego pokazach
 
