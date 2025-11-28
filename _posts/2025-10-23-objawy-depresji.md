@@ -1,5 +1,5 @@
 ---
-title: Pytanie 
+title: Pytanie 23 – objawy depresji 
 image: 
 ---
 Pytanie 23 – Wymień główne objawy depresji zgodnie z DSM-5. Czy objawy depresji występujące u dzieci różnią się od objawów depresji u dorosłych? Jeżeli tak, to omów różnice w objawach depresji u dzieci i dorosłych.

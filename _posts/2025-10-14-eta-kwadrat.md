@@ -1,6 +1,6 @@
 ---
-title: Pytanie 
-image: 
+title: Pytanie 14 – eta kwadrat
+image: assets/img/pytanie14.png
 ---
 Pytanie 14 – Na przykładzie statystyki eta kwadrat omów miary siły efektu oraz rolę tych miar w badaniach naukowych i w praktyce.
 

@@ -1,5 +1,5 @@
 ---
-title: Pytanie 
+title: Pytanie 29 – techniki wpływu społecznego 
 image: 
 ---
 Pytanie 29 – Wymień pięć technik wpływu społecznego. Wybierz jedną technikę wpływu społecznego i wskaż eksperyment, który weryfikował jej istnienie/skuteczność, omów tę technikę, mechanizm jej działania oraz wskaż przykład z życia społecznego, który ją ilustruje.

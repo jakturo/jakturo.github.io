@@ -1,6 +1,6 @@
 ---
-title: Pytanie 
-image: 
+title: Pytanie 35 – przynależność grupowa (Tajfel i Turner)
+image: assets/img/pytanie35.png
 ---
 W oparciu o teorię tożsamości społecznej Henriego Tajfela i Johna Turnera opisz związek między poczuciem własnej wartości a przynależnością grupową. Podaj przykłady zastosowania tej teorii do rozumienia współczesnych zjawisk społecznych.
 

@@ -1,5 +1,5 @@
 ---
-title: Pytanie 
+title: Pytanie 21 – 
 image: 
 ---
 Pytanie 21 – Wymień kategorie wykorzystywane w psychologii do opisu różnic indywidualnych. Omów ich status i specyfikę. Podaj przykłady teorii wykorzystujących te kategorie.
@@ -8,3 +8,7 @@ Pytanie 21 – Wymień kategorie wykorzystywane w psychologii do opisu różnic 
 Warszawa: Wydawnictwo Naukowe Scholar. Rozdział 2.
 
 Cechy to zmienne latente.  
+Cecha  
+Wymiar  
+Typ  
+

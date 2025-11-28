@@ -1,6 +1,6 @@
 ---
-title: Pytanie 
-image: 
+title: Pytanie 41 – efekt Barnuma
+image: assets/img/p41.png
 ---
 Na czym polega efekt Barnuma i jakie może mieć konsekwencje dla diagnozy psychologicznej?
 

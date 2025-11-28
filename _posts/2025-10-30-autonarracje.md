@@ -1,5 +1,5 @@
 ---
-title: Pytanie 
+title: Pytanie 30 – autonarracje 
 image: 
 ---
 Pytanie 30 – Omów rolę autonarracji w zachowaniach jednostki.

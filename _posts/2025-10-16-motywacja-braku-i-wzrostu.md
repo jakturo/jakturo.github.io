@@ -1,6 +1,6 @@
 ---
-title: Pytanie 
-image: 
+title: Pytanie 16 – drabina Maslowa (d-needs/b-needs)
+image: assets/img/pytanie16.png
 ---
 Pytanie 16 – Porównaj motywację braku i motywację wzrostu zgodnie z koncepcją Abrahama Maslowa i przedstaw przykłady zachowań wynikających z tych dwóch motywacji.
 

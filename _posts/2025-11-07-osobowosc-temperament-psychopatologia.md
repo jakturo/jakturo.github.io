@@ -1,5 +1,5 @@
 ---
-title: Pytanie 
+title: Pytanie 38 – osobowość, temperament, psychopatologie
 image: 
 ---
 Jaki jest związek między cechami osobowości i temperamentem a psychopatologią i chorobami somatycznymi? Omów na podstawie wybranych cech.

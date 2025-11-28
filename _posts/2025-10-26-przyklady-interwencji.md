@@ -1,5 +1,5 @@
 ---
-title: Pytanie 
+title: Pytanie 26 – przykłady interwencji psychologicznych 
 image: 
 ---
 Pytanie 26 – Przedstaw przykłady interwencji, które uwzględniają specyfikę rozwoju człowieka i mogą wspierać zdrowie i dobrostan ludzi na różnych etapach życia. Omów mechanizm działania wskazanych interwencji.
