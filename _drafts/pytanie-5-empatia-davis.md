@@ -1,5 +1,5 @@
 ---
-title: Pytanie – empatia poznawcza i afektywna (Davis)
+title: Pytanie 5 – empatia poznawcza i afektywna (Davis)
 image: 
 ---
 Pytanie 5 – Omów wielowymiarowy model empatii Marka H. Davisa oraz wskaż zalety i wady tego modelu w porównaniu z modelem jednowymiarowym.

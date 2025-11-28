@@ -1,6 +1,6 @@
 ---
-title: Pytanie 
-image: 
+title: Pytanie 8 – diagnozowanie
+image: assets/img/pytanie8.png
 ---
 Pytanie 8 – Wymień, omów i porównaj trzy modele diagnozy psychologicznej.
 
