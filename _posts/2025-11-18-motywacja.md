@@ -1,5 +1,5 @@
 ---
-title: Pytanie 
+title: Pytanie 49 – motywacja
 image: 
 ---
 Omów i porównaj dwie wybrane współczesne koncepcje motywacji.

@@ -1,5 +1,5 @@
 ---
-title: Pytanie 21 – 
+title: Pytanie 21 – opisywanie różnic indywidualnych
 image: 
 ---
 Pytanie 21 – Wymień kategorie wykorzystywane w psychologii do opisu różnic indywidualnych. Omów ich status i specyfikę. Podaj przykłady teorii wykorzystujących te kategorie.

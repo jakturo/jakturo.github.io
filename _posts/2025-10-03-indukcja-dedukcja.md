@@ -1,5 +1,5 @@
 ---
-title: Pytanie 3
+title: Pytanie 3 – indukcyjne a dedukcyjne konstruowanie testu
 image: 
 ---
 Pytanie 3 – Wyjaśnij różnice pomiędzy indukcyjną a dedukcyjną strategią konstruowania testu.
