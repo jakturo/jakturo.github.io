@@ -72,7 +72,7 @@ U pacjentów z hipotonią ortostatyczną i syndromem zatrzaśnięcia uciekanie j
 ## Emocje a obszary mózgu
 
 Przeczytałem rozdział Kalata, i konkluzja taka, że  
-do pewnego stopnia [:niektóre rejony mózgu](/nutshell/pytanie50/obszary) mogą być ważniejsze dla określonych emocji niż inne, aczkolwiek "nie przeprowadzono na ten temat zbyt wielu badań" (Kalat, 2016). Pff.  
+do pewnego stopnia [:niektóre rejony mózgu](/nutshells/pytanie50/obszary) mogą być ważniejsze dla określonych emocji niż inne, aczkolwiek "nie przeprowadzono na ten temat zbyt wielu badań" (Kalat, 2016). Pff.  
 Ogólny wniosek taki, że  
 
 ważny jest układ limbiczny,  
