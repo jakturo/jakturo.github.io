@@ -13,10 +13,9 @@ Efekt Forera
 Efekt Horoskopowy  
 *Fallacy of personal validation*
 
-<br>
-Barnum – przedsiębiorca cyrkowy, który mówił, że każdy znajdzie coś dla siebie w jego pokazach
+**Barnum** to przedsiębiorca cyrkowy, który mówił, że każdy znajdzie coś dla siebie w jego pokazach
 
-Forer – wykładowca, który zrobił studentom fikcyjne testy osobowości. Potem wszystkim rozdał jeden i ten sam fikcyjny opis osobowości, który rzekomo został sporządzony na podstawie tamtego testu. Spytał potem studentów na ile opisy się zgadzają z ich osobowością. Studenci ocenili je na 4,26/5. 
+**Forer** to wykładowca, który zrobił studentom fikcyjne testy osobowości. Potem wszystkim rozdał jeden i ten sam fikcyjny opis osobowości, który rzekomo został sporządzony na podstawie tamtego testu. Spytał potem studentów na ile opisy się zgadzają z ich osobowością. Studenci ocenili je na 4,26/5. 
 
 Ogólne, pozytywne opisy:  
 "Lubisz towarzystwo ludzi, choć czasem potrzebujesz pobyć sam".
