@@ -1,8 +1,8 @@
 ---
-title: Pytanie 14 – eta kwadrat – η²
+title: Pytanie 14 – eta kwadrat (η²)
 image: assets/img/pytanie14.png
 ---
-Pytanie 14 – Na przykładzie statystyki eta kwadrat omów miary siły efektu oraz rolę tych miar w badaniach naukowych i w praktyce.
+Pytanie 14: Na przykładzie statystyki eta kwadrat omów miary siły efektu oraz rolę tych miar w badaniach naukowych i w praktyce.
 
 📚 Bedyńska, S., & Cypryańska, M. (2013). Statystyczny drogowskaz. Tom 2.
 Warszawa: Sedno/SWPS. Rozdziały 1, 2.

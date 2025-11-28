@@ -2,10 +2,10 @@
 title: Pytanie 16 – drabina Maslowa (d-needs/b-needs)
 image: assets/img/pytanie16.png
 ---
-Pytanie 16 – Porównaj motywację braku i motywację wzrostu zgodnie z koncepcją Abrahama Maslowa i przedstaw przykłady zachowań wynikających z tych dwóch motywacji.
+Pytanie 16: Porównaj motywację braku i motywację wzrostu zgodnie z koncepcją Abrahama Maslowa i przedstaw przykłady zachowań wynikających z tych dwóch motywacji.
 
-Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdz. 7). W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)
-
+📚Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdz. 7). W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)
+<br>
 To pytanie to jest jakiś bullshit. W tym fragmencie jest ledwie wspomniane o motywacji braku i wzrostu. Jest opisane co mówił Rogers i trochę co mówił Maslow, ale niewiele. 
 
 Muszę sięgnąć do prawdziwych materiałów źródłowych, a nie jakieś, tfu, podręczniki.  

@@ -2,10 +2,11 @@
 title: Pytanie 49 – motywacja
 image: 
 ---
-Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
+Pytanie 49: Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
 
-Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdział 7).
+📚Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdział 7).
 W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)
+<br>
 
 
 Straszne dinozaury są omawiane w tych rozdziałach. Stwierdziłem, że lepiej będzie jak poszerzę swoje rozumienie motywacji wewnętrznej i zewnętrznej. Wewnętrzna bywa przedstawiana jako normatywnie lepsza, ale czy faktycznie tak jest?  

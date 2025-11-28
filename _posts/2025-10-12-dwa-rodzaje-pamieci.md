@@ -5,7 +5,7 @@ image: assets/img/pytanie11.png
 
 Pytanie 11: *Omów mózgowe podłoże przynajmniej dwóch rodzajów pamięci i wskaż jego rolę w powstawaniu deficytów w działaniu omówionych rodzajów pamięci.*
 
-Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii Warszawa, PWN. Rozdział 
+📚*Kalat. J. W. (2020) Biologiczne podstawy psychologii Warszawa, PWN. Rozdział 
 12.1 i 12.2* 
 
 **Deklaratywna (jawna)**. Wymaga świadomego przypominania.   

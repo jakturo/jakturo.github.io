@@ -6,7 +6,7 @@ image: assets/img/pytanie12.jpg
 Pytanie 12: *Omów dwa rodzaje zaburzeń mowy i porównaj 
 ich mózgowe podłoże.*
 
-Wskazane źródło: *Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warszawa, PWN. Rozdział 
+📚*Kalat. J. W. (2020) Biologiczne podstawy psychologii. Warszawa, PWN. Rozdział 
 13.1*
 
 Moja [:interpretacja pytania](/nutshells/pytanie12/interpretacja)

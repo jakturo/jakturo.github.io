@@ -2,7 +2,7 @@
 title: Pytanie 17 – rozwój społeczny dzieci (eksperyment)
 image: assets/img/pytanie17.png
 ---
-Pytanie 17 – Sformułuj problem badawczy dotyczący rozwoju społecznego dzieci w wieku przedszkolnym i wczesnoszkolnym oraz zaproponuj sposób empirycznej weryfikacji tego problemu, odwołując się do metodologii badań z obszaru psychologii rozwoju człowieka.
+Pytanie 17: Sformułuj problem badawczy dotyczący rozwoju społecznego dzieci w wieku przedszkolnym i wczesnoszkolnym oraz zaproponuj sposób empirycznej weryfikacji tego problemu, odwołując się do metodologii badań z obszaru psychologii rozwoju człowieka.
 
 📚 Schaffer, D.R., Kipp, K. (2015). Psychologia rozwoju. Od dziecka do dorosłości.
 Gdańsk: Harmonia Universalis. Rozdział 1.

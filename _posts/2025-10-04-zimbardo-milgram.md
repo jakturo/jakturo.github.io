@@ -48,7 +48,7 @@ Jeśli badany wahał się, eksperymentator recytował:
 1. „Please continue.”
 2. „The experiment requires that you continue.”
 3. „It is absolutely essential that you continue.”
-4. „You have no other choice, you must go on.”
+4. „You have no other choice, you must go on.”  
 26 z 40 osób doszło do poziomu 450 Volt. 
 
 W podstawowym wariancie eksperymentu:
