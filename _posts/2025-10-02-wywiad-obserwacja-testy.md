@@ -2,17 +2,17 @@
 title: Pytanie 2 – główne metody diagnozowania w psychologii
 image: 
 ---
-Pytanie 2 – Wymień i porównaj główne metody diagnozowania w psychologii.
+Pytanie 2: Wymień i porównaj główne metody diagnozowania w psychologii.
 
 📚 Stemplewska-Żakowicz, K. (2009). Diagnoza psychologiczna. Diagnozowanie jako kompetencja profesjonalna.
 Gdańsk: GWP. Rozdział 2.3.
 
+<br>
 Podział tradycyjny:
 1. Wywiad 
 2. Obserwacja 
 3. Testowanie 
 
-<br>
 ## 1. Wywiad
 
 Metoda najczęściej stosowana.  

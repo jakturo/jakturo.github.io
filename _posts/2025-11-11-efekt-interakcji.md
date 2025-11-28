@@ -2,13 +2,14 @@
 title: Pytanie 42 – efekt interakcji (na przykładzie pobudzenia)
 image: assets/img/p42.png
 ---
-Wyjaśnij, na czym polega efekt interakcji w badaniach psychologicznych i w jaki sposób się go analizuje. W omówieniu tego zagadnienia posłuż się przykładem badania, w którym ten efekt wystąpił.
+*Wyjaśnij, na czym polega efekt interakcji w badaniach psychologicznych i w jaki sposób się go analizuje. W omówieniu tego zagadnienia posłuż się przykładem badania, w którym ten efekt wystąpił.*
 
 📚 Bedyńska, S., & Cypryańska, M. (2013). Statystyczny drogowskaz. Tom 2.
 Warszawa: Sedno/SWPS. Rozdział 8.
 📚 Bedyńska, S., & Książek, M. (2013). Statystyczny drogowskaz. Tom 3.
 Warszawa: Sedno/SWPS. Rozdział 6.
- 
+
+<br>
 
 Czym niby różni się efekt interakcji od efektu moderacji?  
 > Zarówno interakcja i moderacja znaczy to samo: wpływ jednego predyktora na zmienną zależną jest inny na różnych wartościach drugiego predyktora[^1].

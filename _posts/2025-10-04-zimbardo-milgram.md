@@ -5,7 +5,7 @@ image: assets/img/pytanie4.png
 Pytanie 4 – Porównując eksperyment więzienny Phillipa Zimbardo oraz eksperyment Stanleya Milgrama (m.in. uderzanie prądem w badaniu „wpływu kar na uczenie się” i ulegania autorytetom), wskaż, który z nich spełnia kryteria badania w schemacie eksperymentalnym oraz jakie to ma znaczenie dla wyciąganych wniosków.
 
 📚 Wojciszke, B. (2011). Psychologia społeczna. Warszawa: Wydawnictwo Naukowe Scholar.
-
+<br>
 ## Zimbardo "eksperyment więzienny"
 
 Nie było jasnych zmiennych.  
@@ -28,6 +28,7 @@ Jeżeli damy aktorowi scenariusz, w którym jest napisane, że gra oprawcę, to 
 |podstawiony <br>uczestnik| uczeń|
 |asystent <br>eksperymentatora| eksperymentator|
 |eksperymentator|*nieobecny*|
+
 
 Osoba badana "losowała" czy zostanie przydzielona do roli ucznia, czy nauczyciela.  
 Losowanie było upozorowane. Były dwie karteczki "nauczyciel". Badany zawsze losował jako pierwszy. Podstawiony uczestnik losował jako drugi. 
@@ -52,11 +53,8 @@ Jeśli badany wahał się, eksperymentator recytował:
 
 W podstawowym wariancie eksperymentu:
 - eksperymentator i nauczyciel byli w tym samym pomieszczeniu
-- uczeń był w innym pomieszczeniu, ale słyszalne były głosy i krzyki
+- uczeń był w innym pomieszczeniu, ale słyszalne były głosy i krzyki.  
 W podstawowym wariancie eksperymentu (1963) brak jest zmiennej niezależnej. 
-
-
-
 
 ### Moje parę groszy krytyki
 

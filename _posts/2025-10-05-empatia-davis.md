@@ -2,9 +2,10 @@
 title: Pytanie 5 – empatia poznawcza i afektywna (Davis)
 image: 
 ---
-Pytanie 5 – Omów wielowymiarowy model empatii Marka H. Davisa oraz wskaż zalety i wady tego modelu w porównaniu z modelem jednowymiarowym.
+Pytanie 5: Omów wielowymiarowy model empatii Marka H. Davisa oraz wskaż zalety i wady tego modelu w porównaniu z modelem jednowymiarowym.
 
-Eisenberg, N. (2005). Empatia i współczucie. W: M. Lewis, J.M. Haviland-Jones (red.), Psychologia emocji. Gdańsk: GWP. (s. 849–862)
+📚Eisenberg, N. (2005). Empatia i współczucie. W: M. Lewis, J.M. Haviland-Jones (red.), Psychologia emocji. Gdańsk: GWP. (s. 849–862)
+<br>
 
 tradycyjne ujęcia skupiały się tylko na jednym aspekcie  
 model Davisa uwzględnia zarówno komponent poznawczy jak i afektywny  

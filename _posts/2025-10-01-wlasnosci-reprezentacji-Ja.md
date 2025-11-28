@@ -1,10 +1,10 @@
 ---
-title: Pytanie 1 – Własności reprezentacji Ja
+title: Pytanie 1 – własności reprezentacji Ja
 ---
 
 Pytanie 1: _Porównaj własności reprezentacji Ja, (własnej osoby), opisywane w koncepcjach psychodynamicznych, humanistycznych i społeczno-poznawczych._
 
-Wskazane źródło: Cervone, D., Pervin, L. A. (2011). Osobowość: teoria i badania. Kraków: Wydawnictwo UJ. Rozdziały 11, 12 i 13.
+📚Cervone, D., Pervin, L. A. (2011). Osobowość: teoria i badania. Kraków: Wydawnictwo UJ. Rozdziały 11, 12 i 13.
 
 Źródło pokrewne: [:Pervin, L. A., & John, O. P. (2002). Osobowość: Teoria i badania (Wyd. 8). Wydaw. Uniwerstetu Jagiellońskiego.](/nutshells/pytanie1/zrodlo_pokrewne)
 
