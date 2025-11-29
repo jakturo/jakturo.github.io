@@ -15,7 +15,7 @@ Kryzys zawsze jest szansą
 
 Jezus maria, jak ja nie lubię teorii psychoanalitycznych... 
 
-|||cnota ego|
+||rozwiązanie<br>pozytywne|rozwiązanie<br>negatywne|cnota ego|
 |---|---|---|
 |1.|zaufanie|brak<br>zaufania|nadzieja|
 |2.|autonomia|wstyd|wola|
