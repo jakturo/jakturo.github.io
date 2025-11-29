@@ -48,6 +48,7 @@ Kreatywność daje rozwiązania:
 - nowe
 - użyteczne 
 - oryginalne
+
 Podkreśla, że kreatywność wymaga innego sposobu pomiaru niż zwykłe testy inteligencji.  
 Ujmuje kreatywność jako zdolność poznawczą.  
 Wyróżnia aspekty kreatywności:
@@ -55,6 +56,7 @@ Wyróżnia aspekty kreatywności:
 - Elastyczność
 - Oryginalność
 - Rozbudowanie
+
 Kreatywność jako część intelektu, a nie tylko cecha osobowości. 
 Trójwymiarowy model zdolności intelektualnych (Structure of Intellect). 
 1. Co robi umysł (Operations)

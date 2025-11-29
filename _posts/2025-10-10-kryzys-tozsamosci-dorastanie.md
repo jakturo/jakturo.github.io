@@ -8,16 +8,19 @@ Pytanie 9: Wyjaśnij, na czym polega kryzys tożsamości w okresie adolescencji.
 Gdańsk: Gdańskie Wydawnictwo Psychologiczne. Rozdział 6.
 
 ## Opracowanie wygenerowane GPT
-Δ obraz siebie
-Δ system wartości 
+
+Zmiana:
+: obrazu siebie
+: systemu wartości  
 
 Kim jestem?
 Jaki jest sens mojego życia? 
 
-Nowa równowaga.
-Role.  
-Wartości.  
-Styl życia.  
+Nowe:
+: równowaga.  
+: role.  
+: wartości.  
+: styl życia.  
 
 Rozwiązanie pozytywne.  
 Rozwiązanie negatywne.  
@@ -26,7 +29,8 @@ Rozwiązanie negatywne.
 : zagubienie
 : brak planów, przekonań
 : trudności z podejmowaniem decyzji
- 
+
+<br> 
 **Tożsamość negatywna** – identyfikacja z rolami niekceptowalnymi społecznie. Utrudnia integrację społeczną.  
 : buntownik
 : czarna owca  
@@ -37,6 +41,7 @@ Może pełnić pozytywną rolę tylko wtedy, gdy ma przejściowy charakter. Pozy
 
 Przyjęcie tożsamości negatywnej jest łatwiejsze, niż brak tożsamości. 
 
+<br>
 Erikson:
 : ukształtowana tożsamość jest warunkiem wstępnym dla prawdziwej intymności 
 

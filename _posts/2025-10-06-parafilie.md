@@ -7,6 +7,7 @@ Pytanie 6: Scharakteryzuj zaburzenia parafilne. Wymień rodzaje parafilii opisan
 📚 Butcher, J.N., Hooley, J.N., Mineka, S. (2018). Psychologia zaburzeń.
 Sopot: GWP. Rozdział 12.
 
+<br>
 > (...) both happy and distressed foot fetishists have the same paraphilia.
 
 parafilie – niezwykłe/nietypowe zainteresowania seksualne
