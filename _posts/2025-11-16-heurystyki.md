@@ -24,4 +24,4 @@ Co jest bardziej prawdopodobne:
 
 W oryginalnym badaniu większość wskazało odpowiedź nr 2, bo Linda pasuje do „prototypu” feministki. Podczas gdy kasjerki-feministki stanowią podzbiór kasjerek i logicznie bardziej prawdopodobne jest, że Linda jest po prostu kasjerką. Koniunkcja dwóch cech zawsze będzie mniej prawdopodobna niż każda z tych cech osobno. 
 
-Disclaimer: Linda nie ma nic wspólnego ze spadającymi samolotami. Przynajmniej tak mi się wydaje. 
+`Disclaimer: Linda nie ma nic wspólnego ze spadającymi samolotami. Przynajmniej tak mi się wydaje. `
