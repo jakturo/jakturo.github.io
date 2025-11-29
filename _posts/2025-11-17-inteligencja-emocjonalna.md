@@ -8,6 +8,8 @@ Pytanie 48: Przedstaw i porównaj koncepcje inteligencji emocjonalnej (IE) rozum
 Warszawa: Wydawnictwo Naukowe Scholar. Rozdział 19.
 
 <br>
+## TL;DR
+
 IE jako zdolność → rzeczywista IE, mierzona testami wykonaniowymi. „Zachowania **maksymalne**” – ujawniające się w wyjątkowych okolicznościach. 
 
 IE jako cecha → postrzegana IE, mierzone przez samoopis. „Zachowania **typowe**” – ujawniające się na co dzień. Koreluje z **W5**  

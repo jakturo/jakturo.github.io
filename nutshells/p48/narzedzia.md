@@ -1,12 +1,11 @@
 ---
 ---
-Narzędzia
-
 do badania IE jako zdolności (testy wykonaniowe):     
 : Wieloczynnikowa Skala Inteligencji Emocjonalnej (MEIS) 
 : Test Inteligencji Mayer-Salovey-Caruso (MSCEIT) 
 : Skala Świadomości Emocjonalnej (LEAS) 
 
+<br>
 do badania IE jako cechy (kwestionariusze samoopisowe): 
 : Inwentarz Ilorazu Inteligencji Emocjonalnej Bar-Ona (EQ-I) 
 167 
