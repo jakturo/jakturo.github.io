@@ -1,73 +1,73 @@
 ---
 ---
-🧠Neuro (Kalat):
+Neuro 🧠(Kalat):
 : reakcje emocjonalne
 : zaburzenia mowy
 : zaburzenia pamięci 
 : sen 
 
-😃🎯Emocje i motywacje:
+Emocje i motywacje😃🎯:
 : empatia
 : motywacja braku i wzrostu
 : stres
 : motywacja współcześnie
 
-🎭Osobowość:
+Osobowość🎭:
 : rozwój osobowości
 : reprezentacje Ja
 : autonarracje
 
-🧩Poznawcza (Maruszewski):
+Poznawcza (Maruszewski)🧩:
 : pamięć autobiograficzna
 : selekcja uwagowa 
 : pojęcia umysłowe
 : heurystyki
 
-👥Społeczna (Wojciszke)
+Społeczna (Wojciszke)👥
 : drama metodologiczna – Zimbardo vs. Milgram
 : udzielanie pomocy
 : poczucie własnej wartości (Tajfel i Turner)
 : techniki wpływu społecznego
 
-⚕️Kliniczna (Butcher):
+Kliniczna (Butcher)⚕️:
 : objawy depresji
 : predyktory uzależnień
 : zaburzenia parafilne
 : anoreksja a bulimia
 
-📊Statystyka i metodologia (Statystyczny drogowskaz + „SMAR”):
+Statystyka i metodologia 📊(Statystyczny drogowskaz + „SMAR”):
 : efekt interakcji
 : plan z powtarzanym pomiarem
 : eta kwadrat
 : wady i (prawie żadne) zalety wartości „p”
 
-🌱Rozwojówka
+Rozwojówka 🌱:
 : rozwój poznawczy i społeczny – dwie teorie
 : zadania rozwojowe w ciągu życia
 : rozwój społeczny w przedszkolu i szkole
 : interwencje psychologiczne na różnych etapach życia
 : kryzys tożsamości
 
-📏Psychometria (Hornowska)
+Psychometria 📏 (Hornowska):
 : rzetelność testów psychologicznych
 : trafność teoretyczna testów psychologicznych
 : moc dyskryminacyjna 
 : indukcyjne i dedukcyjne konstruowanie testów
 
-🔥🎓🧬Temperament i osobowość (Strelau)
+Temperament i osobowość 🔥🎓🧬 (Strelau):
 : choroby somatyczne
 : temperament
 : inteligencja emocjonalna
 : opisywanie różnic indywidualnych
 : osiągnięcia akademickie
 
-📝Diagnoza (Stemplewska-Żakowicz):
+Diagnoza 📝 (Stemplewska-Żakowicz):
 : wywiad, obserwacja, testy
 : nozo-, funkcjo-, inter-
 : efekt Barnuma
 : kontrakt psychologiczny
 
-⚖️Etyka Zawodowa:
+Etyka Zawodowa ⚖️:
 : tajemnica zawodowa – akty prawne 
 : badania – etyczne ograniczenia, regulacje prawne, świadoma i dobrowolna zgoda
 : pięć wartości – APA vs. PTP
