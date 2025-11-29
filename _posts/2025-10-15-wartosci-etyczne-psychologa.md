@@ -11,7 +11,7 @@ Dostęp online: https://psych.org.pl/o-ptp/kodeks-psychologa
 
 To są wszystko oczywiste rzeczy, ale zawsze magicznie okazuje się, że znajduje się psycholog, który potrafi to naruszyć.  
 
-# Z tej polskiej strony 
+## Z Kodeksu PTP
 
 1. Poszanowanie praw i godności ludzkiej
 : człowieczeństwo
@@ -40,12 +40,9 @@ To są wszystko oczywiste rzeczy, ale zawsze magicznie okazuje się, że znajduj
 : korygowanie nierealistycznych oczekiwań 
 
 
-prawa, godność  
+## Z kodeksu APA
 
-dobro  
-
-kompetencja  
-
-odpowiedzialność  
-
-uczciwość  
+<br>
+<hr>
+<br>
+https://www.apa.org/ethics/code/ethics-code-2017.pdf
