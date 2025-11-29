@@ -34,8 +34,8 @@ Jedną z podstawowych informacji, kiedy klient przychodzi do gabinetu, jest to c
 Mi motywacja wewnętrzna osobiście kojarzy się z odroczoną gratyfikacją i nagrodą. Motywacja zewnętrzna kojarzy się z karą. Jeżeli nagrody i kary zmapować kolejno na emocje pozytywne i negatywne, to należy przyjąć, że kary (emocje negatywne) pomogą zrobić rewolucję w czyimś życiu (niosą więcej energii), ale nagrody (emocje pozytywne) pomogą podtrzymać działanie (zapobiegaja wypaleniu). Może się to dziać na zasadzie, że uniknięcie kary jest nagrodą. 
 
 ## Modele
-### David C. McClelland i 
-jego motywy społeczne:
+### David C. McClelland 
+i jego motywy społeczne:
 : [:porzeba osiągnięć (**Ach**ievement)](/nutshells/p49/ach)
 : [:afiliacji (**Aff**iliation)](/nutshells/p49/af)
 : [:władzy (**Pow**er)](/nutshells/p49/pow)
@@ -48,8 +48,8 @@ Czy to jest model naukowy? Wel...
 Stosowany przez McClellanda **TAT** to  
 [test apercepcji tematycznej](https://en.wikipedia.org/wiki/Thematic_Apperception_Test).
 
-### Atkinson i
-diagnostyczność wysiłku:
+### Atkinson
+i diagnostyczność wysiłku:
 : hope of success (HoS)
 : fear of failure (FoF)  
 
