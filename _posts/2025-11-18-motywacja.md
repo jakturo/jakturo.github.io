@@ -35,10 +35,10 @@ Mi motywacja wewnętrzna osobiście kojarzy się z odroczoną gratyfikacją i na
 
 ## Modele
 ### David C. McClelland i 
-motywy społeczne:
-: potrzeba osiągnięć (**Ach**ievement)
-: afiliacji (**Aff**iliation)
-: władzy (**Pow**er)
+jego motywy społeczne:
+: [porzeba osiągnięć (**Ach**ievement)](/nutshells/p49/ach)
+: [afiliacji (**Aff**iliation)](/nutshells/p49/af)
+: [władzy (**Pow**er)](/nutshells/p49/pow)
 
 W skrócie: Ach-Aff-Pow  
 Po polsku: **aczafpał**!  
