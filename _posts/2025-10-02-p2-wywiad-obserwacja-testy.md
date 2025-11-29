@@ -20,8 +20,8 @@ Wywiad kategoryzyjemy ze względu na:
 - Liczbę uczestników wywiadu.
 - Strukturę wywiadu
     - ustrukturalizowny/standaryzowany (rzadki) – "nigdy nie improwizuj", nie zamieniaj kolejności słów itp. (taki trochę wywiad zamordystyczny"
-    -częściowo ustrukturalizowany
-    -swobodny
+    - częściowo ustrukturalizowany
+    - swobodny
 
 ## 2. Obserwacja
 
