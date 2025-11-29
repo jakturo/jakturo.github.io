@@ -48,7 +48,7 @@ Spór o powszechniki.
 : nominalizm pojęciowy (istnieją tylko byty jednostkowe, a rzeczy ogólne to tylko nazwy)
 : konceptualizm pojęciowy (istnieją tylko byty jednostkowe, ale mózg tworzy sobie pojęcia) 
 
-**Quidditas** – istota ogólna. To co sprawia, że cos należy do jakiegoś gatunku. Tzw. *powszechnik*
+**Quidditas** – istota ogólna. To co sprawia, że cos należy do jakiegoś gatunku. Tzw. *powszechnik*  
 **Haecceitas** – istota jednostkowa (inaczej: zasada jednostkowienia). 
 
 
