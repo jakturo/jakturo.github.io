@@ -14,36 +14,31 @@ Nauki kognitywne zakładają, że obiekty rzeczywiste mają odbicie w naszym umy
 
 # Różnice w reprezentacji Ja pomiędzy poszczególnymi teoriami.
 
-**Reprezentacja Ja w koncepcji psychodynamicznej.**
-
-**Reprezentacja Ja w koncepcji humanistycznej.**
-
-**Reprezentacja Ja w koncepcji społeczno-poznawczej.**
-
-(To poniżej to nie moje)
-
-Psychodynamiczne: 
-● Teoria Freuda: W psychodynamice, JA jest rozumiane przez pryzmat nieświadomych 
+**Reprezentacja Ja w koncepcji psychodynamicznej.**  
+- Teoria Freuda: W psychodynamice, JA jest rozumiane przez pryzmat nieświadomych 
 procesów psychicznych. Freud uważał, że JA składa się z trzech instancji: ID, EGO i 
 SUPEREGO. To, co jest nieświadome, stanowi znaczną część reprezentacji JA, a 
 konflikty między tymi instancjami wpływają na zachowanie jednostki. 
-● Teoria Junga: Carl Jung rozszerzył koncepcję JA, wprowadzając pojęcie kolektywnego 
+- Teoria Junga: Carl Jung rozszerzył koncepcję JA, wprowadzając pojęcie kolektywnego 
 nieświadomego, do którego dostęp ma każdy człowiek. W tym kontekście JA 
-obejmuje zarówno aspekty indywidualne, jak i uniwersalne. 
-Humanistyczne: 
-● Maslow i samoaktualizacja: W podejściu humanistycznym JA jest postrzegane jako 
+obejmuje zarówno aspekty indywidualne, jak i uniwersalne.
+
+**Reprezentacja Ja w koncepcji humanistycznej.**  
+- Maslow i samoaktualizacja: W podejściu humanistycznym JA jest postrzegane jako 
 rozwijające się ku samoaktualizacji. Maslow wskazał na hierarchię potrzeb, a JA 
 uznawane jest za centralne dla procesu osiągania pełni życia. Samoocena i 
 akceptacja samego siebie są kluczowe dla rozwoju JA według humanistów. 
-● Rogers i samoaktualizacja: Carl Rogers skoncentrował się na koncepcji 
+- Rogers i samoaktualizacja: Carl Rogers skoncentrował się na koncepcji 
 samoaktualizacji poprzez proces samooceny. JA według Rogersa rozwija się w 
 wyniku procesu oceny i akceptacji siebie samego oraz doświadczania 
 bezwarunkowej pozytywnej reglamentacji ze strony innych. 
-Społeczno-poznawcze: 
-● Teoria społecznego porównywania się: W podejściu społecznym JA jest rozumiane w 
+
+**Reprezentacja Ja w koncepcji społeczno-poznawczej.**
+
+- Teoria społecznego porównywania się: W podejściu społecznym JA jest rozumiane w 
 kontekście porównywania się z innymi. Ludzie oceniają swoją wartość i kompetencje 
 poprzez porównanie się z innymi w otaczającym środowisku społecznym. 
-● Teoria społecznego poznania: Społeczno-poznawcze podejście zakłada, że JA rozwija 
+- Teoria społecznego poznania: Społeczno-poznawcze podejście zakłada, że JA rozwija 
 się poprzez interakcje społeczne. Procesy poznawcze, takie jak przypisywanie sobie 
 cech, są kształtowane przez doświadczenia społeczne i interakcje z otoczeniem. 
 
