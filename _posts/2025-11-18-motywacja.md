@@ -36,9 +36,9 @@ Mi motywacja wewnętrzna osobiście kojarzy się z odroczoną gratyfikacją i na
 ## Modele
 ### David C. McClelland i 
 jego motywy społeczne:
-: [porzeba osiągnięć (**Ach**ievement)](/nutshells/p49/ach)
-: [afiliacji (**Aff**iliation)](/nutshells/p49/af)
-: [władzy (**Pow**er)](/nutshells/p49/pow)
+: [:porzeba osiągnięć (**Ach**ievement)](/nutshells/p49/ach)
+: [:afiliacji (**Aff**iliation)](/nutshells/p49/af)
+: [:władzy (**Pow**er)](/nutshells/p49/pow)
 
 W skrócie: Ach-Aff-Pow  
 Po polsku: **aczafpał**!  
@@ -48,7 +48,8 @@ Czy to jest model naukowy? Wel...
 Stosowany przez McClellanda **TAT** to  
 [test apercepcji tematycznej](https://en.wikipedia.org/wiki/Thematic_Apperception_Test).
 
-### Atkinson – diagnostyczność wysiłku:
+### Atkinson i
+diagnostyczność wysiłku:
 : hope of success (HoS)
 : fear of failure (FoF)  
 
