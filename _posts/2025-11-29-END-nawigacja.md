@@ -1,13 +1,13 @@
 ---
 ---
-Neuro 🧠(Kalat):
+Neuro 🧠
 : reakcje emocjonalne
 : zaburzenia mowy
 : zaburzenia pamięci 
 : sen 
 
 <br>
-Emocje i motywacje😃🎯:
+Emocje i motywacje 😃🎯
 : empatia
 : motywacja braku i wzrostu
 : stres
@@ -15,21 +15,21 @@ Emocje i motywacje😃🎯:
 
 
 <br>
-Osobowość🎭:
+Osobowość 🎭
 : rozwój osobowości
 : reprezentacje Ja
 : autonarracje
 
 
 <br>
-Poznawcza (Maruszewski)🧩:
+Poznawcza 🧩
 : pamięć autobiograficzna
 : selekcja uwagowa 
 : pojęcia umysłowe
 : heurystyki
 
 <br>
-Społeczna (Wojciszke)👥
+Społeczna 👥
 : drama metodologiczna – Zimbardo vs. Milgram
 : udzielanie pomocy
 : poczucie własnej wartości (Tajfel i Turner)
@@ -37,21 +37,21 @@ Społeczna (Wojciszke)👥
 
 
 <br>
-Kliniczna (Butcher)⚕️:
+Kliniczna ⚕️
 : objawy depresji
 : predyktory uzależnień
 : zaburzenia parafilne
 : anoreksja a bulimia
 
 <br>
-Statystyka i metodologia 📊(Statystyczny drogowskaz + „SMAR”):
+Statystyka i metodologia 📊
 : efekt interakcji
 : plan z powtarzanym pomiarem
 : eta kwadrat
 : wady i (prawie żadne) zalety wartości „p”
 
 <br>
-Rozwojówka 🌱:
+Rozwojówka 🌱
 : rozwój poznawczy i społeczny – dwie teorie
 : zadania rozwojowe w ciągu życia
 : rozwój społeczny w przedszkolu i szkole
@@ -59,14 +59,14 @@ Rozwojówka 🌱:
 : kryzys tożsamości
 
 <br>
-Psychometria 📏 (Hornowska):
+Psychometria 📏
 : rzetelność testów psychologicznych
 : trafność teoretyczna testów psychologicznych
 : moc dyskryminacyjna 
 : indukcyjne i dedukcyjne konstruowanie testów
 
 <br>
-Temperament i osobowość 🔥🎓🧬 (Strelau):
+Temperament i osobowość 🔥🎓🧬
 : choroby somatyczne
 : temperament
 : inteligencja emocjonalna
@@ -74,14 +74,14 @@ Temperament i osobowość 🔥🎓🧬 (Strelau):
 : osiągnięcia akademickie
 
 <br>
-Diagnoza 📝 (Stemplewska-Żakowicz):
+Diagnoza 📝 
 : wywiad, obserwacja, testy
 : nozo-, funkcjo-, inter-
 : efekt Barnuma
 : kontrakt psychologiczny
 
 <br>
-Etyka Zawodowa ⚖️:
+Etyka Zawodowa ⚖️
 : tajemnica zawodowa – akty prawne 
 : badania – etyczne ograniczenia, regulacje prawne, świadoma i dobrowolna zgoda
 : pięć wartości – APA vs. PTP
