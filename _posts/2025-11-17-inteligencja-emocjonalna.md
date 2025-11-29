@@ -40,4 +40,4 @@ Petrides i Furnham – poczucie własnej skuteczności emocjonalnej (*emotional 
 : Well-Being
 : Sociability
 
-[Narzędzia do badania IE (na później)](/nutshells/p48/narzedzia)
+[:Narzędzia do badania IE (na później)](/nutshells/p48/narzedzia)
