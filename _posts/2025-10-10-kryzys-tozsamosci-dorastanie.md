@@ -67,7 +67,8 @@ status tożsamości (_identity status paradigm_) James Marcia (1966)
 1. etap eksploaracji
 2. podejmowanie zobowiązania (etap dokonania wyboru i podjęcia działania)
 
-"Statusy" tożsamości:  
+"Statusy" tożsamości:
+
 |nazwa<br>tożsamości|eksploracja|zobowiązanie|
 |---|---|---|
 |osiągnięta|✅|✅|
@@ -86,7 +87,7 @@ Zobowiązanie
 : osobiste zaangażowanie w działania
 : gotowość na konsekwencje
 
-cykl formowania zobowiązania
+cykl formowania zobowiązania  
 cykl ewaluacji zobowiązania 
 
 eksploracja alternatyw działania  
