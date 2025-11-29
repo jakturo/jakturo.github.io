@@ -14,10 +14,10 @@ IE jako cecha → element osobowości, mierzone kwestionariuszami samooceny.
 ## IE jako zdolność
 
 **puum** – Mayer, Caruso i Salovey (1999) 
-: perceiving – rozpoznawanie, ekspresja, ocena (własnych i cudzych) emocji. Pierwsze kroczki emocjonalne. 
-: using – emocje jako dźwignia dla myślenia. Wzmacnianie myślenia emocjami. Łączenie emocji i myślenia. Kojarzenie emocjonalne. „Aha! Emocji mogę używać do myślenia!”.
-: understanding – rozumienie sygnałów emocjonalnych i języka emocjonalnego. Rozumienia złożoności emocjonalno-uczuciowej w sytuacjach społecznych. Coś jak „emocje w praktyce”. Dostrzeganie, którędy idą emocjonalne sznurki. 
-: managing – zarządzanie emocjami własnymi i innych, np. do osiągania celów. Tbh, mi to brzmi jak radzenie sobie z emocjami w najwyżej formie. The master of emotions. Pociąganie za emocjonalne sznurki. Wzbudzanie, uspokajanie, manipulowanie, przekazywanie, używanie. 
+: **perceiving** – rozpoznawanie, ekspresja, ocena (własnych i cudzych) emocji. Pierwsze kroczki emocjonalne. 
+: **using** – emocje jako dźwignia dla myślenia. Wzmacnianie myślenia emocjami. Łączenie emocji i myślenia. Kojarzenie emocjonalne. „Aha! Emocji mogę używać do myślenia!”.
+: **understanding** – rozumienie sygnałów emocjonalnych i języka emocjonalnego. Rozumienia złożoności emocjonalno-uczuciowej w sytuacjach społecznych. Coś jak „emocje w praktyce”. Dostrzeganie, którędy idą emocjonalne sznurki. 
+: **managing** – zarządzanie emocjami własnymi i innych, np. do osiągania celów. Tbh, mi to brzmi jak radzenie sobie z emocjami w najwyżej formie. The master of emotions. Pociąganie za emocjonalne sznurki. Wzbudzanie, uspokajanie, manipulowanie, przekazywanie, używanie. 
 
 *Trochę uzupełniłem własną fantazją powyższy model, mam nadzieję że dobrze*.
 
@@ -29,7 +29,6 @@ Bar-On (1997)
 : Interpersonal
 : Adaptability
 : Stress Management
-    : costam
 : General Mood
 
 
