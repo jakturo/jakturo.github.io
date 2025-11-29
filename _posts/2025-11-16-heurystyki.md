@@ -1,11 +1,12 @@
 ---
 title: Pytanie 47 – heurystyki
-image: 
+image: assets/img/p47.png
 ---
 Pytanie 47: Jaką rolę w procesie wnioskowania i podejmowania decyzji odgrywają heurystyki? Omów na przykładzie dwóch wybranych heurystyk.
 
 📚 Maruszewski, T. (2017). Psychologia poznania. Umysł i świat.
 Gdańsk: GWP.
+
 
 <br>
 ## 1. Heurystyka dostępności, przykład ✈️  
@@ -22,3 +23,5 @@ Co jest bardziej prawdopodobne:
 2. Linda jest kasjerką bankową i jednocześnie aktywistką feministyczną.
 
 W oryginalnym badaniu większość wskazało odpowiedź nr 2, bo Linda pasuje do „prototypu” feministki. Podczas gdy kasjerki-feministki stanowią podzbiór kasjerek i logicznie bardziej prawdopodobne jest, że Linda jest po prostu kasjerką. Koniunkcja dwóch cech zawsze będzie mniej prawdopodobna niż każda z tych cech osobno. 
+
+Disclaimer: Linda nie ma nic wspólnego ze spadającymi samolotami. Przynajmniej tak mi się wydaje. 

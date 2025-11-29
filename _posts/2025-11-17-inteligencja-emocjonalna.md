@@ -6,4 +6,11 @@ Pytanie 48: Przedstaw i porównaj koncepcje inteligencji emocjonalnej (IE) rozum
 
 📚 Strelau, J. (2014). Różnice indywidualne: historia–determinanty–zastosowania.
 Warszawa: Wydawnictwo Naukowe Scholar. Rozdział 19.
+
 <br>
+## Jako zdolność 
+
+1. rozpoznawanie
+2. ekspresja
+3. ocena własnych emocji
+4. ocena cudzych emocji
