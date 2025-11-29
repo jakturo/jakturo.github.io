@@ -43,11 +43,14 @@ W skrócie: Ach-Aff-Pow
 Po polsku: **aczafpał**!  
 Może być też: **n(aczafpał)**
 
+Czy to jest model naukowy? Wel...
+Stosowany przez McClellanda **TAT** to [test apercepcji tematycznej](https://en.wikipedia.org/wiki/Thematic_Apperception_Test).
+
 Atkinson – diagnostyczność wysiłku:
 : hope of success (HoS)
 : fear of failure (FoF)  
-Po polsku: **fofhos**! (Nie wiem dlaczego kojarzy mi się ze słowem *kołhoz*) 
-To mi się kojarzy z Dolińskim i konstruktem *samoutrudniania* – osoby z wysokim FoF będą wybierać zadania albo bardzo trudne albo bardzo łatwe.  
+Po polsku: **fofhos**! (Nie wiem dlaczego kojarzy mi się ze słowem *kołhoz*)  
+Kojarzy mi się też z Dolińskim i konstruktem *samoutrudniania* – osoby z wysokim FoF będą wybierać zadania albo bardzo trudne albo bardzo łatwe.  
 
 Model 2×2 (Elliot & McGregor, 2001). Oparty na dwóch wymiarach:
 1. Mastery vs Performance (na czym koncentruję definicję kompetencji — proces czy wynik względem innych)
