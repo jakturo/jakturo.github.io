@@ -4,7 +4,7 @@ image:
 ---
 Pytanie 49: Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
 
-📚Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdział 7).
+📚 Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdział 7).
 W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)
 <br>
 
@@ -16,7 +16,7 @@ Jak do tych pojęć ma się zewnątrzsterowność i wewnątrzsterowność?
 *zadania własne* vs. *zadania narzucone*  
 *mastery goals* vs. *performance goals* → orientacja na rozwój vs. orientacja na wykonanie 
 
-Psychologicznie użyteczne wydaje mi się myślenie w kategoriach konfliktów motywacyjnych (To się wzięło chyba z teorii pola i sił działających na człowieka) 
+Psychologicznie użyteczne wydaje mi się myślenie w kategoriach **konfliktów motywacyjnych** (To się wzięło chyba z teorii pola i sił działających na człowieka) 
 Rotter (LOC) – umiejscowienie kontroli chyba jest ważne w omawianiu motywacji zewnętrznej i wewnętrznej.  
 
 Ten eksperyment z dziećmi, które bawiły się z same siebie, ale przestały się bawić, kiedy dano im nagrodę.  
@@ -34,12 +34,13 @@ Jedną z podstawowych informacji, kiedy klient przychodzi do gabinetu, jest to c
 Mi motywacja wewnętrzna osobiście kojarzy się z odroczoną gratyfikacją i nagrodą. Motywacja zewnętrzna kojarzy się z karą. Jeżeli nagrody i kary zmapować kolejno na emocje pozytywne i negatywne, to należy przyjąć, że kary (emocje negatywne) pomogą zrobić rewolucję w czyimś życiu (niosą więcej energii), ale nagrody (emocje pozytywne) pomogą podtrzymać działanie (zapobiegaja wypaleniu). Może się to dziać na zasadzie, że uniknięcie kary jest nagrodą. 
 
 ## Modele
-### David C. McClelland – motywy społeczne:
+### David C. McClelland i 
+motywy społeczne:
 : potrzeba osiągnięć (**Ach**ievement)
 : afiliacji (**Aff**iliation)
 : władzy (**Pow**er)
 
-W skrócie: Ach-Aff-Pow
+W skrócie: Ach-Aff-Pow  
 Po polsku: **aczafpał**!  
 Może być też: **n(aczafpał)**
 
