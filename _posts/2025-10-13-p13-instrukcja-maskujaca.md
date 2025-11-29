@@ -8,12 +8,13 @@ Pytanie 13: Omów, czym jest i kiedy jest stosowana instrukcja maskująca w bada
 Warszawa: Wydawnictwo Naukowe PWN. s. 145–149.
 
 ## Przykłady badań z maskowaniem
+
 ||rzekomy<br>cel badania|rzeczywisty<br>cel badania|
 |Milgram<br>(1963)|pamięć i<br>uczenie się|posłuszeństwo<br>wobec<br>autorytetu|
 |Asch<br>(1951)|zdolności<br> wzrokowe|konformizm|
 
 
-## Co jest wymagane?
+## Powinności badacza?
 
 Przed badaniem: zgoda komisji etycznej.  
 Po badaniu: odkłamanie (tzw. *debriefing*).
