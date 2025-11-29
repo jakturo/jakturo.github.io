@@ -35,10 +35,10 @@ bezwarunkowej pozytywnej reglamentacji ze strony innych.
 
 **Reprezentacja Ja w koncepcji społeczno-poznawczej.**
 
-- Teoria społecznego porównywania się: W podejściu społecznym JA jest rozumiane w 
+- Teoria **społecznego porównywania się**: W podejściu społecznym JA jest rozumiane w 
 kontekście porównywania się z innymi. Ludzie oceniają swoją wartość i kompetencje 
 poprzez porównanie się z innymi w otaczającym środowisku społecznym. 
-- Teoria społecznego poznania: Społeczno-poznawcze podejście zakłada, że JA rozwija 
+- Teoria **społecznego poznania**: Społeczno-poznawcze podejście zakłada, że JA rozwija 
 się poprzez interakcje społeczne. Procesy poznawcze, takie jak przypisywanie sobie 
 cech, są kształtowane przez doświadczenia społeczne i interakcje z otoczeniem. 
 
