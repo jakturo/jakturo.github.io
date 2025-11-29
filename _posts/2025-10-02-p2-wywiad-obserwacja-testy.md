@@ -16,7 +16,7 @@ Podział tradycyjny:
 ## 1. Wywiad
 
 Metoda najczęściej stosowana.  
-Patrzymy na:
+Wywiad kategoryzyjemy ze względu na:
 - Liczbę uczestników wywiadu.
 - Strukturę wywiadu
   - ustrukturalizowny/standaryzowany (rzadki) – "nigdy nie improwizuj", nie zamieniaj kolejności słów itp. (taki trochę wywiad zamordystyczny"
