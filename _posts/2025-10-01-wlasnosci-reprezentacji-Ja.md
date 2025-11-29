@@ -15,20 +15,20 @@ Nauki kognitywne zakładają, że obiekty rzeczywiste mają odbicie w naszym umy
 # Różnice w reprezentacji Ja pomiędzy poszczególnymi teoriami.
 
 **Reprezentacja Ja w koncepcji psychodynamicznej.**  
-- Teoria Freuda: W psychodynamice, JA jest rozumiane przez pryzmat nieświadomych 
+- **Freud**: JA jest rozumiane przez pryzmat nieświadomych 
 procesów psychicznych. Freud uważał, że JA składa się z trzech instancji: ID, EGO i 
 SUPEREGO. To, co jest nieświadome, stanowi znaczną część reprezentacji JA, a 
 konflikty między tymi instancjami wpływają na zachowanie jednostki. 
-- Teoria Junga: Carl Jung rozszerzył koncepcję JA, wprowadzając pojęcie kolektywnego 
+- **Jung**: rozszerzył koncepcję JA, wprowadzając pojęcie kolektywnego 
 nieświadomego, do którego dostęp ma każdy człowiek. W tym kontekście JA 
 obejmuje zarówno aspekty indywidualne, jak i uniwersalne.
 
 **Reprezentacja Ja w koncepcji humanistycznej.**  
-- Maslow i samoaktualizacja: W podejściu humanistycznym JA jest postrzegane jako 
+- **Maslow** i samoaktualizacja: JA jest postrzegane jako 
 rozwijające się ku samoaktualizacji. Maslow wskazał na hierarchię potrzeb, a JA 
 uznawane jest za centralne dla procesu osiągania pełni życia. Samoocena i 
 akceptacja samego siebie są kluczowe dla rozwoju JA według humanistów. 
-- Rogers i samoaktualizacja: Carl Rogers skoncentrował się na koncepcji 
+- **Rogers** i samoaktualizacja: skoncentrował się na koncepcji 
 samoaktualizacji poprzez proces samooceny. JA według Rogersa rozwija się w 
 wyniku procesu oceny i akceptacji siebie samego oraz doświadczania 
 bezwarunkowej pozytywnej reglamentacji ze strony innych. 
