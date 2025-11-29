@@ -26,9 +26,9 @@ Jezus maria, jak ja nie lubię teorii psychoanalitycznych...
 |7.|generatywność|stagnacja|troska|
 |8.|integralność|rozpacz|mądrość|
 
-1. Zależy od jakości matczynej opieki (responsywności matki). Dziecko najpierw jest w symbiozie z matką. To jak się matka będzie zachowywać wpływa na to, że dziecko będzie miało (lub nie) poczucie stałości i przewidywalności świata.  
-2. Autonomia vs. poczucie winy. Odpieluchowanie. Bunt dwulatka. „Ja sam!” Ważne jest żeby dziecka nie zawstydzać. „Już nie noszę pieluchy, jestem autonomiczny". Pierwsze decyzje, np. "już nie noszę rajstop" 
-3. Inicjatywa vs. poczucie winy. Dziecko przekonuje się, że to wolno, a tego nie wolno.
+1. Zależy od jakości matczynej opieki (responsywności matki). Dziecko najpierw jest w symbiozie z matką. To jak się matka będzie zachowywać wpływa na to, że dziecko będzie miało (lub nie) poczucie stałości i przewidywalności świata. Stąd zaufanie i nadzieja.  
+2. Autonomia vs. poczucie winy. Odpieluchowanie. Bunt dwulatka. „Ja sam!” Ważne jest żeby dziecka nie zawstydzać. „Już nie noszę pieluchy, jestem autonomiczny". Pierwsze decyzje, np. "już nie noszę rajstop". Jeżeli szanujemy decyzje dwulatka, to kształtuje się w nim wola. 
+3. Inicjatywa vs. poczucie winy. Dziecko próbuje świata. Dziecko przekonuje się, że to wolno, a tego nie wolno. Jeżeli ma możliwość wykazywać inicjatywę
 4. Kompetencja vs. poczucie niższości. Dziecko musi mieć poczucie, że jest w czymś dobre.  
 5. Ten kryzys jest najważniejszy (może być największą szansą). 
 6. Intymność vs. izolacja 
