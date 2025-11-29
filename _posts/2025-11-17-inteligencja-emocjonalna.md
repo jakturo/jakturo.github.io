@@ -7,8 +7,8 @@ Pytanie 48: Przedstaw i porównaj koncepcje inteligencji emocjonalnej (IE) rozum
 📚 Strelau, J. (2014). Różnice indywidualne: historia–determinanty–zastosowania.
 Warszawa: Wydawnictwo Naukowe Scholar. Rozdział 19.
 
-IE jako zdolność → prawdziwa IE, mierzona testami wykonaniowymi.  
-IE jako cecha → element osobowości, mierzone kwestionariuszami samooceny.
+IE jako zdolność → rzeczywista IE, mierzona testami wykonaniowymi. „Zachowania **maksymalne**” – ujawniające się w wyjątkowych okolicznościach. 
+IE jako cecha → postrzegana IE, mierzone przez samoopis. „Zachowania **typowe**” – ujawniające się na co dzień.  
 
 <br>
 ## IE jako zdolność
@@ -31,4 +31,6 @@ Bar-On (1997)
 : Stress Management
 : General Mood
 
+<br>
+Petrides i Furnham – poczucie własnej skuteczności emocjonalnej (*emotional self-efficacy*)
 
