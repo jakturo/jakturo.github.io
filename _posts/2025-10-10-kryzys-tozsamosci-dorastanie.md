@@ -22,9 +22,12 @@ Nowe:
 : wartości.  
 : styl życia.  
 
-Rozwiązanie pozytywne.  
-Rozwiązanie negatywne.  
+<br>
+Rozwiązania:
+: pozytywne.  
+: negatywne.  
 
+<br>
 **Rozproszenie tożsamości**. 
 : zagubienie
 : brak planów, przekonań
@@ -67,7 +70,8 @@ status tożsamości (_identity status paradigm_) James Marcia (1966)
 1. etap eksploaracji
 2. podejmowanie zobowiązania (etap dokonania wyboru i podjęcia działania)
 
-"Statusy" tożsamości:
+<br>
+**Statusy tożsamości**:
 
 |nazwa<br>tożsamości|eksploracja|zobowiązanie|
 |---|---|---|
@@ -77,8 +81,8 @@ status tożsamości (_identity status paradigm_) James Marcia (1966)
 |rozproszona|❌|❌|
 
 Każdą z tożsamości można rozważać na dwóch poziomach:
-Poziom intrapersonalny
-Poziom interpersonalny 
+: Poziom intrapersonalny  
+: Poziom interpersonalny 
 
 Eksploracja
 : ```domyśl się```
