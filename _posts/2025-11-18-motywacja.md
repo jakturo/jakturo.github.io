@@ -34,7 +34,7 @@ Jedną z podstawowych informacji, kiedy klient przychodzi do gabinetu, jest to c
 Mi motywacja wewnętrzna osobiście kojarzy się z odroczoną gratyfikacją i nagrodą. Motywacja zewnętrzna kojarzy się z karą. Jeżeli nagrody i kary zmapować kolejno na emocje pozytywne i negatywne, to należy przyjąć, że kary (emocje negatywne) pomogą zrobić rewolucję w czyimś życiu (niosą więcej energii), ale nagrody (emocje pozytywne) pomogą podtrzymać działanie (zapobiegaja wypaleniu). Może się to dziać na zasadzie, że uniknięcie kary jest nagrodą. 
 
 ## Modele
-David C. McClelland – motywy społeczne:
+### David C. McClelland – motywy społeczne:
 : potrzeba osiągnięć (**Ach**ievement)
 : afiliacji (**Aff**iliation)
 : władzy (**Pow**er)
@@ -44,12 +44,15 @@ Po polsku: **aczafpał**!
 Może być też: **n(aczafpał)**
 
 Czy to jest model naukowy? Wel...
-Stosowany przez McClellanda **TAT** to [test apercepcji tematycznej](https://en.wikipedia.org/wiki/Thematic_Apperception_Test).
+Stosowany przez McClellanda **TAT** to  
+[test apercepcji tematycznej](https://en.wikipedia.org/wiki/Thematic_Apperception_Test).
 
-Atkinson – diagnostyczność wysiłku:
+### Atkinson – diagnostyczność wysiłku:
 : hope of success (HoS)
 : fear of failure (FoF)  
-Po polsku: **fofhos**! (Nie wiem dlaczego kojarzy mi się ze słowem *kołhoz*)  
+
+Po polsku: **fofhos**!  
+(Nie wiem dlaczego kojarzy mi się ze słowem *kołhoz*)  
 Kojarzy mi się też z Dolińskim i konstruktem *samoutrudniania* – osoby z wysokim FoF będą wybierać zadania albo bardzo trudne albo bardzo łatwe.  
 
 Model 2×2 (Elliot & McGregor, 2001). Oparty na dwóch wymiarach:
@@ -65,15 +68,16 @@ Rozróżnia trzy odniesienia kompetencji:
 Każde z nich ma wersję Approach i Avoidance, dając 6 celów:
 : Task-Approach, Task-Avoidance
 : Self-Approach, Self-Avoidance
-: Other-Approach, Other-Avoidance
+: Other-Approach, Other-Avoidance  
+
 
 Finalnie:
 
 ||approach|avoidance|
 |---|---|---|
-|Task<br>based|task<br>approach|task<br>avoidance|
-|Self<br>based|self<br>approach|self<br>avoidance|
-|Other<br>based|other<br>approach|other<br>avoidance|
+|Task|task<br>approach|task<br>avoidance|
+|Self|self<br>approach|self<br>avoidance|
+|Other|other<br>approach|other<br>avoidance|
 
 Po filozoficznemu by to ujął "Elliota rozwinięcie koncepcji Atkinsona i McClelland'a" xd
 
