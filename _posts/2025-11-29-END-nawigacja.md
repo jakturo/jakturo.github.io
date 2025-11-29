@@ -1,4 +1,5 @@
 ---
+title: Godzinę przed egzaminem
 ---
 Neuro 🧠
 : reakcje emocjonalne
