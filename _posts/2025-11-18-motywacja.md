@@ -8,12 +8,12 @@ Pytanie 49: Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
 W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)
 <br>
 
-
+## Moje pitu pitu
 Straszne dinozaury są omawiane w tych rozdziałach. Stwierdziłem, że lepiej będzie jak poszerzę swoje rozumienie motywacji wewnętrznej i zewnętrznej. Wewnętrzna bywa przedstawiana jako normatywnie lepsza, ale czy faktycznie tak jest?  
 
 Jak do tych pojęć ma się zewnątrzsterowność i wewnątrzsterowność? 
 
-zadania własne vs. zadania narzucone 
+*zadania własne* vs. *zadania narzucone*  
 *mastery goals* vs. *performance goals* → orientacja na rozwój vs. orientacja na wykonanie 
 
 Psychologicznie użyteczne wydaje mi się myślenie w kategoriach konfliktów motywacyjnych (To się wzięło chyba z teorii pola i sił działających na człowieka) 
@@ -29,19 +29,22 @@ Można dać przykład
 : edukacji 
 : terapii uzależnień
 
-Jednym z podstawowych informacji, kiedy klient przychodzi do gabinetu, jest to czy przyszedł sam, czy ktoś go przysłał. W przypadku ludzi uzależnionych, często przychodzą tylko dlatego, że ktoś im kazał – motywacja zewnętrzna. A proces terapii polega na wskrzeszeniu motywacji wewnętrznej do zdrowienia. (internalizacja motywów?)
+Jedną z podstawowych informacji, kiedy klient przychodzi do gabinetu, jest to czy przyszedł sam, czy ktoś go przysłał. W przypadku ludzi uzależnionych, często przychodzą tylko dlatego, że ktoś im kazał – motywacja zewnętrzna. A proces terapii polega na wskrzeszeniu motywacji wewnętrznej do zdrowienia. (internalizacja motywów?)
 
 Mi motywacja wewnętrzna osobiście kojarzy się z odroczoną gratyfikacją i nagrodą. Motywacja zewnętrzna kojarzy się z karą. Jeżeli nagrody i kary zmapować kolejno na emocje pozytywne i negatywne, to należy przyjąć, że kary (emocje negatywne) pomogą zrobić rewolucję w czyimś życiu (niosą więcej energii), ale nagrody (emocje pozytywne) pomogą podtrzymać działanie (zapobiegaja wypaleniu). Może się to dziać na zasadzie, że uniknięcie kary jest nagrodą. 
 
-
+## Modele
 David C. McClelland – motywy społeczne:
-: potrzeba osiągnięć
-: afiliacji
-: władzy 
+: potrzeba osiągnięć (**Ach**ievement)
+: afiliacji (**Aff**iliation)
+: władzy (**Pow**er)  
+W skrócie: Ach-Aff-Pow
+Po polsku: **aczafpał**!
 
 Atkinson – diagnostyczność wysiłku:
-: hope of success
-: fear of failure 
+: hope of success (HoS)
+: fear of failure (FoF)  
+Po polsku: **fofhos**! (Nie wiem dlaczego kojarzy mi się ze słowem *kołhoz*) 
 To mi się kojarzy z Dolińskim i konstruktem *samoutrudniania* – osoby z wysokim FoF będą wybierać zadania albo bardzo trudne albo bardzo łatwe.  
 
 Model 2×2 (Elliot & McGregor, 2001). Oparty na dwóch wymiarach:
@@ -50,9 +53,9 @@ Model 2×2 (Elliot & McGregor, 2001). Oparty na dwóch wymiarach:
 
 Model 3×2 (Elliot, 2011)
 Rozróżnia trzy odniesienia kompetencji:
-: Task-based (zadaniowe) – czy opanowałem zadanie
-: Self-based (odniesienie do własnych wcześniejszych wyników)
-: Other-based (w porównaniu z innymi)
+: **Task**-based (zadaniowe) – czy opanowałem zadanie
+: **Self**-based (odniesienie do własnych wcześniejszych wyników)
+: **Other**-based (w porównaniu z innymi)
 
 Każde z nich ma wersję Approach i Avoidance, dając 6 celów:
 : Task-Approach, Task-Avoidance
