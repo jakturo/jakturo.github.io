@@ -13,7 +13,7 @@ Gdańsk: GWP.
 Osoba może zobaczyć w telewizji wypadek lotniczy. Wskutek tego będzie przekonana, że latanie jest niebezpieczne i że jest częstą przyczyną śmierci. Spytana o niebezpieczny środek transportu może odpowiedzieć „samolot”. To przez to, że informacja o wypadku lotniczym w jej umyśle jest akurat dostępna – jest „pod ręką”. W rzeczywistości inne środki lokomocji są dużo bardziej niebezpieczne.
 
 <br>
-## Heurystyka reprezentatywności, sławna kasjerka Linda  
+## 2. Heurystyka reprezentatywności, sławna kasjerka Linda  
 
 >Linda ma 31 lat, jest niezamężna, otwarta i bardzo inteligentna. Studiowała filozofię. W trakcie studiów była głęboko zaangażowana w kwestie dyskryminacji rasowej i sprawiedliwości społecznej, a także uczestniczyła w demonstracjach antynuklearnych.
 
@@ -21,4 +21,4 @@ Co jest bardziej prawdopodobne:
 1. Linda jest kasjerką bankową.
 2. Linda jest kasjerką bankową i jednocześnie aktywistką feministyczną.
 
-W oryginalnym badaniu większość wskazało odpowiedź nr 2. Podczas gdy kasjerki-feministki stanowią podzbiór kasjerek i logicznie bardziej prawdopodobne jest, że Linda jest po prostu kasjerką. Koniunkcja dwóch cech zawsze będzie mniej prawdopodobna niż każda z tych cech osobno. 
+W oryginalnym badaniu większość wskazało odpowiedź nr 2, bo Linda pasuje do „prototypu” feministki. Podczas gdy kasjerki-feministki stanowią podzbiór kasjerek i logicznie bardziej prawdopodobne jest, że Linda jest po prostu kasjerką. Koniunkcja dwóch cech zawsze będzie mniej prawdopodobna niż każda z tych cech osobno. 
