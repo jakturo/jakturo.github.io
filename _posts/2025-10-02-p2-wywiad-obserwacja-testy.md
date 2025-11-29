@@ -43,7 +43,7 @@ Obserwacja ambulatoryjna.
 ## 3. Testy
 
 **standaryzacja, normalizacja 
-trafność, rzetelność** 
+trafność, rzetelność**  
 Obserwacja może być testem.
 Wywiad może być testem.  
 Co jest testem?  
