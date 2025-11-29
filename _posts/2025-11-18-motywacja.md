@@ -37,9 +37,11 @@ Mi motywacja wewnętrzna osobiście kojarzy się z odroczoną gratyfikacją i na
 David C. McClelland – motywy społeczne:
 : potrzeba osiągnięć (**Ach**ievement)
 : afiliacji (**Aff**iliation)
-: władzy (**Pow**er)  
+: władzy (**Pow**er)
+
 W skrócie: Ach-Aff-Pow
-Po polsku: **aczafpał**!
+Po polsku: **aczafpał**!  
+Może być też: **n(aczafpał)**
 
 Atkinson – diagnostyczność wysiłku:
 : hope of success (HoS)
