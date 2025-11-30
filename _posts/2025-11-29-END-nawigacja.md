@@ -5,7 +5,7 @@ Neuro 🧠
 : [:reakcje emocjonalne](/nutshells/koszyczek/p50)
 : [:zaburzenia mowy](/nutshells/koszyczek/p12)
 : [:zaburzenia pamięci](/nutshells/koszyczek/p11)
-: sen 
+: [:sen](/nutshells/koszyczek/p27) 
 
 <br>
 Emocje i motywacje 😃🎯
