@@ -1,5 +1,5 @@
 ---
-title: Pytanie 11 – Mózgowe podłoże (przynajmniej) dwóch rodzajów pamięci i jej deficytów 🧠
+title: Pytanie 11 – Mózgowe podłoże pamięci i jej deficytów 🧠
 image: assets/img/p11.jpg
 ---
 
