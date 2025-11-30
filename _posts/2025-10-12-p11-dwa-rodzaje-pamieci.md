@@ -1,6 +1,6 @@
 ---
 title: Pytanie 11 – Mózgowe podłoże (przynajmniej) dwóch rodzajów pamięci i jej deficytów 🧠
-image: assets/img/pytanie11.png
+image: assets/img/p11.jpg
 ---
 
 Pytanie 11: *Omów mózgowe podłoże przynajmniej dwóch rodzajów pamięci i wskaż jego rolę w powstawaniu deficytów w działaniu omówionych rodzajów pamięci.*
