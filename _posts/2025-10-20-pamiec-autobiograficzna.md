@@ -1,6 +1,6 @@
 ---
-title: Pytanie 20 – zniekształcenia pamięci autobiograficznej
-image: 
+title: Pytanie 20 – zniekształcenia pamięci autobiograficznej 🧩
+image: assets/img/p20.jpg
 ---
 Pytanie 20: Opisz i porównaj dwa wybrane zjawiska zniekształcające pamięć autobiograficzną.
 
