@@ -1,5 +1,5 @@
 ---
-title: Pytanie 11 – Mózgowe podłoże (przynajmniej) dwóch rodzajów pamięci i jej deficytów
+title: Pytanie 11 – Mózgowe podłoże (przynajmniej) dwóch rodzajów pamięci i jej deficytów 🧠
 image: assets/img/pytanie11.png
 ---
 
@@ -38,6 +38,25 @@ Hipokamp ~ Kontekst
 
 Połączenie hipokampa i ciała migdałowatego – łączenie szczegółow zdarzenia i reakcji emocjonalnej = tworzenie emocjonalnych wpsomnień.  
 
+"Slad w hipokampie ma tendencje do zanikania szybciej niż ślad korowy"
+Hipokamp jako nośnik tymczasowy. 
+Uszkodzenie hipokampa raczej spowoduje amnezję następczą, ale amnezja wsteczna też może się trochę pojawić. Im świeższe wspomnienia, tym większe prawdopodobieństwo, że ulegną amnezji wstecznej.  
+
+Rekonsolidacja wspomnień i ponowna zależność od hipokampa.  
+
+Co nie ulega uszkodzeniu, pomimo uszkodzenia hipokampa? 
+większość pacjentów z ciężką amnezją ma prawidłowo działającą pamięć 
+roboczą (krótkotrwałą, np. zapamiętanie liczby i powtórzenie jej po kilku 
+minutach), jeśli nic ich nie rozprasza (brak dystraktorów) 
+większość pacjentów z amnezją ma lepszą pamięć niejawną niż jawną (np. 
+pacjent może zachowywać się swobodnie w towarzystwie psychologa, który 
+pracuje z nim od dawna, chociaż nie jest pamięta jego imienia ani 
+poprzednich wizyt) 
+niezaburzona pamięć proceduralna (jako rodzaj pamięci niejawnej) - 
+pacjenci z uszkodzonym hipokampem mogą (skutecznie!) uczyć się nowych 
+umiejętności, choć nie będą w stanie powiedzieć, gdzie i kiedy się ich nauczyli 
+i mogą być zaskoczeni za każdym razem, gdy będą z nich korzystać
+
 
 
 Epizodyczna
@@ -53,10 +72,10 @@ Amnezja następcza
 
 Uszkodzenie hipokampa prowadzi do amnezji następczej. Nowe wspomnienia nie zapisują się. Pamieć epizodyczna cierpi najbardziej, bo wymaga integracji informacji sensorycznych. Pacjenci z uszkodzonym hipokampem potrafią uczyć się nowych czynności, ale proceduralnie. Mogą wykonywać czynności, ale nie pamiętać, że robili je wcześniej.  
 
-ChatGPT (Na podstawie Klata):
+ChatGPT (Na podstawie Kalata):
 >Uszkodzenie hipokampa prowadzi przede wszystkim do ciężkiej amnezji następczej i głębokich deficytów pamięci epizodycznej, szczególnie tych wymagających integracji kontekstu
 
 <br>
 <hr>
 <br>
-[Opracowany Kalat](https://www.worldsupporter.org/en/summary/summary-biological-psychology-kalat-12th-edition-87872#:~:text=The%20working%20memory%20only%20saves,changes%20in%20the%20prefrontal%20cortex)
+[Opracowany Kalat](https://www.worldsupporter.org/en/summary/summary-biological-psychology-kalat-12th-edition-87872)
