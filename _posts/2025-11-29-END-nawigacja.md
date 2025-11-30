@@ -24,7 +24,7 @@ Osobowość 🎭
 
 <br>
 Poznawcza 🧩
-: pamięć autobiograficzna
+: [:pamięć autobiograficzna](/nutshells/koszyczek/p20)
 : selekcja uwagowa 
 : pojęcia umysłowe
 : [:heurystyki](/nutshells/koszyczek/p47)
