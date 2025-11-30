@@ -39,6 +39,23 @@ Egemplarze:
 
 **dual-system view of categorization**
 
+<br>
+## Proces rozpoznawania (GPT generated)
+
+Proces rozpoznawania krok po kroku:
+: Dane sensoryczne zostają przetworzone przez detektory cech.
+: Dane są porównywane z pojęciami / kategoriami zapisanymi w pamięci.
+: System sprawdza podobieństwo do:
+    : cech definicyjnych (pogląd klasyczny),
+    : prototypu (pogląd probabilistyczny),
+    : egzemplarzy (pogląd egzemplarzowy),
+    : relacji między pojęciami (pojęcia–teorie).
+: Umysł przyporządkowuje obiekt do kategorii, która najlepiej wyjaśnia dane.
+: Rozpoznany obiekt zostaje zinterpretowany (np. jako pies → zwierzę → możliwe zagrożenie).
+
+<br>
+## Filozoficzne skojarzenia 
+
 Idee platońskie. 
 Idea krzesła → krzesło → obraz krzesła 
 Idea fajki → fajka → obraz fajki (to nie jest fajka) 
