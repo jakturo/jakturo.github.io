@@ -1,0 +1,3 @@
+---
+---
+Pojęcia umysłowe powstają poprzez procesy abstrakcji, uśredniania lub zapamiętywania egzemplarzy, a ich struktura obejmuje zarówno cechy obiektów, jak i relacje z innymi pojęciami. W procesie rozpoznawania obiektów pojęcia pełnią funkcję schematów, do których dopasowywane są dane sensoryczne. Rozpoznawanie polega więc na kategoryzacji – określeniu, do jakiej klasy obiektów należy dany bodziec, co pozwala interpretować go na podstawie wiedzy zawartej w pojęciach.

@@ -7,19 +7,22 @@ Pytanie 10: Na podstawie wybranej teorii omów, w jaki sposób tworzone są poj�
 📚 Maruszewski, T. (2017). Psychologia poznania. Umysł i świat.
 Gdańsk: GWP.
 
-Dziecko wskazuje na kota i mówi "To jest pies". Dlaczego? 
+<br>
+[:Streszczenie GPT](/nutshells/p10/streszczenieGPT)
 
-Abstrakcja pozytywna.  
-Abstrakcja negatywna.  
+<br>
+## Główne podejścia 
 
-Cechy kluczowe.  
-Cechy nieistotne.  
+**Pogląd klasyczny**  
+Abstrakcja pozytywna – wyodrębnianie cech **istotnych**.  
+Abstrakcja negatywna – pomijanie cech **nieistotnych**.  
 
 Psychiczne reprezentacje kategorii. 
 Abstrahowanie i generalizacja.  
 
-Teoria prototypów.  
-Efekt typowości.  
+<br>
+**Teoria prototypów – pogląd probabilistyczny**.  
+*Efekt typowości*.  
 : Wróbel? Ptak!
 : Pingwin? Yyy… Ptak.
 
@@ -31,27 +34,35 @@ Efekt typowości.
 
 Prototyp: Krzesło z czterema nogami
 
+<br>
+**Pogląd egzemplarzowy**  
+
 Egemplarze:
 - krzesło z czterema nogami
 - krzesło z trzema nogami
 - krzesło z jedną nogą
 - krzesło z dwie... A nie, takiego jeszcze nie widziałem.  
 
-**dual-system view of categorization**
 
 <br>
 ## Proces rozpoznawania (GPT generated)
+
+Rozpoznawanie = dopasowanie danych sensorycznych do struktur wiedzy  
+Rozpoznawanie jako kategoryzacja  
+Kategorie wyższe i niższe (wąskie i rozległe; konkretne i abstrakcyjne)
 
 Proces rozpoznawania krok po kroku:
 : Dane sensoryczne zostają przetworzone przez detektory cech.
 : Dane są porównywane z pojęciami / kategoriami zapisanymi w pamięci.
 : System sprawdza podobieństwo do:
-    : cech definicyjnych (pogląd klasyczny),
-    : prototypu (pogląd probabilistyczny),
-    : egzemplarzy (pogląd egzemplarzowy),
-    : relacji między pojęciami (pojęcia–teorie).
+    : **cech** definicyjnych (pogląd klasyczny),
+    : **prototypu** (pogląd probabilistyczny),
+    : **egzemplarzy** (pogląd egzemplarzowy),
+    : **relacji** między pojęciami (pojęcia–teorie).
 : Umysł przyporządkowuje obiekt do kategorii, która najlepiej wyjaśnia dane.
 : Rozpoznany obiekt zostaje zinterpretowany (np. jako pies → zwierzę → możliwe zagrożenie).
+
+Dziecko wskazuje na kota i mówi "To jest pies". Dlaczego? 
 
 <br>
 ## Filozoficzne skojarzenia 
