@@ -27,7 +27,7 @@ Poznawcza 🧩
 : pamięć autobiograficzna
 : selekcja uwagowa 
 : pojęcia umysłowe
-: heurystyki
+: [:heurystyki](/nutshells/koszyczek/p47)
 
 <br>
 Społeczna 👥

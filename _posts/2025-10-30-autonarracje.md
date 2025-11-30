@@ -43,16 +43,15 @@ realizacji
 4. Uwarunkowania i szanse przezwyciężenia trudności i realizacji intencji. 
 
 Podsumowanie: 
-● Zaktywizowany schemat narracyjny organizuje (napływającą) rzeczywistość w formę 
+- Zaktywizowany schemat narracyjny organizuje (napływającą) rzeczywistość w formę 
 zrozumiałej historii – narracji 
-● Narracje posiadają uniwersalną strukturę: Bohater + jego intencje + trudności = 
-realizacja lub brak realizacji celów 
-● Schematy narracyjne modelują tę strukturę tworząc możliwe wątki narracyjnie 
+- Narracje posiadają uniwersalną strukturę: Bohater + jego intencje + trudności = realizacja lub brak realizacji celów 
+- Schematy narracyjne modelują tę strukturę tworząc możliwe wątki narracyjnie 
 rozumianego życia (zachowania) jednostki 
-● Autonarracja to narracja stworzona przez jej podmiot 
-● Podmiot rozumie siebie i swoje zachowanie w autonarracji 
-● Treść narracji kształtuje zachowania podmiotu 
-● Kształtuje się tożsamość narracyjna oraz narracyjna motywacja 
+- Autonarracja to narracja stworzona przez jej podmiot 
+- Podmiot rozumie siebie i swoje zachowanie w autonarracji 
+- Treść narracji kształtuje zachowania podmiotu 
+- Kształtuje się tożsamość narracyjna oraz narracyjna motywacja 
 Odpowiedź na zagadnienie w 3 zdaniach: 
 Ludzie zachowują się zgodnie z tym, jak rozumieją siebie i rzeczywistość w której się 
 zachowują. Rozumienie w tym wypadku oznacza poznawcze konstruowanie spójnego 

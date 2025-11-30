@@ -13,3 +13,6 @@ Dostęp online: https://psych.org.pl/o-ptp/kodeks-psychologa
 📚 Toepiltz-Winiewska, M. (2009). Tajemnica zawodowa.
 W: J. Brzeziński, B. Chyrowicz, W. Poznaniak, M. Toepiltz-Winiewska (red.), Etyka zawodu psychologa.
 Warszawa: Wydawnictwo Naukowe PWN. (s. 94–98)
+
+
+Jak to się dzieje, że jestem u barbera i barber opowiada mi jak to w tych rodzinach alkoholowych jest przewalone, bo mu kolega psychoterapeuta opowiadał. To jak to jest z tą tajemnicą zawodową?!
