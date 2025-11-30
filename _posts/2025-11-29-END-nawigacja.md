@@ -2,8 +2,8 @@
 title: Godzinę przed egzaminem
 ---
 Neuro 🧠
-: reakcje emocjonalne
-: zaburzenia mowy
+: [:reakcje emocjonalne](/nutshells/koszyczek/p50)
+: [:zaburzenia mowy](/nutshells/koszyczek/p12)
 : zaburzenia pamięci 
 : sen 
 

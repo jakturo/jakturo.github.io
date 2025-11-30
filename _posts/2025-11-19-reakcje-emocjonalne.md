@@ -2,7 +2,7 @@
 title: Pytanie 50 – neuro-podstawy reakcji emocjonalnych
 image: assets/img/p50.png
 ---
-Pytanie 50: Omów neurobiologiczne podłoże powstawania reakcji emocjonalnych.
+Pytanie 50: Omów neurobiologiczne podłoże powstawania reakcji emocjonalnych 🧠
 
 📚Kalat, J.W. (2020). Biologiczne podstawy psychologii. Warszawa: PWN. Rozdziały 11.1 i 11.2
 <br>
