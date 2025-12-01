@@ -47,7 +47,7 @@ Kliniczna ⚕️
 <br>
 Statystyka i metodologia 📊
 : efekt interakcji
-: [:plan z powtarzanym pomiarem](/nutshells/koszyczek/p)
+: [:plan z powtarzanym pomiarem](/nutshells/koszyczek/p43)
 : eta kwadrat
 : wady i (prawie żadne) zalety wartości „p”
 
