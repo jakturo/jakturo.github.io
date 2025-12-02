@@ -13,6 +13,7 @@ DSM-5 wymaga co najmniej 5 objawów trwających minimum 2 tygodnie, powodującyc
 obniżony nastrój LUB
 
 utrata zainteresowań / anhedonia.
+
 <br>
 1. Obniżony nastrój przez większość dnia, niemal codziennie.
 
