@@ -16,14 +16,12 @@ utrata zainteresowań / anhedonia.
 
 <br>
 1. Obniżony nastrój przez większość dnia, niemal codziennie.
-
-U dzieci może to być drażliwość zamiast smutku.
+- U dzieci może to być drażliwość zamiast smutku.
 
 2. Wyraźnie zmniejszone zainteresowania lub brak odczuwania przyjemności (anhedonia).
 
 3. Zmiana masy ciała lub apetytu (zwiększona lub zmniejszona).
-
-U dzieci: brak oczekiwanego przyrostu masy.
+- U dzieci: brak oczekiwanego przyrostu masy.
 
 4. Bezsenność lub nadmierna senność (hipersomnia).
 
