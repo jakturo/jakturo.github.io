@@ -7,7 +7,12 @@ Pytanie 18: Omów etyczne ograniczenia swobody psychologicznych badań naukowych
 📚 Bednarek, D. (2020). Zawód psycholog. Regulacje prawne i etyka zawodowa. Wydanie drugie rozszerzone.
 Warszawa: Wydawnictwo Naukowe PWN. Rozdział 14.
 
-Konstytucja RP
+
+<br>
+
+bezpośrednio **nie ma takich aktów **
+
+## 1. Konstytucja RP
 
 art. 30 – nienaruszalna godność człowieka,
 
@@ -17,7 +22,7 @@ art. 51 – ochrona danych osobowych,
 
 art. 31 – zasada wolności i dobrowolności.
 
-RODO
+## 2. RODO
 
 W Polsce badania behawioralne mogą wymagać opinii:
 
@@ -27,7 +32,6 @@ komisji etycznej uczelni (standard w badaniach psychologicznych),
 
 komisji ds. badań naukowych.
 
-
 świadome  
 dobrowolne  
 brak dyskomfortu  
@@ -35,6 +39,12 @@ dobro i godność badanego
 grupy wrażliwe  
 ograniczenia maskowania  
 minimalizacja zbierania danych  
+
+informacje o konsekwencjach rezygnacji  
+anonimowość  
+poufność  
+
+
 
 Zgoda świadoma  
 : cel badania
@@ -50,3 +60,11 @@ Zgoda dobrowolna
 
 Obowiązek odkłamania, jeżeli stosowano instrukcję maskującą.  
 
+<br>
+## 3. Kodeks etyczno-zawodowy PTP 
+<br>
+## 4. Kodeks cywilny
+
+umozliwia dochodzenie roszczeń 
+<br>
+## 5. ustawa o zawodzie psychologa 
