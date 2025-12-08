@@ -1,5 +1,5 @@
 ---
-title: Pytanie 5 – empatia poznawcza i afektywna (Davis)
+title: Pytanie 5 – empatia poznawcza i afektywna (Davis) 😃🎯
 image: 
 ---
 Pytanie 5: Omów wielowymiarowy model empatii Marka H. Davisa oraz wskaż zalety i wady tego modelu w porównaniu z modelem jednowymiarowym.
@@ -16,7 +16,7 @@ model Davisa uwzględnia zarówno komponent poznawczy jak i afektywny.
 
 **Interpersonal Reactivity Index, IRI**
 Podskale mierzące komponent poznawczy empatii
-- perspecite-taking (PT) – spontaniczne przyjmowanie punktu widzenia innych osób
+- perspective-taking (PT) – spontaniczne przyjmowanie punktu widzenia innych osób
 - fantasy (F) – używania wyobraźni by wchodzić w świat odczuć i działań fikcyjnych postaci 
 Podskale mierzące komponent emocjonalny empatii
 - empathic concern (EC) – "other-oriented", współczucie i troska w obliczu niepowodzenia innych

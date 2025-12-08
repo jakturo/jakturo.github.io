@@ -1,5 +1,5 @@
 ---
-title: Pytanie 7 – wybrana cecha, a osiągnięcia akademickie
+title: Pytanie 7 – wybrana cecha, a osiągnięcia akademickie 🔥🎓🧬
 image: assets/img/pytanie7.png
 ---
 Pytanie 7 – Wybierz jeden z aspektów różnic indywidualnych i omów jego rolę w osiągnięciach akademickich. Podaj przykłady badań ilustrujące omawiane zależności. 
