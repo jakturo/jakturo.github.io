@@ -1,5 +1,5 @@
 ---
-title: Pytanie 18 – etyczne ograniczenia badań psychologicznych 
+title: Pytanie 18 – etyczne ograniczenia badań psychologicznych ⚖️
 image: assets/img/pytanie18.png
 ---
 Pytanie 18: Omów etyczne ograniczenia swobody psychologicznych badań naukowych z udziałem ludzi. Wyjaśnij regulacje prawne badań behawioralnych w Polsce oraz przedstaw istotne elementy świadomego i dobrowolnego uczestnictwa w badaniu naukowym.

@@ -1,5 +1,5 @@
 ---
-title: Pytanie 17 – rozwój społeczny dzieci (eksperyment)
+title: Pytanie 17 – rozwój społeczny dzieci 🌱 (eksperyment)
 image: assets/img/pytanie17.png
 ---
 Pytanie 17: Sformułuj problem badawczy dotyczący rozwoju społecznego dzieci w wieku przedszkolnym i wczesnoszkolnym oraz zaproponuj sposób empirycznej weryfikacji tego problemu, odwołując się do metodologii badań z obszaru psychologii rozwoju człowieka.
