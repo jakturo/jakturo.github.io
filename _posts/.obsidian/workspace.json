@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "e3b684c0264d3979",
+    "id": "9baa55a0a66cac39",
     "type": "split",
     "children": [
       {
-        "id": "de0eabc38a55d30a",
+        "id": "054dc96c40a579ef",
         "type": "tabs",
         "children": [
           {
-            "id": "bd116b4729871227",
+            "id": "71fb4a5cc7858820",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/pytanie36.png"
+                "file": "2025-10-01-wlasnosci-reprezentacji-Ja.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "pytanie36"
+              "icon": "lucide-file",
+              "title": "2025-10-01-wlasnosci-reprezentacji-Ja"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "271ae3d610497c09",
+    "id": "a8b931cab94d5354",
     "type": "split",
     "children": [
       {
-        "id": "8b797b9c3dc8d799",
+        "id": "6028d4f4595d35d0",
         "type": "tabs",
         "children": [
           {
-            "id": "21823bd734f5e027",
+            "id": "ce1f650061b1f768",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +48,7 @@
             }
           },
           {
-            "id": "81a8a427ed9df64e",
+            "id": "295f3a8b4954c750",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "fe55c7ddd57977d9",
+            "id": "9967cfb2fcc19e48",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "e6b5489e4cb23771",
+    "id": "85b525f9bf434dd3",
     "type": "split",
     "children": [
       {
-        "id": "c55f3e69e99a7676",
+        "id": "d219a7b83a683da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5152c2dcfed2e7b1",
+            "id": "9250bd2e87574e86",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/pytanie36.png",
+                "file": "2025-10-01-wlasnosci-reprezentacji-Ja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pytanie36"
+              "title": "Backlinks for 2025-10-01-wlasnosci-reprezentacji-Ja"
             }
           },
           {
-            "id": "0ac1d9b9bea58ed8",
+            "id": "40ba500bc7432971",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/img/pytanie36.png",
+                "file": "2025-10-01-wlasnosci-reprezentacji-Ja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pytanie36"
+              "title": "Outgoing links from 2025-10-01-wlasnosci-reprezentacji-Ja"
             }
           },
           {
-            "id": "57fc358937d63568",
+            "id": "0c531c51ae5d4718",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +137,7 @@
             }
           },
           {
-            "id": "46d8dbaa86999480",
+            "id": "ea34e6725c232323",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,18 +151,18 @@
             }
           },
           {
-            "id": "1cfa94a8cf0daea0",
+            "id": "0c58b856d6cf57ed",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/img/pytanie36.png",
+                "file": "2025-10-01-wlasnosci-reprezentacji-Ja.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pytanie36"
+              "title": "Outline of 2025-10-01-wlasnosci-reprezentacji-Ja"
             }
           }
         ]
@@ -181,37 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd116b4729871227",
+  "active": "71fb4a5cc7858820",
   "lastOpenFiles": [
-    "assets/img/pytanie35.png",
-    "assets/img/pytanie18.png",
-    "assets/img/pytanie17.png",
-    "assets/img/pytanie14.png",
-    "assets/img/pytanie12.jpg",
-    "assets/img/pytanie10.png",
-    "assets/img/pytanie16.png",
-    "assets/img/pytanie9.png",
-    "assets/img/pytanie8.png",
-    "assets/img/pytanie7.png",
-    "assets/img/pytanie6.png",
-    "Untitled 1.base",
-    "_posts/2025-10-15-wartosci-etyczne-psychologa.md",
-    "_posts/2025-10-11-pojecia-umyslowe.md",
-    "_posts/2025-10-02-p2-wywiad-obserwacja-testy.md",
-    "_posts/2025-10-01-wlasnosci-reprezentacji-Ja.md",
-    "_posts/2025-10-12-p11-dwa-rodzaje-pamieci.md",
-    "_posts/2025-10-08-akademia-kreatywnosc.md",
-    "_posts/2025-10-04-zimbardo-milgram.md",
-    "Untitled.base",
-    "nutshells/p10/streszczenieGPT.md",
-    "_posts/2025-10-05-empatia-davis.md",
-    "_posts/2025-11-29-END-nawigacja.md",
-    "Untitled.canvas",
-    "_drafts/1996-04-23-test.md",
+    "2025-10-02-p2-wywiad-obserwacja-testy.md",
+    "2025-10-08-akademia-kreatywnosc.md",
+    "2025-10-01-wlasnosci-reprezentacji-Ja.md",
     "nutshells/koszyczek/p50.md",
-    "nutshells/koszyczek/p11.md",
-    "_posts/2025-10-03-indukcja-dedukcja.md",
-    "_posts/2025-10-09-nozo-funkcjo-inter.md",
-    "README.md"
+    "nutshells/about/about.md",
+    "2025-11-29-END-nawigacja.md",
+    "nutshells/koszyczek",
+    "2025-10-04-zimbardo-milgram.md",
+    "Untitled.md",
+    "2023-03-23-moje-zajawki-2023.md",
+    "2025-10-05-empatia-davis.md",
+    "2025-10-03-indukcja-dedukcja.md",
+    "nutshells/about",
+    "nutshells",
+    "Untitled"
   ]
 }
