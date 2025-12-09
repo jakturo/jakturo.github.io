@@ -2,17 +2,17 @@
 
 ---
 
-**Hobart Mowrer** (1960)   
+**Hobart Mowrer** (1960)
 
-Strach – wynika z warunkowania klasycznego – neutralny bodziec staje się sygnałem zagrożenia
+Strach 
 : pojawia się kiedy jest możliwość kary
-: motywuje unikanie i ucieczkę (avoidance)
+: motywuje unikanie i ucieczkę (**avoidance**)
 : oczekiwanie kary
 : uczenie unikania
 
 Nadzieja
 : pojawia się kiedy jest możliwość nagrody (w tym ulgi)
-: motywuje dążenie (approach) 
+: motywuje dążenie (**approach**) 
 : oczekiwanie nagrody 
 : uczenie dążenia 
 
