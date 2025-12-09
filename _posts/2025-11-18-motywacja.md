@@ -21,7 +21,8 @@ Jak do tych pojęć ma się zewnątrzsterowność i wewnątrzsterowność?
 *zadania własne* vs. *zadania narzucone*  
 *mastery goals* vs. *performance goals* → orientacja na rozwój vs. orientacja na wykonanie 
 
-Psychologicznie użyteczne wydaje mi się myślenie w kategoriach **konfliktów motywacyjnych** (To się wzięło chyba z teorii pola i sił działających na człowieka) 
+Psychologicznie użyteczne wydaje mi się myślenie w kategoriach **konfliktów motywacyjnych** (To się wzięło chyba z teorii pola i sił działających na człowieka)  
+
 Rotter (LOC) – umiejscowienie kontroli chyba jest ważne w omawianiu motywacji zewnętrznej i wewnętrznej.  
 
 Ten eksperyment z dziećmi, które bawiły się z same siebie, ale przestały się bawić, kiedy dano im nagrodę.  
