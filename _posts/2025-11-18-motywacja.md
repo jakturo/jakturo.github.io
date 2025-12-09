@@ -4,8 +4,8 @@ image:
 ---
 Pytanie 49: Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
 
-📚 Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdział 7).
-W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)
+📚 [:Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdział 7).
+W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)](/nutshells/p49/612-630)
 
 <br>
 > O ile podstawowe mechanizmy przywracania równowagi są charakterystyczne dla wszystkich organizmów żywych, a mechanizmy zaburzania równowagi są charakterystyczne dla człowieka i innych naczelnych, to motywacja zadaniowa jest prawdopodobnie specyficznie ludzka. s. 619
