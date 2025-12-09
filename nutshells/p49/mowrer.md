@@ -2,7 +2,7 @@
 
 ---
 
-Hobart Mowrer (1960)   
+**Hobart Mowrer** (1960)   
 
 Strach – wynika z warunkowania klasycznego – neutralny bodziec staje się sygnałem zagrożenia
 : pojawia się kiedy jest możliwość kary
