@@ -7,4 +7,4 @@
 
 „Podobnie jak w przypadku jedzenia, picie płynów zapobiega pojawieniu się stanu zaburzenia homeostazy, nie jest natomiast reakcją na tę sytuację”.
 
-„Homeostatycznej natury nie ma też z pewnością regulacja popędu seksualnego” (Petri, 1996)
+„Homeostatycznej natury nie ma też z pewnością regulacja popędu seksualnego" (Petri, 1996)
