@@ -8,7 +8,7 @@ Pytanie 49: Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
 W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)](/nutshells/p49/612-630)
 
 <br>
-> O ile podstawowe mechanizmy przywracania równowagi są charakterystyczne dla wszystkich organizmów żywych, a mechanizmy zaburzania równowagi są charakterystyczne dla człowieka i innych naczelnych, to motywacja zadaniowa jest prawdopodobnie specyficznie ludzka. s. 619
+> O ile podstawowe mechanizmy przywracania równowagi są charakterystyczne dla wszystkich organizmów żywych, a mechanizmy zaburzania równowagi są charakterystyczne dla człowieka i innych naczelnych, to **motywacja zadaniowa jest prawdopodobnie specyficznie ludzka**. s. 619
 
 Rant Dolińskiego i Strelaua s. 628:
 > Dydaktyczne opisy motywacji, koncentrujące się na tylko jednym typie motywacji, zwykle zamazują złożoność procesów motywacyjnych. Działania ludzkie w większości wypadków są polimotywacyjne, a więc sterowane przez więcej niż jedną motywację.
