@@ -6,7 +6,12 @@ Pytanie 49: Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
 
 📚 Maruszewski, T., Doliński, D., Łukaszewski, W., Marszał-Wiśniewska, M. (2011). Emocje i motywacja (rozdział 7).
 W: J. Strelau, D. Doliński (red.), Psychologia, t.1. Gdańsk: GWP. (s. 612–630)
+
 <br>
+> O ile podstawowe mechanizmy przywracania równowagi są charakterystyczne dla wszystkich organizmów żywych, a mechanizmy zaburzania równowagi są charakterystyczne dla człowieka i innych naczelnych, to motywacja zadaniowa jest prawdopodobnie specyficznie ludzka. s. 619
+
+Rant Dolińskiego i Strelaua s. 628:
+> Dydaktyczne opisy motywacji, koncentrujące się na tylko jednym typie motywacji, zwykle zamazują złożoność procesów motywacyjnych. Działania ludzkie w większości wypadków są polimotywacyjne, a więc sterowane przez więcej niż jedną motywację.
 
 ## Moje pitu pitu
 Straszne dinozaury są omawiane w tych rozdziałach. Stwierdziłem, że lepiej będzie jak poszerzę swoje rozumienie motywacji wewnętrznej i zewnętrznej. Wewnętrzna bywa przedstawiana jako normatywnie lepsza, ale czy faktycznie tak jest?  
