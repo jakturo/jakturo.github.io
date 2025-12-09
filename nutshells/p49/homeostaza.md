@@ -1,5 +1,7 @@
 ---
+
 ---
+
 Hipoteza: człowiek je i pije w reakcji na zaburzenie równowagi organizmu. 
 Odpowiedź: jest tyle sytuacji, że człowiek je i pije, mimo że nie potrzebuje, albo że nie je i nie pije, mimo że nie potrzebuje, że homeostatyczna hipoteza motywacji dotycząca pokarmu się sypie. 
 
