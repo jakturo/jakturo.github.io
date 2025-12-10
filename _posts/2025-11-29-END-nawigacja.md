@@ -1,5 +1,5 @@
 ---
-title: Godzinę przed egzaminem
+title: Dzień przed egzaminem
 ---
 Neuro 🧠
 : [:reakcje emocjonalne](/nutshells/koszyczek/p50)
