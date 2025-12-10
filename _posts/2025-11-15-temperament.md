@@ -25,8 +25,9 @@ Jak to ugryźć?
 
 
 <br>
-# 3 właściwości według Pawłowa
-Pawłow wyróżnił 3 właściwości procesów nerwowych:
+## 3 właściwości według Pawłowa
+
+Przed Strelauem był Pawłow. Pawłow wyróżnił 3 właściwości procesów nerwowych:
 
 Siła pobudzenia (SE)
 
