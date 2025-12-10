@@ -7,19 +7,24 @@ Czym jest temperament według Regulacyjnej Teorii Temperamentu (RTT) Jana Strela
 📚 Strelau, J. (2014). Różnice indywidualne: historia–determinanty–zastosowania.
 Warszawa: Wydawnictwo Naukowe Scholar. Rozdział 14, Wstęp, Rozdziały 15.1, 15.2.
 
-Briskness (BR) – szybkość reagowania, tempo i łatwość zmiany zachowania.
+<br>
 
-Perseverance (PE) – skłonność do powtarzania i utrzymywania reakcji po ustaniu bodźca.
+## Cechy temperamentu w RTT
 
-Sensory Sensitivity (SS) – reagowanie na bodźce o niskiej wartości stymulacyjnej.
+są trochę abstrakcyjne i na pierwszy rzut oka trudno zrozumieć to cholerstwo.
 
-Emotional Reactivity (ER) – intensywne reagowanie emocjonalne, niska odporność emocjonalna.
+Cechy w RTT:
+: Briskness (BR) – szybkość reagowania, tempo i łatwość zmiany zachowania.
+: Perseverance (PE) – skłonność do powtarzania i utrzymywania reakcji po ustaniu bodźca.
+: Sensory Sensitivity (SS) – reagowanie na bodźce o niskiej wartości stymulacyjnej.
+: Emotional Reactivity (ER) – intensywne reagowanie emocjonalne, niska odporność emocjonalna.
+: Endurance (EN) – odporność i efektywność działania przy silnej/długotrwałej stymulacji.
+: Activity (AC) – tendencja do poszukiwania lub wytwarzania silnej stymulacji.
 
-Endurance (EN) – odporność i efektywność działania przy silnej/długotrwałej stymulacji.
-
-Activity (AC) – tendencja do poszukiwania lub wytwarzania silnej stymulacji.
+Jak to ugryźć?
 
 
+<br>
 # 3 właściwości według Pawłowa
 Pawłow wyróżnił 3 właściwości procesów nerwowych:
 
