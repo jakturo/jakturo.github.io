@@ -22,8 +22,8 @@ Jeżeli damy aktorowi scenariusz, w którym jest napisane, że gra oprawcę, to 
 
 ## Eksperyment Milgrama 
 
-|rzeczywistość| eksperyment|
-|--------|----------|
+|rzeczywistość|eksperyment|
+|---|---|
 |badany | nauczyciel|
 |podstawiony <br>uczestnik| uczeń|
 |asystent <br>eksperymentatora| eksperymentator|
