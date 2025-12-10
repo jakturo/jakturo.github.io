@@ -1,6 +1,7 @@
 ---
 ---
-do badania IE jako zdolności (testy wykonaniowe):     
+do badania IE jako zdolności  
+testy wykonaniowe:     
 : Wieloczynnikowa Skala Inteligencji Emocjonalnej (MEIS) 
 : Test Inteligencji Mayer-Salovey-Caruso (MSCEIT) 
 : Skala Świadomości Emocjonalnej (LEAS) 

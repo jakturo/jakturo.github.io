@@ -1,5 +1,5 @@
 ---
-title: Pytanie 39 – klient z mniejszości etnicznej ⚖️
+title: Pytanie 39 – klient z mniejszości ⚖️
 image: assets/img/p39.png
 ---
 Pytanie 39: Omów najważniejsze zagrożenia dla jakości psychologicznej praktyki zawodowej wobec klienta należącego do mniejszości.
