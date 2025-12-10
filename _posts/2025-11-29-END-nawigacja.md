@@ -69,7 +69,7 @@ Psychometria 📏
 <br>
 Temperament i osobowość 🔥🎓🧬
 : choroby somatyczne
-: temperament
+: [:temperament](/nutshells/koszyczek/p46)
 : inteligencja emocjonalna
 : opisywanie różnic indywidualnych
 : osiągnięcia akademickie
