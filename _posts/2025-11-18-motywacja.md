@@ -1,6 +1,6 @@
 ---
 title: Pytanie 49 – motywacja 😃🎯
-image: 
+image: assets/img/p49.jpg
 ---
 Pytanie 49: Omów i porównaj dwie wybrane współczesne koncepcje motywacji.
 
