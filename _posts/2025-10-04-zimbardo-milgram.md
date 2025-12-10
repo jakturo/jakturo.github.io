@@ -29,7 +29,7 @@ Kto grał kogo:
 |badany | nauczyciel|
 |podstawiony <br>uczestnik| uczeń|
 |asystent <br>eksperymentatora| eksperymentator|
-|eksperymentator|*nieobecny*|
+|eksperymentator|nieobecny|
 
 Osoba badana "losowała" czy zostanie przydzielona do roli ucznia, czy nauczyciela.  
 Losowanie było upozorowane. Były dwie karteczki "nauczyciel". Badany zawsze losował jako pierwszy. Podstawiony uczestnik losował jako drugi. 
