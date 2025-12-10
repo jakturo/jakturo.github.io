@@ -29,7 +29,6 @@ Jeżeli damy aktorowi scenariusz, w którym jest napisane, że gra oprawcę, to 
 |asystent <br>eksperymentatora| eksperymentator|
 |eksperymentator|*nieobecny*|
 
-
 Osoba badana "losowała" czy zostanie przydzielona do roli ucznia, czy nauczyciela.  
 Losowanie było upozorowane. Były dwie karteczki "nauczyciel". Badany zawsze losował jako pierwszy. Podstawiony uczestnik losował jako drugi. 
 Generator wstrząsów był atrapą.  
