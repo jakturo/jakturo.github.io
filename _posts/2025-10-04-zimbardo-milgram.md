@@ -22,8 +22,6 @@ Jeżeli damy aktorowi scenariusz, w którym jest napisane, że gra oprawcę, to 
 
 ## Eksperyment Milgrama 
 
-Kto grał kogo:
-
 |rzeczywistość|eksperyment|
 |---|---|
 |badany | nauczyciel|
@@ -37,7 +35,8 @@ Generator wstrząsów był atrapą.
 Było 30 poziomów napięcia od 15 V do 450 V.  
 Pod każdym poziomem napięcia były opisy słowne np. "szok lekki", "szok silny". 
 Ostatnie poziomy napięcia były oznaczone na czerwono.  
-Eksperymentator dla autorytetu nosił biały kitel laboratoryjny.  
+Eksperymentator dla autorytetu nosił biały kitel laboratoryjny.
+
 Zachowanie ucznia było wystandaryzowane:
 : Do 75 V – brak istotnych reakcji.
 : 75–135 V – narzekania, protesty.
