@@ -22,6 +22,7 @@ Jeżeli damy aktorowi scenariusz, w którym jest napisane, że gra oprawcę, to 
 
 ## Eksperyment Milgrama 
 
+Kto grał kogo:
 |rzeczywistość|eksperyment|
 |---|---|
 |badany | nauczyciel|
