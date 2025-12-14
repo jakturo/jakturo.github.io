@@ -19,7 +19,7 @@ Nauki kognitywne zakładają, że obiekty rzeczywiste mają odbicie w naszym umy
 # Różnice w reprezentacji Ja pomiędzy poszczególnymi teoriami.
 
 **Reprezentacja Ja w koncepcji psychodynamicznej.**  
-[Freud w odniesieniu do Kelly'ego](/nutshells/pytanie1/Kelly&Freud)
+[:Freud w odniesieniu do Kelly'ego](/nutshells/pytanie1/Kelly&Freud)
 
 **Reprezentacja Ja w koncepcji humanistycznej.**  
 
