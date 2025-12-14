@@ -1,6 +1,6 @@
 ---
-
 ---
+
 **Rozdział 12** – chyba tu jest mięsko. Kelly jest porównywany z Freudem i Rogersem. 
 
 ## Kelly i Freud 
@@ -41,6 +41,3 @@ Kelly i Freud: *Nieświadomość* u Freuda odpowiada u Kelly'ego konstruktom *pr
 Kelly i Freud: W terapii dochodzi do zjawiska przeniesienia. Przeniesienie jest ważne. 
 
 Kelly i Freud: Pacjenci przejawiają opór wobec zmian. 
-
-<br>
-## Kelly i Rogers

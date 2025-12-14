@@ -1,0 +1,3 @@
+---
+---
+Dlaczego egzaminatorzy każą nam czytać o konstruktach osobistych Kelly'ego, kiedy pytają o porównanie reprezentacji Ja w różnych koncepcjach? Nie wiem, acz się domyślam. *Ja* może być jednym z wielu konstruktów osobistych, których używamy do przewidywania wydarzeń – może być jednym z wielu pojęć, które mamy we własnym umyśle. *Ja jako konstrukt osobisty* można by w języku potocznym nazwać moją prywatną teorią na temat samego siebie. Anyway. Skoro każą nam czytać konstrukty osobiste Kelly'ego, to przyjmuję że Kelly ma być punktem odniesienia przy porównywaniu *Ja* w poszczególnych koncepcjach. 
