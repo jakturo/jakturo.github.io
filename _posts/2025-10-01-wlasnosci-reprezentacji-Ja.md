@@ -11,12 +11,12 @@ Pytanie 1: _Porównaj własności reprezentacji Ja, (własnej osoby), opisywane 
 [:Interpretacja pytania](/nutshells/pytanie1/interpretacja)
 
 <br>
-# Co to właściwie ta „reprezentacja Ja"?
+## Co to właściwie ta „reprezentacja Ja"?
 
-Nauki kognitywne zakładają, że obiekty rzeczywiste mają odbicie w naszym umyśle. Np. posiadam słuchawki. Gdzieś w moim mózgu istnieją jakieś neurony, które reprezentują te słuchawki. Wiem jak wyglądają, jak grają i gdzie leżą (choć z tym bywa akurat problem). Innymi słowy, wiem jakie mają cechy. Ale przecież nie mam prawdziwych słuchawek w swojej głowie. To tylko reprezentacja słuchawek. Podobnie, w mojej głowie istnieją jakieś neurony, które zapisują informacje na temat mnie samego. Tworzą sieć, której używam do wyobrażania mnie samego – to właśnie jest reprezentacja Ja.
+Nauki kognitywne zakładają, że obiekty rzeczywiste mają odbicie w naszym umyśle. Np. posiadam słuchawki. Gdzieś w moim mózgu istnieją jakieś neurony, które reprezentują te słuchawki. Wiem jak wyglądają, jak grają i gdzie leżą (choć z tym bywa akurat problem). Innymi słowy, wiem jakie mają cechy. Ale przecież nie mam prawdziwych słuchawek w swojej głowie. To tylko reprezentacja słuchawek. Podobnie, w mojej głowie istnieją jakieś neurony, które zapisują informacje na temat mnie samego. Tworzą sieć, której używam do wyobrażania mnie samego – to właśnie jest reprezentacja Ja, znana też jako **self-concept**. 
 
 <br>
-# Różnice w reprezentacji Ja pomiędzy poszczególnymi teoriami.
+## Różnice w reprezentacji Ja pomiędzy poszczególnymi teoriami.
 
 **Reprezentacja Ja w koncepcji psychodynamicznej.**  
 [:Freud w odniesieniu do Kelly'ego](/nutshells/pytanie1/Kelly&Freud)
@@ -25,6 +25,11 @@ Nauki kognitywne zakładają, że obiekty rzeczywiste mają odbicie w naszym umy
 
 
 **Reprezentacja Ja w koncepcji społeczno-poznawczej.**
+
+<br>
+## Po chłopsku 
+
+Parafraza pytania: *Porównaj to, jak ludzie odpowiedzieli by na pytanie „kim jestem?” według koncepcji psychodynamicznej, humanistycznej i społeczno-poznawczej. 
 
 
 
