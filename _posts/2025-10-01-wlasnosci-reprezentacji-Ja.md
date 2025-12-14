@@ -8,7 +8,7 @@ Pytanie 1: _Porównaj własności reprezentacji Ja, (własnej osoby), opisywane 
 
 Źródło pokrewne: [:Pervin, L. A., & John, O. P. (2002). Osobowość: Teoria i badania (Wyd. 8). Wydaw. Uniwerstetu Jagiellońskiego.](/nutshells/pytanie1/zrodlo_pokrewne)
 
-**[:Interpretacja **pytania**](/nutshells/pytanie1/interpretacja)**
+[:Interpretacja pytania](/nutshells/pytanie1/interpretacja)
 
 <br>
 # Co to właściwie ta „reprezentacja Ja"?
