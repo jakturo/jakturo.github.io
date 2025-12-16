@@ -14,6 +14,7 @@ IE jako zdolność → rzeczywista IE, mierzona testami wykonaniowymi. „Zachow
 
 IE jako cecha → postrzegana IE, mierzone przez samoopis. „Zachowania **typowe**” – ujawniające się na co dzień. Koreluje z **W5**
 
+IE jako cecha i IE jako zdolność słabo ze sobą korelują: 
 > Inteligencja emocjonalna rozumiana z jednej strony jako cecha osobowości, z drugiej zaś - jako mająca status zdolności, to konstrukty – mimo wspólnej nazwy – różniące się jakościowo. Nie pozostają one ze sobą w związku, a jeżeli tak, to **korelacja między nimi nie przekracza 0,20-0,30**. <cite> – Strelau s. 513</cite>
 
 ### Inteligencja ogólna a Inteligencja emocjonalna
@@ -24,7 +25,7 @@ i. emocjonalna → duży wpływ czynników środowiskowych i społecznych
 <br>
 ## Każdy wie, czym jest inteligencja emocjonalna. Tylko że nie do końca.
 
-Na początku było słowo... Wait. Na początku była *inteligencja*. Nie ma co szczegółowo o niej pisać, bo utoniemy. Ale w skrócie, sprowadza się ona do adaptacji, do radzenia sobie w życiu i przesądza o dobrostanie. Czyli pojęcie *inteligencji* daje *vibe* ogólnego czynnika, na który składa się wiele rzeczy i tak na prawdę nie wiadomo do końca czym on jest. Nie lubię takich pojęć. Ludzie się fiksują na tym, liczą to IQ, ale koniec końców [:nie wiadomo nawet czy IQ się liczy](/nutshells/p48/sternberg). Potem badacze zaczęli się zastanawiać czym jest *to coś*, co przesądza o radzeniu sobie w sytuacjach społecznych – pojęcie *inteligencji emocjonalnej* wypączkowało z pojęcia *inteligencji* i zaanektowało część [:treści wcześniejszych badań o emocjach](/nutshells/p48/historia). I wydaje mi się że tu jest po prostu spór. Spór o to, czym w ogóle jest inteligencja emocjonalna, a wewnątrz tego sporu jest kolejny spór (jak matrioszka) czy *inteligencja emocjonalna* to zdolność czy cecha. Ja wiem, że nuda, ale może to dobrze że zamiast prowadzić wojny, to niektórzy kłócą się o charakter jakiegoś pojęcia.
+Na początku było słowo... Wait. Na początku była *inteligencja*. Nie ma co szczegółowo o niej pisać, bo utoniemy. Ale w skrócie, sprowadza się ona do adaptacji, do radzenia sobie w życiu i przesądza o dobrostanie. Czyli pojęcie *inteligencji* daje *vibe* ogólnego czynnika, na który składa się wiele rzeczy i tak na prawdę nie wiadomo do końca czym on jest. Nie lubię takich pojęć. Ludzie się fiksują na tym, liczą to IQ, ale koniec końców [:nie wiadomo nawet czy IQ się liczy](/nutshells/p48/sternberg). Potem badacze zaczęli się zastanawiać czym jest *to coś*, co przesądza o radzeniu sobie w sytuacjach społecznych – pojęcie *inteligencji emocjonalnej* wypączkowało z pojęcia *inteligencji* i zaanektowało część [:treści wcześniejszych badań o emocjach](/nutshells/p48/historia). I wydaje mi się że tu jest po prostu spór. Spór o to, czym w ogóle jest inteligencja emocjonalna, a wewnątrz tego sporu jest kolejny spór (jak matrioszka) czy *inteligencja emocjonalna* to zdolność czy cecha. Ja wiem, że nuda, ale może to dobrze że zamiast prowadzić wojny, to niektórzy kłócą się o charakter jakiegoś pojęcia. Jedni mówią że inteligencja emocjonalna istnieje i jest ważna. Drudzy, że nie ma naukowych dowodów że inteligencja emocjonalna istnieje. Jeszcze inni, że inteligencja emocjonala to trochę bullshit i że da się ją sprowadzić do cech osobowości i temperamentu. 
 
 Strelau omawia głównie 4 modele
 
@@ -32,13 +33,17 @@ Strelau omawia głównie 4 modele
 ## 1. IE jako zdolność
 
 ### Model nr 1
+
+Wedlug Mayera, Caruso i Salovey rozwój IE przebiega w czterech etapach. 
+
 **puum** – Mayer, Caruso i Salovey (1999) 
 : **perceiving** – rozpoznawanie, ekspresja, ocena (własnych i cudzych) emocji. Pierwsze kroczki emocjonalne. 
 : **using** – emocje jako dźwignia dla myślenia. Wzmacnianie myślenia emocjami. Łączenie emocji i myślenia. Kojarzenie emocjonalne. „Aha! Emocji mogę używać do myślenia!”.
 : **understanding** – rozumienie sygnałów emocjonalnych i języka emocjonalnego. Rozumienia złożoności emocjonalno-uczuciowej w sytuacjach społecznych. Coś jak „emocje w praktyce”. Dostrzeganie, którędy idą emocjonalne sznurki. 
 : **managing** – zarządzanie emocjami własnymi i innych, np. do osiągania celów. Tbh, mi to brzmi jak radzenie sobie z emocjami w najwyżej formie. The master of emotions. Pociąganie za emocjonalne sznurki. Wzbudzanie, uspokajanie, manipulowanie, przekazywanie, używanie. „Pomieszczanie”.
 
-*Trochę uzupełniłem własną fantazją powyższy model, mam nadzieję że dobrze*.
+*Trochę uzupełniłem własną fantazją powyższy model, mam nadzieję że dobrze*.  
+
 
 <br>
 ## 2. IE jako cecha
@@ -65,9 +70,35 @@ Kłopot polega na tym, że oni jak mierzą IE, to mierzą w sumie takie rzeczy j
 ## 3. IE jako umiejętność 
 
 ### Model nr 4
-To [:koncepcja Golemana](/nutshells/p48/goleman). Golemana rozjechał Sternberg, ale Strelau mówi, że warto się nad Golemanem pochylić. Choćby z powodów historycznych. Bo Goleman sprawił, że psychologowie chętniej zaczęli badać IE. Jak się ma model Golemana do tych cechowych modeli (Bar-On, Petrides i Furnham)? Nie wiem. 
+To [:koncepcja Golemana](/nutshells/p48/goleman). Golemana rozjechał Sternberg, ale Strelau mówi, że warto się nad Golemanem pochylić. Choćby z powodów historycznych. Bo Goleman sprawił, że psychologowie chętniej zaczęli badać IE. Najpierw badacze mieli wywalone na IE, ale Goleman to spopularyzował wśród konsumentów popsychologii i to zmusiło „poważnych badaczy”, żeby się inteligencją emocjonalną zająć. Btw, jak się ma model Golemana do tych cechowych modeli (Bar-On, Petrides i Furnham)? Nie wiem. 
 
 <br>
-## Narzędzia
+## Jak niby zmierzyć inteligencję emocjonalną? 
+
+### Testy wykonaniowe
+
+Testy wykonaniowe (zadaniowe) mierzą rzeczywistą IE.  
+Są bardziej czasochłonne.  
+Nie wymagją *wglądu* – osoba po prostu je wykonuje.  
+Mogą **korelować z testami, które mierzą inteligencję ogólną**.  
+
+Może to być „ocenianie emocji w historyjkach, we wzorach, w muzyce i w twarzach”.  
+Ocena jak emocje włączane są do procesów poznawczych.  
+Ocena jakichś emocjonalnych epizodów z realnego życia.  
+Dopasowywanie zdań do twarzy i obrazów.  
+Identyfikowanie emocji (swoich i cudzych) w trakcie scenek.  
+
+<br>
+### Przez samoopis 
+
+Samoopis mierzy własną spostrzeganą IE.  
+Zabierają mniej czasu.  
+Wymagają *wglądu* od osoby która dokonuje samoopisu. A z tym wglądem to jest tak, że nie każdy go ma.  
+Podczas samoopisu potrzeba aprobaty społecznej może zniekształcać wynik.  
+Często **korelują z cechami osobowości, a szczególnie Wielką Piątką**. Korelacje dochodzą nawet do *r = 0,70*.  
+
+
+
+### Przykłady narzędzi
 
 [:Narzędzia do badania IE (na później)](/nutshells/p48/narzedzia)
