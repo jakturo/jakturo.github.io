@@ -27,9 +27,7 @@ Nauki kognitywne zakładają, że obiekty rzeczywiste mają odbicie w naszym umy
 **Reprezentacja Ja w koncepcji społeczno-poznawczej.**
 
 <br>
-## Po chłopsku 
-
-Parafraza pytania: *Porównaj to, jak ludzie odpowiedzieli by na pytanie „kim jestem?” według koncepcji psychodynamicznej, humanistycznej i społeczno-poznawczej. 
+## Po chłopsku
 
 
 
