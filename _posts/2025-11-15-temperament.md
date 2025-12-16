@@ -9,7 +9,9 @@ Warszawa: Wydawnictwo Naukowe Scholar. Rozdział 14, Wstęp, Rozdziały 15.1, 15
 
 <br>
 
-## Cechy temperamentu w RTT
+## Temperament
+
+### Cechy temperamentu w RTT
 
 są trochę abstrakcyjne i na pierwszy rzut oka trudno zrozumieć to cholerstwo.
 
@@ -25,7 +27,7 @@ Jak to ugryźć?
 
 
 <br>
-## 3 właściwości według Pawłowa
+### 3 właściwości według Pawłowa
 
 Przed Strelauem był Pawłow. Pawłow wyróżnił 3 właściwości procesów nerwowych:
 
@@ -46,7 +48,7 @@ szybkość przełączania zachowania.
 To są prekursory energetycznych i czasowych właściwości RTT.
 
 
-# Strelau The Regulative Theory of Temperament: Current Status (1996)
+### Strelau The Regulative Theory of Temperament: Current Status (1996)
 Nie chodzi o co człowiek robi, ale jak to robi — pod względem energii, czasu, intensywności i dynamiki zachowania.
 
 Aktywność łączy się z ekstrawersją, aktywnością i pozytywnym afektem.
@@ -59,7 +61,7 @@ Postulat 8 jest ciekawy – Strelau wspomina że temperament może się lekko zm
 
 Postulat 9 – Temperament ujawnia się szczególnie wyraźnie wtedy, kiedy jednostka jest poddana silnemu naciskowi otoczenia.  
 
-## Chat GPT
+### Chat GPT
 szybkość przełączania → Żwawość
 
 trwałość śladu reakcji → Perseweratywność
@@ -157,7 +159,7 @@ bardzo niskie (0.00–0.18)
 Strelau mówi wprost, że to „najtrudniejsza do osadzenia” cecha w strukturze czynnikowej.
 
 
-## Strelau Psychologia temperamentu
+### Strelau Psychologia temperamentu
 
 *indywidualność neurohormonalna*
 "poziom wykonania"
@@ -176,4 +178,5 @@ osoby niskoreaktywne potrzebują dużej stymulacji
 > Dlugotrwala rozbie:lnosc mic;dzy poziomem reaktywnosci jednostki a wartością stymulacyjną zachowania i/lub sytuacji, w których jednostka funkcjonuje, powoduje ze wysold poziom reaktywnosci staje sie temperamentalnym czynnikiem ryzyka (TCR), prowadzqcym do rozmaitych zaburzen lub anomalii zachowania
 s. 188
 
+## Osobowość 
  
