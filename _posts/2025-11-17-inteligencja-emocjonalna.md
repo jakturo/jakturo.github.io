@@ -66,7 +66,7 @@ Petrides i Furnham – poczucie własnej skuteczności emocjonalnej (*emotional 
 Kłopot polega na tym, że oni jak mierzą IE, to mierzą w sumie takie rzeczy jak ekstrawersję i neurotyzm (W5 albo EPQ-R), a nawet aleksytymię (trudność w dostępie do własnych emocji). Osobiście, nie jestem w stanie zapamiętać powyższych pozycji, więc komisji powiedziałbym, że to w sumie i tak to samo co W5, EPQ-R, czy aleksytymia. Że te cechowe modele IE są redundantne z innymi wymiarami w psychologii osobowości. **Grunt aby zapamiętać, że Bar-On oraz Petrides i Furnham to ci od cechowego modelu IE**.
 
 <br>
-## 3. IE jako umiejętność 
+## 3. IE jako umiejętność (model mieszany?)
 
 ### Model nr 4
 To [:koncepcja Golemana](/nutshells/p48/goleman). Golemana rozjechał Sternberg, ale Strelau mówi, że warto się nad Golemanem pochylić. Choćby z powodów historycznych. Bo Goleman sprawił, że psychologowie chętniej zaczęli badać IE. Najpierw badacze mieli wywalone na IE, ale Goleman to spopularyzował wśród konsumentów popsychologii i to zmusiło „poważnych badaczy”, żeby się inteligencją emocjonalną zająć. Btw, jak się ma model Golemana do tych cechowych modeli (Bar-On, Petrides i Furnham)? Nie wiem. 
