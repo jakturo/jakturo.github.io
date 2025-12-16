@@ -65,7 +65,7 @@ Kłopot polega na tym, że oni jak mierzą IE, to mierzą w sumie takie rzeczy j
 ## 3. IE jako umiejętność 
 
 ### Model nr 4
-To [:koncepcja Golemana](/nutshells/p48/goleman). Golemana rozjechał Sternberg, ale Strelau mówi, że warto się nad Golemanem pochylić. Choćby z powodów historycznych. Bo Goleman sprawił, że psychologowie chętniej zaczęli badać IE. 
+To [:koncepcja Golemana](/nutshells/p48/goleman). Golemana rozjechał Sternberg, ale Strelau mówi, że warto się nad Golemanem pochylić. Choćby z powodów historycznych. Bo Goleman sprawił, że psychologowie chętniej zaczęli badać IE. Jak się ma model Golemana do tych cechowych modeli (Bar-On, Petrides i Furnham)? Nie wiem. 
 
 <br>
 ## Narzędzia

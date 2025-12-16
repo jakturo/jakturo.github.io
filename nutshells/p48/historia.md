@@ -1,3 +1,5 @@
+---
+---
 1872 – Darwin – O wyrazie uczuć u człowieka i zwierząt
 
 1887 – Wundt psychofizjologiczne wskaźniki emocji
