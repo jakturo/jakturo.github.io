@@ -17,8 +17,7 @@ IE jako cecha → postrzegana IE, mierzone przez samoopis. „Zachowania **typow
 IE jako cecha i IE jako zdolność słabo ze sobą korelują: 
 > Inteligencja emocjonalna rozumiana z jednej strony jako cecha osobowości, z drugiej zaś - jako mająca status zdolności, to konstrukty – mimo wspólnej nazwy – różniące się jakościowo. Nie pozostają one ze sobą w związku, a jeżeli tak, to **korelacja między nimi nie przekracza 0,20-0,30**. <cite> – Strelau s. 513</cite>
 
-### Inteligencja ogólna a Inteligencja emocjonalna
-
+Porównanie i. emocjonalnej do i. ogólnej pod kątem dziedziczenia:  
 i. ogólna → warunkowana genetycznie  
 i. emocjonalna → duży wpływ czynników środowiskowych i społecznych 
 
@@ -88,8 +87,7 @@ Ocena jakichś emocjonalnych epizodów z realnego życia.
 Dopasowywanie zdań do twarzy i obrazów.  
 Identyfikowanie emocji (swoich i cudzych) w trakcie scenek.  
 
-<br>
-### Przez samoopis 
+### Samoopis 
 
 Samoopis mierzy własną spostrzeganą IE.  
 Zabierają mniej czasu.  
@@ -97,8 +95,7 @@ Wymagają *wglądu* od osoby która dokonuje samoopisu. A z tym wglądem to jest
 Podczas samoopisu potrzeba aprobaty społecznej może zniekształcać wynik.  
 Często **korelują z cechami osobowości, a szczególnie Wielką Piątką**. Korelacje dochodzą nawet do *r = 0,70*.  
 
-
-
+<br>
 ### Przykłady narzędzi
 
 [:Narzędzia do badania IE (na później)](/nutshells/p48/narzedzia)
