@@ -10,7 +10,7 @@ Warszawa: Wydawnictwo Naukowe Scholar. Rozdział 19.
 <br>
 ## TL;DR
 
-IE jako zdolność → rzeczywista IE, mierzona testami wykonaniowymi. „Zachowania **maksymalne**” – ujawniające się w wyjątkowych okolicznościach. 
+IE jako zdolność → rzeczywista IE, mierzona testami wykonaniowymi. „Zachowania **maksymalne**” – ujawniające się w wyjątkowych okolicznościach. Bywa że koreluje z miarami inteligencji ogólnej.
 
 IE jako cecha → postrzegana IE, mierzone przez samoopis. „Zachowania **typowe**” – ujawniające się na co dzień. Koreluje z **W5**
 
