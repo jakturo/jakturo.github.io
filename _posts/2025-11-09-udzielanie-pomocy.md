@@ -27,6 +27,8 @@ pielęgniarki pomagają częściej
 teorie ewolucjonistyczne – pomaganie krewnym  (altruizm wzajemny) 
 cechy osobowości (empatia jako dyspozycja) 
 
+Pomoc komuś, kto złapał gumę? 
+
 dobry nastroj motywuje do pomocy  
 
 badanie: wyobraź sobie umierającego przyjaciela  
