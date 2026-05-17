@@ -1,5 +1,5 @@
 ---
-title: Pytanie 34 – tajemnica zawodowa ⚖️
+title: 34 – tajemnica zawodowa ⚖️
 image: 
 ---
 Opisz, podając nazwy aktów prawnych, w jaki sposób regulowana jest w polskim prawie kwestia tajemnicy zawodowej psychologa.

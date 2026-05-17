@@ -1,5 +1,5 @@
 ---
-title: Pytanie 38 – osobowość, temperament, psychopatologie 🔥🎓🧬
+title: 38 – osobowość, temperament, psychopatologie 🔥🎓🧬
 image: 
 ---
 Pytanie38: Jaki jest związek między cechami osobowości i temperamentem a psychopatologią i chorobami somatycznymi? Omów na podstawie wybranych cech.

@@ -1,5 +1,5 @@
 ---
-title: Pytanie 15 – wartości etyczne psychologa ⚖️ 
+title: 15 – wartości etyczne psychologa ⚖️ 
 image: 
 ---
 Pytanie 15: Omów pięć wartości ogólnych w etyce zawodu psychologa wg Amerykańskiego Towarzystwa Psychologicznego (2017) i porównaj je z zasadami ogólnymi Polskiego Towarzystwa Psychologicznego (2018). Podaj przykłady dobrej i złej praktyki zawodowej egzemplifikujące każdą z wartości.

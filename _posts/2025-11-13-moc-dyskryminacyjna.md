@@ -1,5 +1,5 @@
 ---
-title: Pytanie 44 – moc dyskryminacyjna 📏
+title: 44 – moc dyskryminacyjna 📏
 image: 
 ---
 Pytanie44: Od czego zależy moc dyskryminacyjna pytań w teście?

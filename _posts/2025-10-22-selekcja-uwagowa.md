@@ -1,5 +1,5 @@
 ---
-title: Pytanie 22 – selekcja uwagowa 🧩
+title: 22 – selekcja uwagowa 🧩
 image: assets/img/p22.jpg
 ---
 Pytanie 22: Wymień podstawowe różnice, jakie występują między modelami wczesnej i późnej selekcji uwagowej.

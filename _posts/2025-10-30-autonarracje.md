@@ -1,5 +1,5 @@
 ---
-title: Pytanie 30 – autonarracje 🎭
+title: 30 – autonarracje 🎭
 image: assets/img/p30.png
 ---
 Pytanie 30: Omów rolę autonarracji w zachowaniach jednostki.

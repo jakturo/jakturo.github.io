@@ -1,5 +1,5 @@
 ---
-title: Pytanie 47 – heurystyki 🧩
+title: 47 – heurystyki 🧩
 image: assets/img/p47.png
 ---
 Pytanie 47: Jaką rolę w procesie wnioskowania i podejmowania decyzji odgrywają heurystyki? Omów na przykładzie dwóch wybranych heurystyk.

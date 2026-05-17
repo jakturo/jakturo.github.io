@@ -1,5 +1,5 @@
 ---
-title: Pytanie 10 – pojęcia umysłowe 🧩
+title: 10 – pojęcia umysłowe 🧩
 image: assets/img/p10.jpg
 ---
 Pytanie 10: Na podstawie wybranej teorii omów, w jaki sposób tworzone są pojęcia umysłowe i jak są wykorzystywane w procesie rozpoznawania obiektów.

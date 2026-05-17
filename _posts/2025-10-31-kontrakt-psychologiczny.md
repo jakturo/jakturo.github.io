@@ -1,5 +1,5 @@
 ---
-title: Pytanie 31 – kontrakt psychologiczny 📝 
+title: 31 – kontrakt psychologiczny 📝 
 image: 
 ---
 Pytanie 31: Czym jest kontrakt psychologiczny i jakie znaczenie ma zawieranie kontraktu na badanie diagnostyczne?

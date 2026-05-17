@@ -1,5 +1,5 @@
 ---
-title: Pytanie 1 – własności reprezentacji Ja 🎭
+title: 1 – własności reprezentacji Ja 🎭
 ---
 
 Pytanie 1: _Porównaj własności reprezentacji Ja, (własnej osoby), opisywane w koncepcjach psychodynamicznych, humanistycznych i społeczno-poznawczych._

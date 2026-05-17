@@ -1,5 +1,5 @@
 ---
-title: Pytanie 13 – instrukcja maskująca ⚖️
+title: 13 – instrukcja maskująca ⚖️
 image: 
 ---
 Pytanie 13: Omów, czym jest i kiedy jest stosowana instrukcja maskująca w badaniach psychologicznych. Jakie są etyczne powinności badacza stosującego taką instrukcję w badaniach psychologicznych?

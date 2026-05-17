@@ -1,5 +1,5 @@
 ---
-title: Pytanie 12 –  Dwa rodzaje zaburzeń mowy i ich mózgowe podłoże 🧠
+title: 12 –  Dwa rodzaje zaburzeń mowy i ich mózgowe podłoże 🧠
 image: assets/img/pytanie12.jpg
 ---
 

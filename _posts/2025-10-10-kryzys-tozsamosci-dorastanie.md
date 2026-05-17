@@ -1,5 +1,5 @@
 ---
-title: Pytanie 9 – kryzys tożsamości 🌱
+title: 9 – kryzys tożsamości 🌱
 image: assets/img/pytanie9.png
 ---
 Pytanie 9: Wyjaśnij, na czym polega kryzys tożsamości w okresie adolescencji. Jakie znaczenie dla dalszego rozwoju osoby (w dorosłości) ma jego negatywne rozwiązanie?

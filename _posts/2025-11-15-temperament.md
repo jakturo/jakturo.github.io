@@ -1,5 +1,5 @@
 ---
-title: Pytanie 46 – temperament a osobowość w RTT 🔥🎓🧬
+title: 46 – temperament a osobowość w RTT 🔥🎓🧬
 image: 
 ---
 Czym jest temperament według Regulacyjnej Teorii Temperamentu (RTT) Jana Strelaua? Wyjaśnij, dlaczego nie należy utożsamiać go z osobowością?

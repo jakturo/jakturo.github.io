@@ -1,5 +1,5 @@
 ---
-title: Pytanie 33 – etapy rozwojowe 🌱
+title: 33 – etapy rozwojowe 🌱
 image: 
 ---
 Pytanie 33: Jakie są najważniejsze zadania rozwojowe na poszczególnych etapach życia (od niemowlęctwa do późnej dorosłości)? Wyjaśnij, jakie czynniki wpływają na pozytywną realizację tych zadań na poszczególnych etapach rozwojowych.

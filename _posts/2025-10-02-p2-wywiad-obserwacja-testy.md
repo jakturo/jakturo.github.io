@@ -1,5 +1,5 @@
 ---
-title: Pytanie 2 – główne metody diagnozowania w psychologii 📝
+title: 2 – główne metody diagnozowania w psychologii 📝
 image: 
 ---
 Pytanie 2: Wymień i porównaj główne metody diagnozowania w psychologii.

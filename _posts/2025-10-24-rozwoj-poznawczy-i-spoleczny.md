@@ -1,5 +1,5 @@
 ---
-title: Pytanie 24 – rozwój poznawczy i społeczny 🌱
+title: 24 – rozwój poznawczy i społeczny 🌱
 image: 
 ---
 Pytanie 24: Omów co najmniej dwie teorie wyjaśniające rozwój człowieka w obszarze poznawczym i społecznym. Podaj przykłady zastosowania tych teorii w praktyce – np. w profilaktyce, edukacji, doradztwie.

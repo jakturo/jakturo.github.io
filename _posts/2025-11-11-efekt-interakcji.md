@@ -1,5 +1,5 @@
 ---
-title: Pytanie 42 – efekt interakcji 📊 (na przykładzie pobudzenia) 
+title: 42 – efekt interakcji 📊 (na przykładzie pobudzenia) 
 image: assets/img/p42.png
 ---
 Pytanie 42: *Wyjaśnij, na czym polega efekt interakcji w badaniach psychologicznych i w jaki sposób się go analizuje. W omówieniu tego zagadnienia posłuż się przykładem badania, w którym ten efekt wystąpił.*

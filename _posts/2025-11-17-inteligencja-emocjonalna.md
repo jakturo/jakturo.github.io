@@ -1,5 +1,5 @@
 ---
-title: Pytanie 48 – inteligencja emocjonalna jako zdolność i cecha 🔥🎓🧬
+title: 48 – inteligencja emocjonalna jako zdolność i cecha 🔥🎓🧬
 image: assets/img/p48.webp
 ---
 Pytanie 48: Przedstaw i porównaj koncepcje inteligencji emocjonalnej (IE) rozumianej jako zdolność i koncepcję IE rozumianej jako cechy/cecha osobowości. Czym różnią się narzędzia stosowane do pomiaru IE w obu koncepcjach?
