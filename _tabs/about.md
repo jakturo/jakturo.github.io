@@ -7,8 +7,6 @@ order: 2
 ---
 <img src="assets/img/profilowe.jpg" alt="Hej, to moja twarz" style="height: 30vh"/>
 
-
-
 # Cześć,
 
-… to be build.
+jestem, słucham. Służę wiedzą psychologiczną i doświadczeniem życiowym. 
