@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: O mnie
-icon: fas fa-user
+icon: fas fa-hand
 order: 2
 
 ---
