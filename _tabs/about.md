@@ -9,4 +9,4 @@ order: 2
 
 # Dzień dobry,
 
-jestem, słucham. Zadaję dużo pytań, żeby lepiej zrozumieć. Służę wiedzą i doświadczeniem.
+jestem, słucham. Zadaję dużo pytań, żeby lepiej rozumieć. Służę wiedzą i doświadczeniem.
