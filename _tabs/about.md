@@ -7,6 +7,6 @@ order: 2
 ---
 <img src="assets/img/profilowe.jpg" alt="Hej, to moja twarz" style="height: 30vh"/>
 
-# Cześć,
+# Dzień dobry,
 
-jestem, słucham. Służę wiedzą psychologiczną i doświadczeniem życiowym. 
+jestem, słucham. Zadaję dużo pytań, żeby lepiej zrozumieć. Służę wiedzą i doświadczeniem.
