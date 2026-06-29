@@ -13,7 +13,7 @@ jestem, słucham. Zadaję dużo pytań, żeby lepiej rozumieć. Dostarczam zewn�
 
 
 # Formalnie – wykształcenie i staże
-Mądrości szukałem na studiach filozoficznych na UMCS. <br>„W ludzi” uczyłem się na psychologii SWPS. <br>Doświadczenie zdobyłem w NZOZ Synapsis i Warszawskim Ośrodku Interwencji Kryzysowej.
+Mądrości szukałem na studiach filozoficznych na UMCS. <br>„W ludzi” uczyłem się na psychologii SWPS. <br>Doświadczenie zdobyłem w Grupie Synapsis i Warszawskim Ośrodku Interwencji Kryzysowej.
 
 
 # Nieformalnie – podejście do pracy i życia
