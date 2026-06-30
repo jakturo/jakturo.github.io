@@ -15,4 +15,4 @@ Płatność oznacza potwierdzenie wizyty i akceptację regulaminu:
 <br>BLIK: 790 251 025
 <br>przelew: 12 1020 3150 0000 3602 0180 5134
 
-*W ciągu 20 minut pierwszej konsultacji możesz się wycofać, a ja wtedy zwracam środki.
+*Jeśli w ciągu 20 minut uznasz, że nie chcesz kontynuować konsultacji, spotkanie jest bezpłatne. 
