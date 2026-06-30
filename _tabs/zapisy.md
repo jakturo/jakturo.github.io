@@ -5,7 +5,7 @@ icon: fas fa-user-plus
 order: 3
 
 ---
-**Konsultacja psychologiczna online**|0* – 180 zł / 20* – 50 m.
+**Konsultacja psychologiczna online**| 125 zł* / 50 m.
 
 Zadzwoń lub napisz aby umówić termin: 
 <br>790 251 025
